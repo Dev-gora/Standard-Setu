@@ -1,0 +1,705 @@
+{
+ "meta": {
+  "generated": "2026-09-27",
+  "note": "Fields a human must verify against official BIS / eGazette sources before the application may present them as established government facts."
+ },
+ "total_items": 87,
+ "items": [
+  {
+   "standard": "IS 383",
+   "field": "certification.mandatory",
+   "current_value": "mandatory: true",
+   "reason": "No QCO/government notification located that makes this mandatory.",
+   "suggested_official_source": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-i-mark-scheme/",
+   "severity": "high"
+  },
+  {
+   "standard": "IS 1239 (Part 1)",
+   "field": "certification.mandatory",
+   "current_value": "mandatory: true",
+   "reason": "No QCO/government notification located that makes this mandatory.",
+   "suggested_official_source": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-i-mark-scheme/",
+   "severity": "high"
+  },
+  {
+   "standard": "IS 1239 (Part 2)",
+   "field": "certification.mandatory",
+   "current_value": "mandatory: true",
+   "reason": "No QCO/government notification located that makes this mandatory.",
+   "suggested_official_source": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-i-mark-scheme/",
+   "severity": "high"
+  },
+  {
+   "standard": "IS 1161",
+   "field": "certification.mandatory",
+   "current_value": "mandatory: true",
+   "reason": "No QCO/government notification located that makes this mandatory.",
+   "suggested_official_source": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-i-mark-scheme/",
+   "severity": "high"
+  },
+  {
+   "standard": "IS 4923",
+   "field": "certification.mandatory",
+   "current_value": "mandatory: true",
+   "reason": "No QCO/government notification located that makes this mandatory.",
+   "suggested_official_source": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-i-mark-scheme/",
+   "severity": "high"
+  },
+  {
+   "standard": "IS 4985",
+   "field": "certification.mandatory",
+   "current_value": "mandatory: true",
+   "reason": "No QCO/government notification located that makes this mandatory.",
+   "suggested_official_source": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-i-mark-scheme/",
+   "severity": "high"
+  },
+  {
+   "standard": "IS 15778",
+   "field": "certification.mandatory",
+   "current_value": "mandatory: true",
+   "reason": "No QCO/government notification located that makes this mandatory.",
+   "suggested_official_source": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-i-mark-scheme/",
+   "severity": "high"
+  },
+  {
+   "standard": "IS 458",
+   "field": "certification.mandatory",
+   "current_value": "mandatory: true",
+   "reason": "No QCO/government notification located that makes this mandatory.",
+   "suggested_official_source": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-i-mark-scheme/",
+   "severity": "high"
+  },
+  {
+   "standard": "IS 1879",
+   "field": "certification.mandatory",
+   "current_value": "mandatory: true",
+   "reason": "No QCO/government notification located that makes this mandatory.",
+   "suggested_official_source": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-i-mark-scheme/",
+   "severity": "high"
+  },
+  {
+   "standard": "IS 8828",
+   "field": "certification.mandatory",
+   "current_value": "mandatory: true",
+   "reason": "No QCO/government notification located that makes this mandatory.",
+   "suggested_official_source": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-i-mark-scheme/",
+   "severity": "high"
+  },
+  {
+   "standard": "IS 2925",
+   "field": "certification.mandatory",
+   "current_value": "mandatory: true",
+   "reason": "No QCO/government notification located that makes this mandatory.",
+   "suggested_official_source": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-i-mark-scheme/",
+   "severity": "high"
+  },
+  {
+   "standard": "IS 15298 (Part 1)",
+   "field": "certification.mandatory",
+   "current_value": "mandatory: true",
+   "reason": "No QCO/government notification located that makes this mandatory.",
+   "suggested_official_source": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-i-mark-scheme/",
+   "severity": "high"
+  },
+  {
+   "standard": "IS 15683",
+   "field": "certification.mandatory",
+   "current_value": "mandatory: true",
+   "reason": "No QCO/government notification located that makes this mandatory.",
+   "suggested_official_source": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-i-mark-scheme/",
+   "severity": "high"
+  },
+  {
+   "standard": "IS 1077",
+   "field": "certification.mandatory",
+   "current_value": "mandatory: true",
+   "reason": "No QCO/government notification located that makes this mandatory.",
+   "suggested_official_source": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-i-mark-scheme/",
+   "severity": "high"
+  },
+  {
+   "standard": "IS 2180",
+   "field": "certification.mandatory",
+   "current_value": "mandatory: true",
+   "reason": "No QCO/government notification located that makes this mandatory.",
+   "suggested_official_source": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-i-mark-scheme/",
+   "severity": "high"
+  },
+  {
+   "standard": "IS 12894",
+   "field": "certification.mandatory",
+   "current_value": "mandatory: true",
+   "reason": "No QCO/government notification located that makes this mandatory.",
+   "suggested_official_source": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-i-mark-scheme/",
+   "severity": "high"
+  },
+  {
+   "standard": "IS 2185 (Part 1)",
+   "field": "certification.mandatory",
+   "current_value": "mandatory: true",
+   "reason": "No QCO/government notification located that makes this mandatory.",
+   "suggested_official_source": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-i-mark-scheme/",
+   "severity": "high"
+  },
+  {
+   "standard": "IS 13757",
+   "field": "certification.mandatory",
+   "current_value": "mandatory: true",
+   "reason": "No QCO/government notification located that makes this mandatory.",
+   "suggested_official_source": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-i-mark-scheme/",
+   "severity": "high"
+  },
+  {
+   "standard": "IS 3629",
+   "field": "certification.mandatory",
+   "current_value": "mandatory: true",
+   "reason": "No QCO/government notification located that makes this mandatory.",
+   "suggested_official_source": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-i-mark-scheme/",
+   "severity": "high"
+  },
+  {
+   "standard": "IS 710",
+   "field": "certification.mandatory",
+   "current_value": "mandatory: true",
+   "reason": "No QCO/government notification located that makes this mandatory.",
+   "suggested_official_source": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-i-mark-scheme/",
+   "severity": "high"
+  },
+  {
+   "standard": "IS 2932 (Part 1)",
+   "field": "certification.mandatory",
+   "current_value": "mandatory: true",
+   "reason": "No QCO/government notification located that makes this mandatory.",
+   "suggested_official_source": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-i-mark-scheme/",
+   "severity": "high"
+  },
+  {
+   "standard": "IS 2933",
+   "field": "certification.mandatory",
+   "current_value": "mandatory: true",
+   "reason": "No QCO/government notification located that makes this mandatory.",
+   "suggested_official_source": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-i-mark-scheme/",
+   "severity": "high"
+  },
+  {
+   "standard": "IS 428",
+   "field": "certification.mandatory",
+   "current_value": "mandatory: true",
+   "reason": "No QCO/government notification located that makes this mandatory.",
+   "suggested_official_source": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-i-mark-scheme/",
+   "severity": "high"
+  },
+  {
+   "standard": "IS 4984",
+   "field": "certification.mandatory",
+   "current_value": "mandatory: true",
+   "reason": "No QCO/government notification located that makes this mandatory.",
+   "suggested_official_source": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-i-mark-scheme/",
+   "severity": "high"
+  },
+  {
+   "standard": "IS 10146",
+   "field": "certification.mandatory",
+   "current_value": "mandatory: true",
+   "reason": "No QCO/government notification located that makes this mandatory.",
+   "suggested_official_source": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-i-mark-scheme/",
+   "severity": "high"
+  },
+  {
+   "standard": "IS 10151",
+   "field": "certification.mandatory",
+   "current_value": "mandatory: true",
+   "reason": "No QCO/government notification located that makes this mandatory.",
+   "suggested_official_source": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-i-mark-scheme/",
+   "severity": "high"
+  },
+  {
+   "standard": "IS 10910",
+   "field": "certification.mandatory",
+   "current_value": "mandatory: true",
+   "reason": "No QCO/government notification located that makes this mandatory.",
+   "suggested_official_source": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-i-mark-scheme/",
+   "severity": "high"
+  },
+  {
+   "standard": "IS 12252",
+   "field": "certification.mandatory",
+   "current_value": "mandatory: true",
+   "reason": "No QCO/government notification located that makes this mandatory.",
+   "suggested_official_source": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-i-mark-scheme/",
+   "severity": "high"
+  },
+  {
+   "standard": "IS 2116",
+   "field": "certification.mandatory",
+   "current_value": "mandatory: true",
+   "reason": "No QCO/government notification located that makes this mandatory.",
+   "suggested_official_source": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-i-mark-scheme/",
+   "severity": "high"
+  },
+  {
+   "standard": "IS 1542",
+   "field": "certification.mandatory",
+   "current_value": "mandatory: true",
+   "reason": "No QCO/government notification located that makes this mandatory.",
+   "suggested_official_source": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-i-mark-scheme/",
+   "severity": "high"
+  },
+  {
+   "standard": "IS 848 (Part 1)",
+   "field": "certification.mandatory",
+   "current_value": "mandatory: true",
+   "reason": "No QCO/government notification located that makes this mandatory.",
+   "suggested_official_source": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-i-mark-scheme/",
+   "severity": "high"
+  },
+  {
+   "standard": "IS 851",
+   "field": "certification.mandatory",
+   "current_value": "mandatory: true",
+   "reason": "No QCO/government notification located that makes this mandatory.",
+   "suggested_official_source": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-i-mark-scheme/",
+   "severity": "high"
+  },
+  {
+   "standard": "IS 4835",
+   "field": "certification.mandatory",
+   "current_value": "mandatory: true",
+   "reason": "No QCO/government notification located that makes this mandatory.",
+   "suggested_official_source": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-i-mark-scheme/",
+   "severity": "high"
+  },
+  {
+   "standard": "IS 1829 (Part 2)",
+   "field": "certification.mandatory",
+   "current_value": "mandatory: true",
+   "reason": "No QCO/government notification located that makes this mandatory.",
+   "suggested_official_source": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-i-mark-scheme/",
+   "severity": "high"
+  },
+  {
+   "standard": "IS 17631",
+   "field": "certification.mandatory",
+   "current_value": "mandatory: true",
+   "reason": "No QCO/government notification located that makes this mandatory.",
+   "suggested_official_source": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-i-mark-scheme/",
+   "severity": "high"
+  },
+  {
+   "standard": "IS 17637",
+   "field": "certification.mandatory",
+   "current_value": "mandatory: true",
+   "reason": "No QCO/government notification located that makes this mandatory.",
+   "suggested_official_source": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-i-mark-scheme/",
+   "severity": "high"
+  },
+  {
+   "standard": "IS 455",
+   "field": "certification.mandatory",
+   "current_value": "mandatory: true",
+   "reason": "No QCO/government notification located that makes this mandatory.",
+   "suggested_official_source": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-i-mark-scheme/",
+   "severity": "high"
+  },
+  {
+   "standard": "IS 3466",
+   "field": "certification.mandatory",
+   "current_value": "mandatory: true",
+   "reason": "No QCO/government notification located that makes this mandatory.",
+   "suggested_official_source": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-i-mark-scheme/",
+   "severity": "high"
+  },
+  {
+   "standard": "IS 6452",
+   "field": "certification.mandatory",
+   "current_value": "mandatory: true",
+   "reason": "No QCO/government notification located that makes this mandatory.",
+   "suggested_official_source": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-i-mark-scheme/",
+   "severity": "high"
+  },
+  {
+   "standard": "IS 6909",
+   "field": "certification.mandatory",
+   "current_value": "mandatory: true",
+   "reason": "No QCO/government notification located that makes this mandatory.",
+   "suggested_official_source": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-i-mark-scheme/",
+   "severity": "high"
+  },
+  {
+   "standard": "IS 8041",
+   "field": "certification.mandatory",
+   "current_value": "mandatory: true",
+   "reason": "No QCO/government notification located that makes this mandatory.",
+   "suggested_official_source": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-i-mark-scheme/",
+   "severity": "high"
+  },
+  {
+   "standard": "IS 8042",
+   "field": "certification.mandatory",
+   "current_value": "mandatory: true",
+   "reason": "No QCO/government notification located that makes this mandatory.",
+   "suggested_official_source": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-i-mark-scheme/",
+   "severity": "high"
+  },
+  {
+   "standard": "IS 8043",
+   "field": "certification.mandatory",
+   "current_value": "mandatory: true",
+   "reason": "No QCO/government notification located that makes this mandatory.",
+   "suggested_official_source": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-i-mark-scheme/",
+   "severity": "high"
+  },
+  {
+   "standard": "IS 8229",
+   "field": "certification.mandatory",
+   "current_value": "mandatory: true",
+   "reason": "No QCO/government notification located that makes this mandatory.",
+   "suggested_official_source": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-i-mark-scheme/",
+   "severity": "high"
+  },
+  {
+   "standard": "IS 12330",
+   "field": "certification.mandatory",
+   "current_value": "mandatory: true",
+   "reason": "No QCO/government notification located that makes this mandatory.",
+   "suggested_official_source": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-i-mark-scheme/",
+   "severity": "high"
+  },
+  {
+   "standard": "IS 12600",
+   "field": "certification.mandatory",
+   "current_value": "mandatory: true",
+   "reason": "No QCO/government notification located that makes this mandatory.",
+   "suggested_official_source": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-i-mark-scheme/",
+   "severity": "high"
+  },
+  {
+   "standard": "IS 16415",
+   "field": "certification.mandatory",
+   "current_value": "mandatory: true",
+   "reason": "No QCO/government notification located that makes this mandatory.",
+   "suggested_official_source": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-i-mark-scheme/",
+   "severity": "high"
+  },
+  {
+   "standard": "IS 16993",
+   "field": "certification.mandatory",
+   "current_value": "mandatory: true",
+   "reason": "No QCO/government notification located that makes this mandatory.",
+   "suggested_official_source": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-i-mark-scheme/",
+   "severity": "high"
+  },
+  {
+   "standard": "IS 15895",
+   "field": "certification.mandatory",
+   "current_value": "mandatory: true",
+   "reason": "No QCO/government notification located that makes this mandatory.",
+   "suggested_official_source": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-i-mark-scheme/",
+   "severity": "high"
+  },
+  {
+   "standard": "IS 432 (Part 1)",
+   "field": "certification.mandatory",
+   "current_value": "mandatory: true",
+   "reason": "No QCO/government notification located that makes this mandatory.",
+   "suggested_official_source": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-i-mark-scheme/",
+   "severity": "high"
+  },
+  {
+   "standard": "IS 226",
+   "field": "certification.mandatory",
+   "current_value": "mandatory: true",
+   "reason": "No QCO/government notification located that makes this mandatory.",
+   "suggested_official_source": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-i-mark-scheme/",
+   "severity": "high"
+  },
+  {
+   "standard": "IS 1367 (Part 1)",
+   "field": "certification.mandatory",
+   "current_value": "mandatory: true",
+   "reason": "No QCO/government notification located that makes this mandatory.",
+   "suggested_official_source": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-i-mark-scheme/",
+   "severity": "high"
+  },
+  {
+   "standard": "IS 733",
+   "field": "certification.mandatory",
+   "current_value": "mandatory: true",
+   "reason": "No QCO/government notification located that makes this mandatory.",
+   "suggested_official_source": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-i-mark-scheme/",
+   "severity": "high"
+  },
+  {
+   "standard": "IS 210",
+   "field": "certification.mandatory",
+   "current_value": "mandatory: true",
+   "reason": "No QCO/government notification located that makes this mandatory.",
+   "suggested_official_source": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-i-mark-scheme/",
+   "severity": "high"
+  },
+  {
+   "standard": "IS 1030",
+   "field": "certification.mandatory",
+   "current_value": "mandatory: true",
+   "reason": "No QCO/government notification located that makes this mandatory.",
+   "suggested_official_source": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-i-mark-scheme/",
+   "severity": "high"
+  },
+  {
+   "standard": "IS 3502",
+   "field": "certification.mandatory",
+   "current_value": "mandatory: true",
+   "reason": "No QCO/government notification located that makes this mandatory.",
+   "suggested_official_source": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-i-mark-scheme/",
+   "severity": "high"
+  },
+  {
+   "standard": "IS 1079",
+   "field": "certification.mandatory",
+   "current_value": "mandatory: true",
+   "reason": "No QCO/government notification located that makes this mandatory.",
+   "suggested_official_source": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-i-mark-scheme/",
+   "severity": "high"
+  },
+  {
+   "standard": "IS 513",
+   "field": "certification.mandatory",
+   "current_value": "mandatory: true",
+   "reason": "No QCO/government notification located that makes this mandatory.",
+   "suggested_official_source": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-i-mark-scheme/",
+   "severity": "high"
+  },
+  {
+   "standard": "IS 6911",
+   "field": "certification.mandatory",
+   "current_value": "mandatory: true",
+   "reason": "No QCO/government notification located that makes this mandatory.",
+   "suggested_official_source": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-i-mark-scheme/",
+   "severity": "high"
+  },
+  {
+   "standard": "IS 6603",
+   "field": "certification.mandatory",
+   "current_value": "mandatory: true",
+   "reason": "No QCO/government notification located that makes this mandatory.",
+   "suggested_official_source": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-i-mark-scheme/",
+   "severity": "high"
+  },
+  {
+   "standard": "IS 3952",
+   "field": "certification.mandatory",
+   "current_value": "mandatory: true",
+   "reason": "No QCO/government notification located that makes this mandatory.",
+   "suggested_official_source": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-i-mark-scheme/",
+   "severity": "high"
+  },
+  {
+   "standard": "IS 3590",
+   "field": "certification.mandatory",
+   "current_value": "mandatory: true",
+   "reason": "No QCO/government notification located that makes this mandatory.",
+   "suggested_official_source": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-i-mark-scheme/",
+   "severity": "high"
+  },
+  {
+   "standard": "IS 3115",
+   "field": "certification.mandatory",
+   "current_value": "mandatory: true",
+   "reason": "No QCO/government notification located that makes this mandatory.",
+   "suggested_official_source": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-i-mark-scheme/",
+   "severity": "high"
+  },
+  {
+   "standard": "IS 303",
+   "field": "certification.mandatory",
+   "current_value": "mandatory: true",
+   "reason": "No QCO/government notification located that makes this mandatory.",
+   "suggested_official_source": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-i-mark-scheme/",
+   "severity": "high"
+  },
+  {
+   "standard": "IS 2202 (Part 1)",
+   "field": "certification.mandatory",
+   "current_value": "mandatory: true",
+   "reason": "No QCO/government notification located that makes this mandatory.",
+   "suggested_official_source": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-i-mark-scheme/",
+   "severity": "high"
+  },
+  {
+   "standard": "IS 3097",
+   "field": "certification.mandatory",
+   "current_value": "mandatory: true",
+   "reason": "No QCO/government notification located that makes this mandatory.",
+   "suggested_official_source": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-i-mark-scheme/",
+   "severity": "high"
+  },
+  {
+   "standard": "IS 4990",
+   "field": "certification.mandatory",
+   "current_value": "mandatory: true",
+   "reason": "No QCO/government notification located that makes this mandatory.",
+   "suggested_official_source": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-i-mark-scheme/",
+   "severity": "high"
+  },
+  {
+   "standard": "IS 1659",
+   "field": "certification.mandatory",
+   "current_value": "mandatory: true",
+   "reason": "No QCO/government notification located that makes this mandatory.",
+   "suggested_official_source": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-i-mark-scheme/",
+   "severity": "high"
+  },
+  {
+   "standard": "IS 2074",
+   "field": "certification.mandatory",
+   "current_value": "mandatory: true",
+   "reason": "No QCO/government notification located that makes this mandatory.",
+   "suggested_official_source": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-i-mark-scheme/",
+   "severity": "high"
+  },
+  {
+   "standard": "IS 133",
+   "field": "certification.mandatory",
+   "current_value": "mandatory: true",
+   "reason": "No QCO/government notification located that makes this mandatory.",
+   "suggested_official_source": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-i-mark-scheme/",
+   "severity": "high"
+  },
+  {
+   "standard": "IS 337",
+   "field": "certification.mandatory",
+   "current_value": "mandatory: true",
+   "reason": "No QCO/government notification located that makes this mandatory.",
+   "suggested_official_source": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-i-mark-scheme/",
+   "severity": "high"
+  },
+  {
+   "standard": "IS 5411 (Part 1)",
+   "field": "certification.mandatory",
+   "current_value": "mandatory: true",
+   "reason": "No QCO/government notification located that makes this mandatory.",
+   "suggested_official_source": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-i-mark-scheme/",
+   "severity": "high"
+  },
+  {
+   "standard": "IS 14735",
+   "field": "certification.mandatory",
+   "current_value": "mandatory: true",
+   "reason": "No QCO/government notification located that makes this mandatory.",
+   "suggested_official_source": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-i-mark-scheme/",
+   "severity": "high"
+  },
+  {
+   "standard": "IS 7834 (Part 1)",
+   "field": "certification.mandatory",
+   "current_value": "mandatory: true",
+   "reason": "No QCO/government notification located that makes this mandatory.",
+   "suggested_official_source": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-i-mark-scheme/",
+   "severity": "high"
+  },
+  {
+   "standard": "IS 12786",
+   "field": "certification.mandatory",
+   "current_value": "mandatory: true",
+   "reason": "No QCO/government notification located that makes this mandatory.",
+   "suggested_official_source": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-i-mark-scheme/",
+   "severity": "high"
+  },
+  {
+   "standard": "IS 1729",
+   "field": "certification.mandatory",
+   "current_value": "mandatory: true",
+   "reason": "No QCO/government notification located that makes this mandatory.",
+   "suggested_official_source": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-i-mark-scheme/",
+   "severity": "high"
+  },
+  {
+   "standard": "IS 8329",
+   "field": "certification.mandatory",
+   "current_value": "mandatory: true",
+   "reason": "No QCO/government notification located that makes this mandatory.",
+   "suggested_official_source": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-i-mark-scheme/",
+   "severity": "high"
+  },
+  {
+   "standard": "IS 3589",
+   "field": "certification.mandatory",
+   "current_value": "mandatory: true",
+   "reason": "No QCO/government notification located that makes this mandatory.",
+   "suggested_official_source": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-i-mark-scheme/",
+   "severity": "high"
+  },
+  {
+   "standard": "IS 780",
+   "field": "certification.mandatory",
+   "current_value": "mandatory: true",
+   "reason": "No QCO/government notification located that makes this mandatory.",
+   "suggested_official_source": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-i-mark-scheme/",
+   "severity": "high"
+  },
+  {
+   "standard": "IS 14846",
+   "field": "certification.mandatory",
+   "current_value": "mandatory: true",
+   "reason": "No QCO/government notification located that makes this mandatory.",
+   "suggested_official_source": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-i-mark-scheme/",
+   "severity": "high"
+  },
+  {
+   "standard": "IS 1554 (Part 1)",
+   "field": "certification.mandatory",
+   "current_value": "mandatory: true",
+   "reason": "No QCO/government notification located that makes this mandatory.",
+   "suggested_official_source": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-i-mark-scheme/",
+   "severity": "high"
+  },
+  {
+   "standard": "IS 7098 (Part 1)",
+   "field": "certification.mandatory",
+   "current_value": "mandatory: true",
+   "reason": "No QCO/government notification located that makes this mandatory.",
+   "suggested_official_source": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-i-mark-scheme/",
+   "severity": "high"
+  },
+  {
+   "standard": "IS 3854",
+   "field": "certification.mandatory",
+   "current_value": "mandatory: true",
+   "reason": "No QCO/government notification located that makes this mandatory.",
+   "suggested_official_source": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-i-mark-scheme/",
+   "severity": "high"
+  },
+  {
+   "standard": "IS 5983",
+   "field": "certification.mandatory",
+   "current_value": "mandatory: true",
+   "reason": "No QCO/government notification located that makes this mandatory.",
+   "suggested_official_source": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-i-mark-scheme/",
+   "severity": "high"
+  },
+  {
+   "standard": "IS 4770",
+   "field": "certification.mandatory",
+   "current_value": "mandatory: true",
+   "reason": "No QCO/government notification located that makes this mandatory.",
+   "suggested_official_source": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-i-mark-scheme/",
+   "severity": "high"
+  },
+  {
+   "standard": "IS 4364",
+   "field": "certification.mandatory",
+   "current_value": "mandatory: true",
+   "reason": "No QCO/government notification located that makes this mandatory.",
+   "suggested_official_source": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-i-mark-scheme/",
+   "severity": "high"
+  },
+  {
+   "standard": "IS 269",
+   "field": "certification.note",
+   "current_value": "mandatory under Cement Quality Control Order 2023",
+   "reason": "The fetched official BIS page lists the Cement QCO 2003 (S.O. 191(E)); the 2023 order reference needs confirmation.",
+   "suggested_official_source": "https://egazette.gov.in / BIS Scheme-1 page",
+   "severity": "low"
+  }
+ ]
+}

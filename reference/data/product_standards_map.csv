@@ -1,0 +1,26 @@
+product_category,keywords,is_number,title,description
+electrical appliances,"electrical,appliance,power,electric,household,plug,socket,wire,cable",IS 302,Safety of household and similar electrical appliances,General safety requirements for household electrical appliances
+electrical appliances,"washing machine,refrigerator,air conditioner,compressor,motor,fan,heater",IS 302 Part 2,Particular requirements for specific appliances,Specific safety requirements for particular appliance types
+wires and cables,"wire,cable,insulation,power transmission,flexible,armoured",IS 1554,Insulated cables for working voltages up to 1100V,Requirements for PVC insulated cables
+wires and cables,"wire,cable,house wiring,flexible cord",IS 694,PVC insulated cables for voltages up to 650/1100V,Specification for rigid PVC conduit and fittings
+packaged water,"water,drinking,bottle,packaged,mineral,drinking water",IS 14543,Packaged drinking water,Requirements for packaged drinking water
+packaged food,"food,packaged,edible,oil,milk,spice,flour,rice,pulse",IS 1165,Application of the terms mark and name on processed foods,Labelling requirements for processed food products
+food products,"food,fssai,labelling,packaging,nutrition,ingredient",IS 15757,General requirements for pre-packaged foods,General labelling and packaging requirements for pre-packaged foods
+toys,"toys,children,kids,play,doll,game,building,blocks,puzzle",IS 9873,Safety of toys,Safety requirements for toys including mechanical physical flammability and chemical
+toys,"toy safety,children product,infant,teether,educational toy,soft toy",IS 15644,Safety of toys for electronic toys,Additional safety requirements for electronic and radar type toys
+textiles,"textile,fabric,cloth,cotton,synthetic,garment,shirt,pants,dress,sari",IS 1966,Fastness of dyed and printed textiles,Colour fastness requirements for textiles
+textiles,"cotton,textile,label,wash care,marking,garment,apparel,woolen",IS 14878,General requirements for labelling of textiles,Labelling and care instructions for textile products
+textiles,"denim,jean,trouser,blue,jeans",IS 17723,Fastness of colour to washing of dyed denim fabrics,Requirements for denim fabric colour fastness
+steel,"steel,iron,metal,rod,bar,tube,pipe,sheet,plate",IS 2062,Steel for general structural purposes,Chemical and mechanical requirements for structural steel
+steel,"stainless steel,utensil,kitchen,cooking,pan,vessel",IS 13593,Chromium nickel austenitic stainless steel,Requirements for stainless steel
+cement,"cement,concrete,building,construction,OPC,PPC,sand",IS 455,Portland slag cement,Specification for Portland slag cement
+cement,"cement,OPC,ordinary,Portland,building material,construction",IS 269,Ordinary Portland cement 33 grade,Specification for 33 grade ordinary Portland cement
+plastics,"plastic,polymer,bottle,container,packaging,HDPE,LDPE,PET,pipe",IS 10146,Polyethylene moulding and extrusion materials,Requirements for polyethylene materials used in moulding and extrusion
+plastics,"plastic pipe,water pipe,PVC,fitting,plumbing,sanitary",IS 4985,PVC pipes for potable water supply,Specification for unplasticized PVC pipes for drinking water
+plastics,"plastic bag,polythene,carry bag,shopping bag,packaging film",IS 15627,Polythene bags for packaging,Requirements for polythene bags used for various packaging purposes
+gold jewelry,"gold,jewelry,jewellery,ring,necklace,bangle,bracelet,hallmark",IS 1417,Gold jewelry determination of purity,Quality standards for gold jewelry including hallmarking requirements
+gold jewelry,"hallmark,huid,gold purity,carat,karat,22k,18k,14k",IS 1418,Gold silver jewelry hallmarks,Quality standards for precious metal jewelry
+batteries,"battery,cell,accumulator,rechargeable,dry cell,lead acid,inverter",IS 8144,Lead-acid starter batteries,Requirements for lead-acid batteries for automotive use
+solar panels,"solar,panel,photovoltaic,PV,renewable,energy module,inverter",IS 14286,Terrestrial photovoltaic PV modules,Design qualification and type approval for solar PV modules
+LPG,"LPG,gas,cooking gas,cylinder,stove,burner,regulator",IS 3156,LPG burners for domestic cooking,Safety requirements for LPG domestic cooking burners
+helmets,"helmet,safety helmet,bike helmet,motorcycle,riding,two wheeler",IS 4151,Protective helmets for two-wheeler riders,Safety requirements and test methods for motorcycle helmets

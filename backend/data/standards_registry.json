@@ -1,0 +1,2599 @@
+{
+ "meta": {
+  "source": "SIH26108 curated standards dataset (standards_metadata.pkl)",
+  "exported_on": "2026-09-26",
+  "count": 130,
+  "disclaimer": "Hand-curated metadata — verify against bis.gov.in before citing in real tenders.",
+  "provenance_audit": "2026-09-27: government-source audit applied - see government_sources.json, data_corrections.json, government_verification_report.json"
+ },
+ "standards": [
+  {
+   "is_number": "IS 269:2015",
+   "is_number_clean": "IS 269",
+   "core_number": "269",
+   "title": "Ordinary Portland Cement - Specification",
+   "category": "Cement & Concrete",
+   "scope_description": "Covers the manufacture and chemical and physical requirements of ordinary Portland cement, applicable to grades 33, 43 and 53 including sleeper grades 43S and 53S used in general construction",
+   "latest_version": "2015 (Sixth Revision)",
+   "amendment": "Amendment 1 (2023)",
+   "normative_refs": [
+    "IS 3535",
+    "IS 4031"
+   ],
+   "certification": {
+    "mandatory": true,
+    "scheme": "ISI Mark",
+    "note": "mandatory under Cement Quality Control Order 2023"
+   },
+   "combined_text": "Ordinary Portland Cement - Specification. Covers the manufacture and chemical and physical requirements of ordinary Portland cement, applicable to grades 33, 43 and 53 including sleeper grades 43S and 53S used in general construction. Category: Cement & Concrete"
+  },
+  {
+   "is_number": "IS 456:2000",
+   "is_number_clean": "IS 456",
+   "core_number": "456",
+   "title": "Plain and Reinforced Concrete - Code of Practice",
+   "category": "Cement & Concrete",
+   "scope_description": "Provides comprehensive guidelines on material specifications, design methodologies (working stress and limit state), detailing, construction practices and quality control for structural use of plain and reinforced concrete",
+   "latest_version": "2000 (Fourth Revision)",
+   "amendment": "Reaffirmed 2021",
+   "normative_refs": [
+    "IS 269",
+    "IS 383",
+    "IS 9103",
+    "IS 1489"
+   ],
+   "certification": {
+    "mandatory": false,
+    "scheme": "Code of Practice",
+    "note": "not a certifiable product standard"
+   },
+   "combined_text": "Plain and Reinforced Concrete - Code of Practice. Provides comprehensive guidelines on material specifications, design methodologies (working stress and limit state), detailing, construction practices and quality control for structural use of plain and reinforced concrete. Category: Cement & Concrete"
+  },
+  {
+   "is_number": "IS 1489 (Part 1):2015",
+   "is_number_clean": "IS 1489 (Part 1)",
+   "core_number": "1489",
+   "title": "Portland Pozzolana Cement (Fly Ash Based) - Specification",
+   "category": "Cement & Concrete",
+   "scope_description": "Specifies requirements for fly-ash based Portland Pozzolana Cement used as an alternative binding material to Ordinary Portland Cement in general construction work",
+   "latest_version": "2015",
+   "amendment": "Reaffirmed 2020",
+   "normative_refs": [
+    "IS 269",
+    "IS 3812",
+    "IS 4031"
+   ],
+   "certification": {
+    "mandatory": true,
+    "scheme": "ISI Mark",
+    "note": ""
+   },
+   "combined_text": "Portland Pozzolana Cement (Fly Ash Based) - Specification. Specifies requirements for fly-ash based Portland Pozzolana Cement used as an alternative binding material to Ordinary Portland Cement in general construction work. Category: Cement & Concrete"
+  },
+  {
+   "is_number": "IS 383:2016",
+   "is_number_clean": "IS 383",
+   "core_number": "383",
+   "title": "Coarse and Fine Aggregates for Concrete - Specification",
+   "category": "Cement & Concrete",
+   "scope_description": "Specifies requirements for grading and quality of natural and manufactured (crushed) coarse and fine aggregates used in the production of concrete",
+   "latest_version": "2016 (Third Revision)",
+   "amendment": "Amendment 1 (2018)",
+   "normative_refs": [
+    "IS 456",
+    "IS 2386"
+   ],
+   "certification": {
+    "mandatory": true,
+    "scheme": "ISI Mark",
+    "note": ""
+   },
+   "combined_text": "Coarse and Fine Aggregates for Concrete - Specification. Specifies requirements for grading and quality of natural and manufactured (crushed) coarse and fine aggregates used in the production of concrete. Category: Cement & Concrete"
+  },
+  {
+   "is_number": "IS 4031 (Part 1-13)",
+   "is_number_clean": "IS 4031 (Part 1-13)",
+   "core_number": "4031",
+   "title": "Methods of Physical Tests for Hydraulic Cement",
+   "category": "Cement & Concrete",
+   "scope_description": "Specifies laboratory test methods for determining fineness, setting time, soundness, and compressive strength of hydraulic cement; referenced by cement product standards for quality verification",
+   "latest_version": "Multi-part standard",
+   "amendment": "Various parts revised separately",
+   "normative_refs": [
+    "IS 269",
+    "IS 1489"
+   ],
+   "certification": {
+    "mandatory": false,
+    "scheme": "Test method standard",
+    "note": ""
+   },
+   "combined_text": "Methods of Physical Tests for Hydraulic Cement. Specifies laboratory test methods for determining fineness, setting time, soundness, and compressive strength of hydraulic cement; referenced by cement product standards for quality verification. Category: Cement & Concrete"
+  },
+  {
+   "is_number": "IS 1489 (Part 2):1991",
+   "is_number_clean": "IS 1489 (Part 2)",
+   "core_number": "1489",
+   "title": "Portland Pozzolana Cement (Calcined Clay Based) - Specification",
+   "category": "Cement & Concrete",
+   "scope_description": "Specifies requirements for calcined clay based Portland Pozzolana Cement for use in general construction",
+   "latest_version": "2015 (Fourth Revision)",
+   "amendment": "",
+   "normative_refs": [
+    "IS 269",
+    "IS 1344"
+   ],
+   "certification": {
+    "mandatory": true,
+    "scheme": "ISI Mark",
+    "note": ""
+   },
+   "combined_text": "Portland Pozzolana Cement (Calcined Clay Based) - Specification. Specifies requirements for calcined clay based Portland Pozzolana Cement for use in general construction. Category: Cement & Concrete"
+  },
+  {
+   "is_number": "IS 1239 (Part 1):2004",
+   "is_number_clean": "IS 1239 (Part 1)",
+   "core_number": "1239",
+   "title": "Steel Tubes - Specification (Mild Steel Tubes)",
+   "category": "Steel & Metal Products",
+   "scope_description": "Covers requirements for welded and seamless plain end or screwed and socketed steel tubes intended for conveying water, non-hazardous gas, air and steam, applicable to sizes from 6 mm to 150 mm nominal bore",
+   "latest_version": "2004 (Sixth Revision)",
+   "amendment": "Amendment 4",
+   "normative_refs": [
+    "IS 1387",
+    "IS 2062",
+    "IS 10748"
+   ],
+   "certification": {
+    "mandatory": true,
+    "scheme": "ISI Mark",
+    "note": ""
+   },
+   "combined_text": "Steel Tubes - Specification (Mild Steel Tubes). Covers requirements for welded and seamless plain end or screwed and socketed steel tubes intended for conveying water, non-hazardous gas, air and steam, applicable to sizes from 6 mm to 150 mm nominal bore. Category: Steel & Metal Products"
+  },
+  {
+   "is_number": "IS 1239 (Part 2):2011",
+   "is_number_clean": "IS 1239 (Part 2)",
+   "core_number": "1239",
+   "title": "Steel Pipe Fittings - Specification",
+   "category": "Steel & Metal Products",
+   "scope_description": "Covers requirements for mild steel socket, tubulars and other wrought steel pipe fittings used along with IS 1239 Part 1 steel tubes",
+   "latest_version": "2011 (Fourth Revision)",
+   "amendment": "Reaffirmed 2017",
+   "normative_refs": [
+    "IS 1239 (Part 1)",
+    "IS 1387"
+   ],
+   "certification": {
+    "mandatory": true,
+    "scheme": "ISI Mark",
+    "note": ""
+   },
+   "combined_text": "Steel Pipe Fittings - Specification. Covers requirements for mild steel socket, tubulars and other wrought steel pipe fittings used along with IS 1239 Part 1 steel tubes. Category: Steel & Metal Products"
+  },
+  {
+   "is_number": "IS 1161:2014",
+   "is_number_clean": "IS 1161",
+   "core_number": "1161",
+   "title": "Steel Tubes for Structural Purposes - Specification",
+   "category": "Steel & Metal Products",
+   "scope_description": "Covers requirements for hot-finished welded and seamless, and cold-formed welded carbon steel tubes intended for structural purposes such as building frames and towers",
+   "latest_version": "2014 (Fifth Revision)",
+   "amendment": "Reaffirmed 2019",
+   "normative_refs": [
+    "IS 228",
+    "IS 2062",
+    "IS 1608",
+    "IS 4711"
+   ],
+   "certification": {
+    "mandatory": true,
+    "scheme": "ISI Mark",
+    "note": ""
+   },
+   "combined_text": "Steel Tubes for Structural Purposes - Specification. Covers requirements for hot-finished welded and seamless, and cold-formed welded carbon steel tubes intended for structural purposes such as building frames and towers. Category: Steel & Metal Products"
+  },
+  {
+   "is_number": "IS 2062:2011",
+   "is_number_clean": "IS 2062",
+   "core_number": "2062",
+   "title": "Hot Rolled Medium and High Tensile Structural Steel - Specification",
+   "category": "Steel & Metal Products",
+   "scope_description": "Specifies requirements for hot rolled structural steel plates, sections and flats used in general engineering, structural, and welded construction applications",
+   "latest_version": "2011 (Seventh Revision)",
+   "amendment": "Amendment 2",
+   "normative_refs": [
+    "IS 1852",
+    "IS 1608",
+    "IS 228"
+   ],
+   "certification": {
+    "mandatory": true,
+    "scheme": "ISI Mark",
+    "note": ""
+   },
+   "combined_text": "Hot Rolled Medium and High Tensile Structural Steel - Specification. Specifies requirements for hot rolled structural steel plates, sections and flats used in general engineering, structural, and welded construction applications. Category: Steel & Metal Products"
+  },
+  {
+   "is_number": "IS 4923:2017",
+   "is_number_clean": "IS 4923",
+   "core_number": "4923",
+   "title": "Hollow Steel Sections for Structural Use - Specification",
+   "category": "Steel & Metal Products",
+   "scope_description": "Covers requirements for cold-formed welded and seamless hollow steel sections (square, rectangular, circular) used for structural framing and general engineering purposes",
+   "latest_version": "2017 (Third Revision)",
+   "amendment": "Reaffirmed 2022",
+   "normative_refs": [
+    "IS 1161",
+    "IS 2062",
+    "IS 10748"
+   ],
+   "certification": {
+    "mandatory": true,
+    "scheme": "ISI Mark",
+    "note": ""
+   },
+   "combined_text": "Hollow Steel Sections for Structural Use - Specification. Covers requirements for cold-formed welded and seamless hollow steel sections (square, rectangular, circular) used for structural framing and general engineering purposes. Category: Steel & Metal Products"
+  },
+  {
+   "is_number": "IS 1387:1993",
+   "is_number_clean": "IS 1387",
+   "core_number": "1387",
+   "title": "General Requirements for Supply of Metallurgical Materials",
+   "category": "Steel & Metal Products",
+   "scope_description": "Specifies general conditions applicable to the supply of steel and other metallurgical materials including testing, sampling, and marking requirements referenced by product-specific steel standards",
+   "latest_version": "1993 (Second Revision)",
+   "amendment": "Reaffirmed 2019",
+   "normative_refs": [
+    "IS 228"
+   ],
+   "certification": {
+    "mandatory": false,
+    "scheme": "General/allied requirements standard",
+    "note": ""
+   },
+   "combined_text": "General Requirements for Supply of Metallurgical Materials. Specifies general conditions applicable to the supply of steel and other metallurgical materials including testing, sampling, and marking requirements referenced by product-specific steel standards. Category: Steel & Metal Products"
+  },
+  {
+   "is_number": "IS 4985:2021",
+   "is_number_clean": "IS 4985",
+   "core_number": "4985",
+   "title": "Unplasticized PVC Pipes for Potable Water Supply - Specification",
+   "category": "Water Supply & Pipes",
+   "scope_description": "Specifies requirements for unplasticized Polyvinyl Chloride (uPVC) pipes used for conveyance of potable water under pressure, covering dimensions, materials and test methods",
+   "latest_version": "2021 (Fourth Revision)",
+   "amendment": "Reaffirmed 2021",
+   "normative_refs": [
+    "IS 12235",
+    "IS 4985",
+    "IS 2530"
+   ],
+   "certification": {
+    "mandatory": true,
+    "scheme": "ISI Mark",
+    "note": ""
+   },
+   "combined_text": "Unplasticized PVC Pipes for Potable Water Supply - Specification. Specifies requirements for unplasticized Polyvinyl Chloride (uPVC) pipes used for conveyance of potable water under pressure, covering dimensions, materials and test methods. Category: Water Supply & Pipes"
+  },
+  {
+   "is_number": "IS 15778:2007",
+   "is_number_clean": "IS 15778",
+   "core_number": "15778",
+   "title": "High Density Polyethylene (HDPE) Pipes for Water Supply - Specification",
+   "category": "Water Supply & Pipes",
+   "scope_description": "Specifies requirements for HDPE pipes intended for potable water supply and general water conveyance applications, including pressure ratings and dimensional tolerances",
+   "latest_version": "2007",
+   "amendment": "Reaffirmed 2018",
+   "normative_refs": [
+    "IS 4984",
+    "IS 14885"
+   ],
+   "certification": {
+    "mandatory": true,
+    "scheme": "ISI Mark",
+    "note": ""
+   },
+   "combined_text": "High Density Polyethylene (HDPE) Pipes for Water Supply - Specification. Specifies requirements for HDPE pipes intended for potable water supply and general water conveyance applications, including pressure ratings and dimensional tolerances. Category: Water Supply & Pipes"
+  },
+  {
+   "is_number": "IS 458:2003",
+   "is_number_clean": "IS 458",
+   "core_number": "458",
+   "title": "Precast Concrete Pipes (With and Without Reinforcement) - Specification",
+   "category": "Water Supply & Pipes",
+   "scope_description": "Covers requirements for plain and reinforced precast concrete pipes used for drainage, sewerage, and water supply applications in various pressure classes",
+   "latest_version": "2003 (Fourth Revision)",
+   "amendment": "Amendment 3",
+   "normative_refs": [
+    "IS 456",
+    "IS 783"
+   ],
+   "certification": {
+    "mandatory": true,
+    "scheme": "ISI Mark",
+    "note": ""
+   },
+   "combined_text": "Precast Concrete Pipes (With and Without Reinforcement) - Specification. Covers requirements for plain and reinforced precast concrete pipes used for drainage, sewerage, and water supply applications in various pressure classes. Category: Water Supply & Pipes"
+  },
+  {
+   "is_number": "IS 1879:1987",
+   "is_number_clean": "IS 1879",
+   "core_number": "1879",
+   "title": "Malleable Cast Iron Pipe Fittings - Specification",
+   "category": "Water Supply & Pipes",
+   "scope_description": "Specifies requirements for malleable cast iron fittings used for jointing galvanized steel or wrought iron pipes in water supply and plumbing systems",
+   "latest_version": "1987 (Third Revision)",
+   "amendment": "Reaffirmed 2010",
+   "normative_refs": [
+    "IS 1239",
+    "IS 554"
+   ],
+   "certification": {
+    "mandatory": true,
+    "scheme": "ISI Mark",
+    "note": ""
+   },
+   "combined_text": "Malleable Cast Iron Pipe Fittings - Specification. Specifies requirements for malleable cast iron fittings used for jointing galvanized steel or wrought iron pipes in water supply and plumbing systems. Category: Water Supply & Pipes"
+  },
+  {
+   "is_number": "IS 2065:1983",
+   "is_number_clean": "IS 2065",
+   "core_number": "2065",
+   "title": "Code of Practice for Water Supply in Buildings",
+   "category": "Water Supply & Pipes",
+   "scope_description": "Provides guidelines for the design, layout, and installation of water supply systems within residential, commercial and industrial buildings",
+   "latest_version": "1983 (Second Revision)",
+   "amendment": "Reaffirmed 2017",
+   "normative_refs": [
+    "IS 1239",
+    "IS 4985",
+    "IS 2064"
+   ],
+   "certification": {
+    "mandatory": false,
+    "scheme": "Code of Practice",
+    "note": ""
+   },
+   "combined_text": "Code of Practice for Water Supply in Buildings. Provides guidelines for the design, layout, and installation of water supply systems within residential, commercial and industrial buildings. Category: Water Supply & Pipes"
+  },
+  {
+   "is_number": "IS 732:2019",
+   "is_number_clean": "IS 732",
+   "core_number": "732",
+   "title": "Code of Practice for Electrical Wiring Installations",
+   "category": "Electrical & Wiring",
+   "scope_description": "Provides guidelines for design, selection of materials, and execution of electrical wiring installations in buildings for safety and reliable operation",
+   "latest_version": "2019 (Fourth Revision)",
+   "amendment": "Reaffirmed 2019",
+   "normative_refs": [
+    "IS 694",
+    "IS 5216",
+    "IS 3043"
+   ],
+   "certification": {
+    "mandatory": false,
+    "scheme": "Code of Practice",
+    "note": ""
+   },
+   "combined_text": "Code of Practice for Electrical Wiring Installations. Provides guidelines for design, selection of materials, and execution of electrical wiring installations in buildings for safety and reliable operation. Category: Electrical & Wiring"
+  },
+  {
+   "is_number": "IS 694:2010",
+   "is_number_clean": "IS 694",
+   "core_number": "694",
+   "title": "PVC Insulated Cables for Working Voltages up to 1100V - Specification",
+   "category": "Electrical & Wiring",
+   "scope_description": "Specifies requirements for PVC insulated electric cables used for wiring installations with working voltages up to and including 1100 volts",
+   "latest_version": "2010 (Third Revision)",
+   "amendment": "Amendment 2",
+   "normative_refs": [
+    "IS 8130",
+    "IS 5831"
+   ],
+   "certification": {
+    "mandatory": true,
+    "scheme": "ISI Mark",
+    "note": ""
+   },
+   "combined_text": "PVC Insulated Cables for Working Voltages up to 1100V - Specification. Specifies requirements for PVC insulated electric cables used for wiring installations with working voltages up to and including 1100 volts. Category: Electrical & Wiring"
+  },
+  {
+   "is_number": "IS 3043:2018",
+   "is_number_clean": "IS 3043",
+   "core_number": "3043",
+   "title": "Code of Practice for Earthing",
+   "category": "Electrical & Wiring",
+   "scope_description": "Provides guidelines for the design and installation of earthing systems for electrical installations to ensure safety against electric shock and equipment damage",
+   "latest_version": "2018 (Second Revision)",
+   "amendment": "Reaffirmed 2018",
+   "normative_refs": [
+    "IS 732",
+    "IS 3070"
+   ],
+   "certification": {
+    "mandatory": false,
+    "scheme": "Code of Practice",
+    "note": ""
+   },
+   "combined_text": "Code of Practice for Earthing. Provides guidelines for the design and installation of earthing systems for electrical installations to ensure safety against electric shock and equipment damage. Category: Electrical & Wiring"
+  },
+  {
+   "is_number": "IS 8828:1996",
+   "is_number_clean": "IS 8828",
+   "core_number": "8828",
+   "title": "Miniature Circuit Breakers (MCBs) for AC Circuits - Specification",
+   "category": "Electrical & Wiring",
+   "scope_description": "Specifies requirements for miniature circuit breakers used for overload and short-circuit protection in household and similar electrical installations",
+   "latest_version": "1996",
+   "amendment": "Reaffirmed 2013",
+   "normative_refs": [
+    "IS 60898",
+    "IS 13947"
+   ],
+   "certification": {
+    "mandatory": true,
+    "scheme": "ISI Mark / CRS",
+    "note": "for electronic variants"
+   },
+   "combined_text": "Miniature Circuit Breakers (MCBs) for AC Circuits - Specification. Specifies requirements for miniature circuit breakers used for overload and short-circuit protection in household and similar electrical installations. Category: Electrical & Wiring"
+  },
+  {
+   "is_number": "IS 5216 (Part 1):1982",
+   "is_number_clean": "IS 5216 (Part 1)",
+   "core_number": "5216",
+   "title": "Guide for Safety Procedures and Practices in Electrical Work",
+   "category": "Electrical & Wiring",
+   "scope_description": "Provides recommended safety practices and procedures for personnel engaged in electrical installation, maintenance, and repair work",
+   "latest_version": "1982",
+   "amendment": "Reaffirmed 2016",
+   "normative_refs": [
+    "IS 732",
+    "IS 3043"
+   ],
+   "certification": {
+    "mandatory": false,
+    "scheme": "Guidance document",
+    "note": ""
+   },
+   "combined_text": "Guide for Safety Procedures and Practices in Electrical Work. Provides recommended safety practices and procedures for personnel engaged in electrical installation, maintenance, and repair work. Category: Electrical & Wiring"
+  },
+  {
+   "is_number": "IS 2925:1984",
+   "is_number_clean": "IS 2925",
+   "core_number": "2925",
+   "title": "Industrial Safety Helmets - Specification",
+   "category": "Safety Equipment",
+   "scope_description": "Specifies requirements for protective industrial safety helmets used to protect the wearer's head from impact, penetration, and electrical hazards in industrial and construction settings",
+   "latest_version": "1984",
+   "amendment": "Reaffirmed 2015",
+   "normative_refs": [
+    "IS 2925",
+    "IS 6913"
+   ],
+   "certification": {
+    "mandatory": true,
+    "scheme": "ISI Mark",
+    "note": ""
+   },
+   "combined_text": "Industrial Safety Helmets - Specification. Specifies requirements for protective industrial safety helmets used to protect the wearer's head from impact, penetration, and electrical hazards in industrial and construction settings. Category: Safety Equipment"
+  },
+  {
+   "is_number": "IS 15298 (Part 1):2015",
+   "is_number_clean": "IS 15298 (Part 1)",
+   "core_number": "15298",
+   "title": "Personal Protective Equipment - General Requirements",
+   "category": "Safety Equipment",
+   "scope_description": "Specifies general requirements for personal protective equipment (PPE) including ergonomics, innocuousness, and manufacturer information applicable across PPE categories",
+   "latest_version": "2015",
+   "amendment": "Reaffirmed 2020",
+   "normative_refs": [
+    "IS 15298 (Part 2)",
+    "IS 15298 (Part 3)"
+   ],
+   "certification": {
+    "mandatory": true,
+    "scheme": "ISI Mark",
+    "note": "mandatory under PPE QCO"
+   },
+   "combined_text": "Personal Protective Equipment - General Requirements. Specifies general requirements for personal protective equipment (PPE) including ergonomics, innocuousness, and manufacturer information applicable across PPE categories. Category: Safety Equipment"
+  },
+  {
+   "is_number": "IS 2190:2010",
+   "is_number_clean": "IS 2190",
+   "core_number": "2190",
+   "title": "Code of Practice for Selection, Installation and Maintenance of Fire Extinguishers",
+   "category": "Safety Equipment",
+   "scope_description": "Provides guidelines for selecting appropriate fire extinguisher types, correct installation locations, and maintenance schedules for fire safety in buildings",
+   "latest_version": "2010 (Fourth Revision)",
+   "amendment": "Reaffirmed 2015",
+   "normative_refs": [
+    "IS 2171",
+    "IS 940",
+    "IS 15683"
+   ],
+   "certification": {
+    "mandatory": false,
+    "scheme": "Code of Practice",
+    "note": ""
+   },
+   "combined_text": "Code of Practice for Selection, Installation and Maintenance of Fire Extinguishers. Provides guidelines for selecting appropriate fire extinguisher types, correct installation locations, and maintenance schedules for fire safety in buildings. Category: Safety Equipment"
+  },
+  {
+   "is_number": "IS 15683:2018",
+   "is_number_clean": "IS 15683",
+   "core_number": "15683",
+   "title": "Portable Fire Extinguishers - Specification",
+   "category": "Safety Equipment",
+   "scope_description": "Specifies requirements for the construction, performance, and testing of portable fire extinguishers of various types (water, foam, CO2, dry powder) used for fire suppression",
+   "latest_version": "2018",
+   "amendment": "Reaffirmed 2018",
+   "normative_refs": [
+    "IS 2190",
+    "IS 940"
+   ],
+   "certification": {
+    "mandatory": true,
+    "scheme": "ISI Mark",
+    "note": ""
+   },
+   "combined_text": "Portable Fire Extinguishers - Specification. Specifies requirements for the construction, performance, and testing of portable fire extinguishers of various types (water, foam, CO2, dry powder) used for fire suppression. Category: Safety Equipment"
+  },
+  {
+   "is_number": "IS 6519:1971",
+   "is_number_clean": "IS 6519",
+   "core_number": "6519",
+   "title": "Code of Practice for Selection, Care and Maintenance of Safety Footwear",
+   "category": "Safety Equipment",
+   "scope_description": "Provides guidelines on selecting and maintaining appropriate safety footwear for protection against workplace hazards including impact, compression and slip",
+   "latest_version": "1971",
+   "amendment": "Reaffirmed 2009",
+   "normative_refs": [
+    "IS 5852"
+   ],
+   "certification": {
+    "mandatory": false,
+    "scheme": "Code of Practice",
+    "note": ""
+   },
+   "combined_text": "Code of Practice for Selection, Care and Maintenance of Safety Footwear. Provides guidelines on selecting and maintaining appropriate safety footwear for protection against workplace hazards including impact, compression and slip. Category: Safety Equipment"
+  },
+  {
+   "is_number": "IS 1077:1992",
+   "is_number_clean": "IS 1077",
+   "core_number": "1077",
+   "title": "Common Burnt Clay Building Bricks - Specification",
+   "category": "Bricks & Clay Products",
+   "scope_description": "Lays down requirements for classification, general quality, dimensions and physical requirements of common burnt clay building bricks used in general building construction, covering bricks with compressive strength up to 40 N/mm2",
+   "latest_version": "1992 (Fifth Revision)",
+   "amendment": "Amendment 1 (2008)",
+   "normative_refs": [
+    "IS 3495 (Parts 1-4)",
+    "IS 2180"
+   ],
+   "certification": {
+    "mandatory": true,
+    "scheme": "ISI Mark",
+    "note": ""
+   },
+   "combined_text": "Common Burnt Clay Building Bricks - Specification. Lays down requirements for classification, general quality, dimensions and physical requirements of common burnt clay building bricks used in general building construction, covering bricks with compressive strength up to 40 N/mm2. Category: Bricks & Clay Products"
+  },
+  {
+   "is_number": "IS 2180:1988",
+   "is_number_clean": "IS 2180",
+   "core_number": "2180",
+   "title": "Heavy Duty Burnt Clay Building Bricks - Specification",
+   "category": "Bricks & Clay Products",
+   "scope_description": "Covers requirements for high compressive strength burnt clay bricks intended for heavy-duty structural applications where strength exceeds that covered under IS 1077",
+   "latest_version": "1988 (Second Revision)",
+   "amendment": "Reaffirmed 2005",
+   "normative_refs": [
+    "IS 1077",
+    "IS 3495"
+   ],
+   "certification": {
+    "mandatory": true,
+    "scheme": "ISI Mark",
+    "note": ""
+   },
+   "combined_text": "Heavy Duty Burnt Clay Building Bricks - Specification. Covers requirements for high compressive strength burnt clay bricks intended for heavy-duty structural applications where strength exceeds that covered under IS 1077. Category: Bricks & Clay Products"
+  },
+  {
+   "is_number": "IS 3495 (Parts 1-4):1992",
+   "is_number_clean": "IS 3495 (Parts 1-4)",
+   "core_number": "3495",
+   "title": "Methods of Tests of Burnt Clay Building Bricks",
+   "category": "Bricks & Clay Products",
+   "scope_description": "Specifies laboratory test methods for determining compressive strength, water absorption, efflorescence, and warpage of burnt clay bricks, used for verifying conformity to product standards like IS 1077",
+   "latest_version": "1992",
+   "amendment": "Reaffirmed 2016",
+   "normative_refs": [
+    "IS 1077",
+    "IS 2180"
+   ],
+   "certification": {
+    "mandatory": false,
+    "scheme": "Test method standard",
+    "note": ""
+   },
+   "combined_text": "Methods of Tests of Burnt Clay Building Bricks. Specifies laboratory test methods for determining compressive strength, water absorption, efflorescence, and warpage of burnt clay bricks, used for verifying conformity to product standards like IS 1077. Category: Bricks & Clay Products"
+  },
+  {
+   "is_number": "IS 12894:2002",
+   "is_number_clean": "IS 12894",
+   "core_number": "12894",
+   "title": "Fly Ash - Lime Bricks - Specification",
+   "category": "Bricks & Clay Products",
+   "scope_description": "Specifies requirements for bricks manufactured from a mixture of fly ash, lime, and sand/other materials, promoted as an eco-friendly alternative to burnt clay bricks in general construction",
+   "latest_version": "2002",
+   "amendment": "Reaffirmed 2017",
+   "normative_refs": [
+    "IS 3495",
+    "IS 12894"
+   ],
+   "certification": {
+    "mandatory": true,
+    "scheme": "ISI Mark",
+    "note": ""
+   },
+   "combined_text": "Fly Ash - Lime Bricks - Specification. Specifies requirements for bricks manufactured from a mixture of fly ash, lime, and sand/other materials, promoted as an eco-friendly alternative to burnt clay bricks in general construction. Category: Bricks & Clay Products"
+  },
+  {
+   "is_number": "IS 2185 (Part 1):2005",
+   "is_number_clean": "IS 2185 (Part 1)",
+   "core_number": "2185",
+   "title": "Concrete Masonry Units - Hollow and Solid Concrete Blocks - Specification",
+   "category": "Bricks & Clay Products",
+   "scope_description": "Covers requirements for hollow and solid precast concrete blocks used as masonry units in load-bearing and non-load-bearing walls",
+   "latest_version": "2005 (Second Revision)",
+   "amendment": "Reaffirmed 2016",
+   "normative_refs": [
+    "IS 456",
+    "IS 383"
+   ],
+   "certification": {
+    "mandatory": true,
+    "scheme": "ISI Mark",
+    "note": ""
+   },
+   "combined_text": "Concrete Masonry Units - Hollow and Solid Concrete Blocks - Specification. Covers requirements for hollow and solid precast concrete blocks used as masonry units in load-bearing and non-load-bearing walls. Category: Bricks & Clay Products"
+  },
+  {
+   "is_number": "IS 13757:1993",
+   "is_number_clean": "IS 13757",
+   "core_number": "13757",
+   "title": "Burnt Clay Perforated Building Bricks - Specification",
+   "category": "Bricks & Clay Products",
+   "scope_description": "Specifies requirements for perforated (hollow-core) burnt clay bricks used to reduce weight and improve thermal insulation in building walls",
+   "latest_version": "1993",
+   "amendment": "Reaffirmed 2010",
+   "normative_refs": [
+    "IS 1077",
+    "IS 3495"
+   ],
+   "certification": {
+    "mandatory": true,
+    "scheme": "ISI Mark",
+    "note": ""
+   },
+   "combined_text": "Burnt Clay Perforated Building Bricks - Specification. Specifies requirements for perforated (hollow-core) burnt clay bricks used to reduce weight and improve thermal insulation in building walls. Category: Bricks & Clay Products"
+  },
+  {
+   "is_number": "IS 883:1994",
+   "is_number_clean": "IS 883",
+   "core_number": "883",
+   "title": "Design of Structural Timber in Buildings - Code of Practice",
+   "category": "Timber & Wood Products",
+   "scope_description": "Covers general principles for the design of structural timber elements in buildings, including permissible stresses, grading, and design of beams, columns and joints",
+   "latest_version": "1994 (Fourth Revision)",
+   "amendment": "Reaffirmed 2021",
+   "normative_refs": [
+    "IS 3629",
+    "IS 1708",
+    "IS 287",
+    "IS 4891"
+   ],
+   "certification": {
+    "mandatory": false,
+    "scheme": "Code of Practice",
+    "note": ""
+   },
+   "combined_text": "Design of Structural Timber in Buildings - Code of Practice. Covers general principles for the design of structural timber elements in buildings, including permissible stresses, grading, and design of beams, columns and joints. Category: Timber & Wood Products"
+  },
+  {
+   "is_number": "IS 3629:1986",
+   "is_number_clean": "IS 3629",
+   "core_number": "3629",
+   "title": "Structural Timber in Building - Specification",
+   "category": "Timber & Wood Products",
+   "scope_description": "Specifies requirements for structural timber used in buildings, including grouping of timber species, permissible defects, and moisture content requirements based on climatic zones",
+   "latest_version": "1986 (First Revision)",
+   "amendment": "Reaffirmed 2000",
+   "normative_refs": [
+    "IS 883",
+    "IS 1708",
+    "IS 1331"
+   ],
+   "certification": {
+    "mandatory": true,
+    "scheme": "ISI Mark",
+    "note": ""
+   },
+   "combined_text": "Structural Timber in Building - Specification. Specifies requirements for structural timber used in buildings, including grouping of timber species, permissible defects, and moisture content requirements based on climatic zones. Category: Timber & Wood Products"
+  },
+  {
+   "is_number": "IS 1331:1975",
+   "is_number_clean": "IS 1331",
+   "core_number": "1331",
+   "title": "Grading of Structural Timber - Specification",
+   "category": "Timber & Wood Products",
+   "scope_description": "Specifies methods for grading sawn structural timber, after seasoning, into Select, Grade I and Grade II categories based on permissible defects",
+   "latest_version": "1975",
+   "amendment": "Reaffirmed 2005",
+   "normative_refs": [
+    "IS 3629",
+    "IS 4891"
+   ],
+   "certification": {
+    "mandatory": false,
+    "scheme": "Grading standard",
+    "note": ""
+   },
+   "combined_text": "Grading of Structural Timber - Specification. Specifies methods for grading sawn structural timber, after seasoning, into Select, Grade I and Grade II categories based on permissible defects. Category: Timber & Wood Products"
+  },
+  {
+   "is_number": "IS 4891:1988",
+   "is_number_clean": "IS 4891",
+   "core_number": "4891",
+   "title": "Cut Sizes of Timber - Specification",
+   "category": "Timber & Wood Products",
+   "scope_description": "Specifies preferred cut sizes for structural timber stock used in general building construction, intended to standardize dimensions across the industry",
+   "latest_version": "1988 (Second Revision)",
+   "amendment": "Reaffirmed 2010",
+   "normative_refs": [
+    "IS 883",
+    "IS 3629"
+   ],
+   "certification": {
+    "mandatory": false,
+    "scheme": "Dimensional standard",
+    "note": ""
+   },
+   "combined_text": "Cut Sizes of Timber - Specification. Specifies preferred cut sizes for structural timber stock used in general building construction, intended to standardize dimensions across the industry. Category: Timber & Wood Products"
+  },
+  {
+   "is_number": "IS 401:1982",
+   "is_number_clean": "IS 401",
+   "core_number": "401",
+   "title": "Code of Practice for Preservation of Timber",
+   "category": "Timber & Wood Products",
+   "scope_description": "Provides guidelines for preservation treatment of timber against fungal decay, insect and marine borer attack to extend service life in construction applications",
+   "latest_version": "1982 (Third Revision)",
+   "amendment": "Reaffirmed 2011",
+   "normative_refs": [
+    "IS 883",
+    "IS 1707"
+   ],
+   "certification": {
+    "mandatory": false,
+    "scheme": "Code of Practice",
+    "note": ""
+   },
+   "combined_text": "Code of Practice for Preservation of Timber. Provides guidelines for preservation treatment of timber against fungal decay, insect and marine borer attack to extend service life in construction applications. Category: Timber & Wood Products"
+  },
+  {
+   "is_number": "IS 710:1976",
+   "is_number_clean": "IS 710",
+   "core_number": "710",
+   "title": "Specification for Plywood for Marine Applications",
+   "category": "Timber & Wood Products",
+   "scope_description": "Specifies requirements for plywood intended for use in marine and other exterior applications requiring high moisture resistance and durability",
+   "latest_version": "1976 (Second Revision)",
+   "amendment": "Reaffirmed 2005",
+   "normative_refs": [
+    "IS 303",
+    "IS 1734"
+   ],
+   "certification": {
+    "mandatory": true,
+    "scheme": "ISI Mark",
+    "note": ""
+   },
+   "combined_text": "Specification for Plywood for Marine Applications. Specifies requirements for plywood intended for use in marine and other exterior applications requiring high moisture resistance and durability. Category: Timber & Wood Products"
+  },
+  {
+   "is_number": "IS 2932 (Part 1):2013",
+   "is_number_clean": "IS 2932 (Part 1)",
+   "core_number": "2932",
+   "title": "Enamel Synthetic Exterior (Undercoating and Finishing) - Specification for Domestic and Decorative Applications",
+   "category": "Paints & Coatings",
+   "scope_description": "Prescribes requirements, sampling and test methods for synthetic exterior enamel used as undercoating and finishing paint for domestic and decorative applications, based on synthetic alkyd resins",
+   "latest_version": "2013 (Fourth Revision)",
+   "amendment": "Amendment 1 (2015)",
+   "normative_refs": [
+    "IS 2932 (Part 2)",
+    "IS 101"
+   ],
+   "certification": {
+    "mandatory": true,
+    "scheme": "ISI Mark",
+    "note": ""
+   },
+   "combined_text": "Enamel Synthetic Exterior (Undercoating and Finishing) - Specification for Domestic and Decorative Applications. Prescribes requirements, sampling and test methods for synthetic exterior enamel used as undercoating and finishing paint for domestic and decorative applications, based on synthetic alkyd resins. Category: Paints & Coatings"
+  },
+  {
+   "is_number": "IS 2933:1975",
+   "is_number_clean": "IS 2933",
+   "core_number": "2933",
+   "title": "Enamel Interior (Undercoating and Finishing) - Specification",
+   "category": "Paints & Coatings",
+   "scope_description": "Specifies requirements for interior grade synthetic enamel paint used as undercoating and finishing on interior surfaces, distinguished from exterior-grade IS 2932",
+   "latest_version": "1975",
+   "amendment": "Reaffirmed 2003",
+   "normative_refs": [
+    "IS 2932",
+    "IS 101"
+   ],
+   "certification": {
+    "mandatory": true,
+    "scheme": "ISI Mark",
+    "note": ""
+   },
+   "combined_text": "Enamel Interior (Undercoating and Finishing) - Specification. Specifies requirements for interior grade synthetic enamel paint used as undercoating and finishing on interior surfaces, distinguished from exterior-grade IS 2932. Category: Paints & Coatings"
+  },
+  {
+   "is_number": "IS 428:1969",
+   "is_number_clean": "IS 428",
+   "core_number": "428",
+   "title": "Distemper Oil Bound Washable - Specification",
+   "category": "Paints & Coatings",
+   "scope_description": "Specifies requirements for oil-bound washable distemper paint used for decorative and protective coating of interior wall and ceiling surfaces",
+   "latest_version": "1969 (Second Revision)",
+   "amendment": "Reaffirmed 2016",
+   "normative_refs": [
+    "IS 101",
+    "IS 3536"
+   ],
+   "certification": {
+    "mandatory": true,
+    "scheme": "ISI Mark",
+    "note": ""
+   },
+   "combined_text": "Distemper Oil Bound Washable - Specification. Specifies requirements for oil-bound washable distemper paint used for decorative and protective coating of interior wall and ceiling surfaces. Category: Paints & Coatings"
+  },
+  {
+   "is_number": "IS 101 (Various Parts)",
+   "is_number_clean": "IS 101 (Various Parts)",
+   "core_number": "101",
+   "title": "Methods of Test for Paints, Varnishes and Related Products",
+   "category": "Paints & Coatings",
+   "scope_description": "Specifies standardized laboratory test methods for determining physical and chemical properties of paints including viscosity, drying time, gloss and durability, referenced across paint product standards",
+   "latest_version": "Multi-part standard",
+   "amendment": "Various parts revised separately",
+   "normative_refs": [
+    "IS 2932",
+    "IS 2933",
+    "IS 428"
+   ],
+   "certification": {
+    "mandatory": false,
+    "scheme": "Test method standard",
+    "note": ""
+   },
+   "combined_text": "Methods of Test for Paints, Varnishes and Related Products. Specifies standardized laboratory test methods for determining physical and chemical properties of paints including viscosity, drying time, gloss and durability, referenced across paint product standards. Category: Paints & Coatings"
+  },
+  {
+   "is_number": "IS 2395 (Part 1):1994",
+   "is_number_clean": "IS 2395 (Part 1)",
+   "core_number": "2395",
+   "title": "Code of Practice for Painting Concrete Masonry and Plaster Surfaces",
+   "category": "Paints & Coatings",
+   "scope_description": "Provides guidelines for surface preparation and application procedures for painting concrete, masonry and plastered surfaces to achieve durable finishes",
+   "latest_version": "1994 (First Revision)",
+   "amendment": "Reaffirmed 2012",
+   "normative_refs": [
+    "IS 2932",
+    "IS 2933"
+   ],
+   "certification": {
+    "mandatory": false,
+    "scheme": "Code of Practice",
+    "note": ""
+   },
+   "combined_text": "Code of Practice for Painting Concrete Masonry and Plaster Surfaces. Provides guidelines for surface preparation and application procedures for painting concrete, masonry and plastered surfaces to achieve durable finishes. Category: Paints & Coatings"
+  },
+  {
+   "is_number": "IS 1477 (Part 1):1971",
+   "is_number_clean": "IS 1477 (Part 1)",
+   "core_number": "1477",
+   "title": "Code of Practice for Painting of Ferrous Metals - Pre-treatment",
+   "category": "Paints & Coatings",
+   "scope_description": "Provides guidelines for surface pre-treatment procedures (cleaning, priming) of ferrous metal surfaces prior to painting for corrosion protection",
+   "latest_version": "1971",
+   "amendment": "Reaffirmed 2009",
+   "normative_refs": [
+    "IS 1477 (Part 2)",
+    "IS 2074"
+   ],
+   "certification": {
+    "mandatory": false,
+    "scheme": "Code of Practice",
+    "note": ""
+   },
+   "combined_text": "Code of Practice for Painting of Ferrous Metals - Pre-treatment. Provides guidelines for surface pre-treatment procedures (cleaning, priming) of ferrous metal surfaces prior to painting for corrosion protection. Category: Paints & Coatings"
+  },
+  {
+   "is_number": "IS 4984:2016",
+   "is_number_clean": "IS 4984",
+   "core_number": "4984",
+   "title": "Polyethylene Pipes for Water Supply - Specification",
+   "category": "Plastic Products",
+   "scope_description": "Specifies manufacturing requirements, dimensions, and testing methods for PE pipes used in potable water supply systems, covering material grades PE 80 and PE 100 with pressure ratings aligned to Standard Dimension Ratios",
+   "latest_version": "2016 (Fifth Revision)",
+   "amendment": "Reaffirmed 2016",
+   "normative_refs": [
+    "IS 4905",
+    "IS 12235",
+    "IS 2530"
+   ],
+   "certification": {
+    "mandatory": true,
+    "scheme": "ISI Mark",
+    "note": ""
+   },
+   "combined_text": "Polyethylene Pipes for Water Supply - Specification. Specifies manufacturing requirements, dimensions, and testing methods for HDPE pipes used in potable water supply systems, covering material grades PE 80 and PE 100 with pressure ratings aligned to Standard Dimension Ratios. Category: Plastic Products"
+  },
+  {
+   "is_number": "IS 12235 (Various Parts)",
+   "is_number_clean": "IS 12235 (Various Parts)",
+   "core_number": "12235",
+   "title": "Methods of Test for uPVC Pipes and Fittings",
+   "category": "Plastic Products",
+   "scope_description": "Specifies standardized test methods for determining physical and mechanical properties of unplasticized PVC pipes and fittings used in water supply and drainage applications",
+   "latest_version": "Multi-part standard",
+   "amendment": "Various parts revised separately",
+   "normative_refs": [
+    "IS 4985",
+    "IS 4984"
+   ],
+   "certification": {
+    "mandatory": false,
+    "scheme": "Test method standard",
+    "note": ""
+   },
+   "combined_text": "Methods of Test for uPVC Pipes and Fittings. Specifies standardized test methods for determining physical and mechanical properties of unplasticized PVC pipes and fittings used in water supply and drainage applications. Category: Plastic Products"
+  },
+  {
+   "is_number": "IS 10146:1982",
+   "is_number_clean": "IS 10146",
+   "core_number": "10146",
+   "title": "Polyethylene in Contact with Foodstuffs - Specification",
+   "category": "Plastic Products",
+   "scope_description": "Specifies requirements for polyethylene material intended for safe use in contact with foodstuffs, pharmaceuticals and drinking water, including permissible additive constituents",
+   "latest_version": "1982",
+   "amendment": "Reaffirmed 2016",
+   "normative_refs": [
+    "IS 10148",
+    "IS 9833"
+   ],
+   "certification": {
+    "mandatory": true,
+    "scheme": "ISI Mark",
+    "note": "mandatory for food-contact packaging"
+   },
+   "combined_text": "Polyethylene in Contact with Foodstuffs - Specification. Specifies requirements for polyethylene material intended for safe use in contact with foodstuffs, pharmaceuticals and drinking water, including permissible additive constituents. Category: Plastic Products"
+  },
+  {
+   "is_number": "IS 10151:1982",
+   "is_number_clean": "IS 10151",
+   "core_number": "10151",
+   "title": "Polyvinyl Chloride (PVC) in Contact with Foodstuffs - Specification",
+   "category": "Plastic Products",
+   "scope_description": "Specifies requirements for PVC and its co-polymers for safe use in contact with foodstuffs, pharmaceuticals and drinking water, covering permitted composition and migration limits",
+   "latest_version": "1982",
+   "amendment": "Reaffirmed 2016",
+   "normative_refs": [
+    "IS 10148",
+    "IS 9833"
+   ],
+   "certification": {
+    "mandatory": true,
+    "scheme": "ISI Mark",
+    "note": "mandatory for food-contact packaging"
+   },
+   "combined_text": "Polyvinyl Chloride (PVC) in Contact with Foodstuffs - Specification. Specifies requirements for PVC and its co-polymers for safe use in contact with foodstuffs, pharmaceuticals and drinking water, covering permitted composition and migration limits. Category: Plastic Products"
+  },
+  {
+   "is_number": "IS 10910:1984",
+   "is_number_clean": "IS 10910",
+   "core_number": "10910",
+   "title": "Polypropylene in Contact with Foodstuffs - Specification",
+   "category": "Plastic Products",
+   "scope_description": "Specifies requirements for polypropylene and its co-polymers intended for safe use in contact with foodstuffs, pharmaceuticals and drinking water",
+   "latest_version": "1984",
+   "amendment": "Reaffirmed 2016",
+   "normative_refs": [
+    "IS 10148",
+    "IS 9833"
+   ],
+   "certification": {
+    "mandatory": true,
+    "scheme": "ISI Mark",
+    "note": "mandatory for food-contact packaging"
+   },
+   "combined_text": "Polypropylene in Contact with Foodstuffs - Specification. Specifies requirements for polypropylene and its co-polymers intended for safe use in contact with foodstuffs, pharmaceuticals and drinking water. Category: Plastic Products"
+  },
+  {
+   "is_number": "IS 12252:1988",
+   "is_number_clean": "IS 12252",
+   "core_number": "12252",
+   "title": "Poly Alkylene Terephthalate (PET) Containers for Packaged Drinking Water - Specification",
+   "category": "Plastic Products",
+   "scope_description": "Specifies requirements for PET containers used for packaging bottled and mineral drinking water, ensuring safety and prevention of contamination",
+   "latest_version": "1988",
+   "amendment": "Reaffirmed 2015",
+   "normative_refs": [
+    "IS 10146",
+    "IS 14543"
+   ],
+   "certification": {
+    "mandatory": true,
+    "scheme": "ISI Mark",
+    "note": "mandatory for packaged water bottles"
+   },
+   "combined_text": "Poly Alkylene Terephthalate (PET) Containers for Packaged Drinking Water - Specification. Specifies requirements for PET containers used for packaging bottled and mineral drinking water, ensuring safety and prevention of contamination. Category: Plastic Products"
+  },
+  {
+   "is_number": "IS 2386 (Part 1):1963",
+   "is_number_clean": "IS 2386 (Part 1)",
+   "core_number": "2386",
+   "title": "Methods of Test for Aggregates for Concrete - Particle Size and Shape",
+   "category": "Aggregates & Sand",
+   "scope_description": "Specifies sieve analysis procedures for determining particle size distribution and fineness modulus of coarse and fine aggregates used in concrete, forming the basis for grading zone classification under IS 383",
+   "latest_version": "1963",
+   "amendment": "Reaffirmed 2016",
+   "normative_refs": [
+    "IS 383",
+    "IS 460"
+   ],
+   "certification": {
+    "mandatory": false,
+    "scheme": "Test method standard",
+    "note": ""
+   },
+   "combined_text": "Methods of Test for Aggregates for Concrete - Particle Size and Shape. Specifies sieve analysis procedures for determining particle size distribution and fineness modulus of coarse and fine aggregates used in concrete, forming the basis for grading zone classification under IS 383. Category: Aggregates & Sand"
+  },
+  {
+   "is_number": "IS 2386 (Part 3):1963",
+   "is_number_clean": "IS 2386 (Part 3)",
+   "core_number": "2386",
+   "title": "Methods of Test for Aggregates for Concrete - Specific Gravity Density Voids Absorption and Bulking",
+   "category": "Aggregates & Sand",
+   "scope_description": "Specifies test methods for determining specific gravity, bulk density, voids, absorption and bulking of aggregates, essential for concrete mix design calculations",
+   "latest_version": "1963",
+   "amendment": "Reaffirmed 2016",
+   "normative_refs": [
+    "IS 383",
+    "IS 456"
+   ],
+   "certification": {
+    "mandatory": false,
+    "scheme": "Test method standard",
+    "note": ""
+   },
+   "combined_text": "Methods of Test for Aggregates for Concrete - Specific Gravity Density Voids Absorption and Bulking. Specifies test methods for determining specific gravity, bulk density, voids, absorption and bulking of aggregates, essential for concrete mix design calculations. Category: Aggregates & Sand"
+  },
+  {
+   "is_number": "IS 460 (Part 1):1985",
+   "is_number_clean": "IS 460 (Part 1)",
+   "core_number": "460",
+   "title": "Specification for Test Sieves - Wire Cloth Test Sieves",
+   "category": "Aggregates & Sand",
+   "scope_description": "Specifies dimensional and construction requirements for wire-cloth test sieves used in sieve analysis and grading tests of aggregates, sand and other granular construction materials",
+   "latest_version": "1985 (Third Revision)",
+   "amendment": "Reaffirmed 2010",
+   "normative_refs": [
+    "IS 2386"
+   ],
+   "certification": {
+    "mandatory": false,
+    "scheme": "Testing equipment standard",
+    "note": ""
+   },
+   "combined_text": "Specification for Test Sieves - Wire Cloth Test Sieves. Specifies dimensional and construction requirements for wire-cloth test sieves used in sieve analysis and grading tests of aggregates, sand and other granular construction materials. Category: Aggregates & Sand"
+  },
+  {
+   "is_number": "IS 2116:1980",
+   "is_number_clean": "IS 2116",
+   "core_number": "2116",
+   "title": "Sand for Masonry Mortars - Specification",
+   "category": "Aggregates & Sand",
+   "scope_description": "Specifies requirements for sand used specifically in masonry mortar work, distinct from IS 383 which covers sand for concrete applications",
+   "latest_version": "1980 (First Revision)",
+   "amendment": "Reaffirmed 2009",
+   "normative_refs": [
+    "IS 383",
+    "IS 2386"
+   ],
+   "certification": {
+    "mandatory": true,
+    "scheme": "ISI Mark",
+    "note": ""
+   },
+   "combined_text": "Sand for Masonry Mortars - Specification. Specifies requirements for sand used specifically in masonry mortar work, distinct from IS 383 which covers sand for concrete applications. Category: Aggregates & Sand"
+  },
+  {
+   "is_number": "IS 1542:1992",
+   "is_number_clean": "IS 1542",
+   "core_number": "1542",
+   "title": "Sand for Plaster - Specification",
+   "category": "Aggregates & Sand",
+   "scope_description": "Specifies grading and quality requirements for sand used in plastering work on building surfaces, ensuring suitable workability and finish",
+   "latest_version": "1992 (Second Revision)",
+   "amendment": "Reaffirmed 2009",
+   "normative_refs": [
+    "IS 383",
+    "IS 2386"
+   ],
+   "certification": {
+    "mandatory": true,
+    "scheme": "ISI Mark",
+    "note": ""
+   },
+   "combined_text": "Sand for Plaster - Specification. Specifies grading and quality requirements for sand used in plastering work on building surfaces, ensuring suitable workability and finish. Category: Aggregates & Sand"
+  },
+  {
+   "is_number": "IS 848 (Part 1):2006",
+   "is_number_clean": "IS 848 (Part 1)",
+   "core_number": "848",
+   "title": "Synthetic Resin Adhesives for Plywood - Phenolic and Aminoplastic - Specification",
+   "category": "Adhesives",
+   "scope_description": "Specifies requirements for phenolic and aminoplastic (urea-formaldehyde) synthetic resin adhesives used in plywood manufacturing, classified by water and boil resistance grades (BWP, BWR, MR)",
+   "latest_version": "2006 (Third Revision)",
+   "amendment": "Reaffirmed 2016",
+   "normative_refs": [
+    "IS 851",
+    "IS 4835"
+   ],
+   "certification": {
+    "mandatory": true,
+    "scheme": "ISI Mark",
+    "note": ""
+   },
+   "combined_text": "Synthetic Resin Adhesives for Plywood - Phenolic and Aminoplastic - Specification. Specifies requirements for phenolic and aminoplastic (urea-formaldehyde) synthetic resin adhesives used in plywood manufacturing, classified by water and boil resistance grades (BWP, BWR, MR). Category: Adhesives"
+  },
+  {
+   "is_number": "IS 851:1978",
+   "is_number_clean": "IS 851",
+   "core_number": "851",
+   "title": "Synthetic Resin Adhesives for Construction Work (Non-Structural) in Wood - Specification",
+   "category": "Adhesives",
+   "scope_description": "Specifies requirements for synthetic resin adhesives used in non-structural wood construction applications such as joinery and general woodwork",
+   "latest_version": "1978",
+   "amendment": "Amendment 2",
+   "normative_refs": [
+    "IS 848",
+    "IS 4835"
+   ],
+   "certification": {
+    "mandatory": true,
+    "scheme": "ISI Mark",
+    "note": ""
+   },
+   "combined_text": "Synthetic Resin Adhesives for Construction Work (Non-Structural) in Wood - Specification. Specifies requirements for synthetic resin adhesives used in non-structural wood construction applications such as joinery and general woodwork. Category: Adhesives"
+  },
+  {
+   "is_number": "IS 4835:1979",
+   "is_number_clean": "IS 4835",
+   "core_number": "4835",
+   "title": "Specification for Polyvinyl Acetate Dispersion Based Adhesives for Wood",
+   "category": "Adhesives",
+   "scope_description": "Specifies requirements for PVAc (polyvinyl acetate) emulsion-based adhesives used for general wood bonding, including tests for solid content, viscosity, glue joint strength and early strength development",
+   "latest_version": "1979",
+   "amendment": "Reaffirmed 2010",
+   "normative_refs": [
+    "IS 848",
+    "IS 851"
+   ],
+   "certification": {
+    "mandatory": true,
+    "scheme": "ISI Mark",
+    "note": ""
+   },
+   "combined_text": "Specification for Polyvinyl Acetate Dispersion Based Adhesives for Wood. Specifies requirements for PVAc (polyvinyl acetate) emulsion-based adhesives used for general wood bonding, including tests for solid content, viscosity, glue joint strength and early strength development. Category: Adhesives"
+  },
+  {
+   "is_number": "IS 4835 (Part 2)",
+   "is_number_clean": "IS 4835 (Part 2)",
+   "core_number": "4835",
+   "title": "Methods of Test for Wood Adhesives - Glue Joint Strength",
+   "category": "Adhesives",
+   "scope_description": "Specifies standardized test methods for determining glue joint strength, open time and bonding performance of wood adhesives, referenced across adhesive product standards",
+   "latest_version": "Multi-part standard",
+   "amendment": "Various parts revised separately",
+   "normative_refs": [
+    "IS 4835",
+    "IS 848",
+    "IS 851"
+   ],
+   "certification": {
+    "mandatory": false,
+    "scheme": "Test method standard",
+    "note": ""
+   },
+   "combined_text": "Methods of Test for Wood Adhesives - Glue Joint Strength. Specifies standardized test methods for determining glue joint strength, open time and bonding performance of wood adhesives, referenced across adhesive product standards. Category: Adhesives"
+  },
+  {
+   "is_number": "IS 4837:1990",
+   "is_number_clean": "IS 4837",
+   "core_number": "4837",
+   "title": "School Furniture Classroom Chairs and Tables - Recommendations",
+   "category": "Furniture",
+   "scope_description": "Provides anthropometric-based recommendations for dimensions of classroom chairs and tables suitable for students of various age groups in Indian schools, promoting ergonomic seating",
+   "latest_version": "1990",
+   "amendment": "Reaffirmed 2010",
+   "normative_refs": [
+    "IS 4415"
+   ],
+   "certification": {
+    "mandatory": false,
+    "scheme": "Recommendatory guideline document",
+    "note": ""
+   },
+   "combined_text": "School Furniture Classroom Chairs and Tables - Recommendations. Provides anthropometric-based recommendations for dimensions of classroom chairs and tables suitable for students of various age groups in Indian schools, promoting ergonomic seating. Category: Furniture"
+  },
+  {
+   "is_number": "IS 1829 (Part 2):2017",
+   "is_number_clean": "IS 1829 (Part 2)",
+   "core_number": "1829",
+   "title": "Library Furniture and Fittings - Specification (Steel)",
+   "category": "Furniture",
+   "scope_description": "Specifies requirements for steel library furniture including bookracks, reading tables and catalogue cabinets used in public and institutional libraries",
+   "latest_version": "2017 (Second Revision)",
+   "amendment": "Reaffirmed 2017",
+   "normative_refs": [
+    "IS 1829 (Part 1)",
+    "IS 2062"
+   ],
+   "certification": {
+    "mandatory": true,
+    "scheme": "ISI Mark",
+    "note": ""
+   },
+   "combined_text": "Library Furniture and Fittings - Specification (Steel). Specifies requirements for steel library furniture including bookracks, reading tables and catalogue cabinets used in public and institutional libraries. Category: Furniture"
+  },
+  {
+   "is_number": "IS 4415:1974",
+   "is_number_clean": "IS 4415",
+   "core_number": "4415",
+   "title": "Glossary of Terms Relating to Wooden Furniture and Fixtures",
+   "category": "Furniture",
+   "scope_description": "Provides standardized terminology and definitions used across wooden furniture manufacturing and specification documents to ensure consistent communication between manufacturers and buyers",
+   "latest_version": "1974",
+   "amendment": "Reaffirmed 2005",
+   "normative_refs": [
+    "IS 4837",
+    "IS 710"
+   ],
+   "certification": {
+    "mandatory": false,
+    "scheme": "Terminology/glossary standard",
+    "note": ""
+   },
+   "combined_text": "Glossary of Terms Relating to Wooden Furniture and Fixtures. Provides standardized terminology and definitions used across wooden furniture manufacturing and specification documents to ensure consistent communication between manufacturers and buyers. Category: Furniture"
+  },
+  {
+   "is_number": "IS 17631:2022",
+   "is_number_clean": "IS 17631",
+   "core_number": "17631",
+   "title": "Work Chairs - Specification",
+   "category": "Furniture",
+   "scope_description": "Specifies ergonomic, dimensional, and performance requirements for office and work chairs, including adjustability, stability and load-bearing safety criteria",
+   "latest_version": "2022",
+   "amendment": "Reaffirmed 2022",
+   "normative_refs": [
+    "IS 17637",
+    "IS 17632"
+   ],
+   "certification": {
+    "mandatory": true,
+    "scheme": "ISI Mark",
+    "note": "mandatory certification effective February 2026"
+   },
+   "combined_text": "Work Chairs - Specification. Specifies ergonomic, dimensional, and performance requirements for office and work chairs, including adjustability, stability and load-bearing safety criteria. Category: Furniture"
+  },
+  {
+   "is_number": "IS 17637:2021",
+   "is_number_clean": "IS 17637",
+   "core_number": "17637",
+   "title": "Performance Requirements of Surface Finishes for Furniture Applications",
+   "category": "Furniture",
+   "scope_description": "Specifies performance requirements for surface finishes (coatings, laminates, veneers) applied to furniture, covering durability, scratch resistance and chemical resistance criteria",
+   "latest_version": "2021",
+   "amendment": "Reaffirmed 2021",
+   "normative_refs": [
+    "IS 17631",
+    "IS 2932"
+   ],
+   "certification": {
+    "mandatory": true,
+    "scheme": "ISI Mark",
+    "note": ""
+   },
+   "combined_text": "Performance Requirements of Surface Finishes for Furniture Applications. Specifies performance requirements for surface finishes (coatings, laminates, veneers) applied to furniture, covering durability, scratch resistance and chemical resistance criteria. Category: Furniture"
+  },
+  {
+   "is_number": "IS 455:2015",
+   "is_number_clean": "IS 455",
+   "core_number": "455",
+   "title": "Portland Slag Cement - Specification",
+   "category": "Cement & Concrete",
+   "scope_description": "Covers manufacture and physical/chemical requirements of Portland slag cement made by intergrinding or blending Portland cement clinker with granulated blast furnace slag, used in general construction",
+   "latest_version": "2015 (Fifth Revision)",
+   "amendment": "Reaffirmed 2020",
+   "normative_refs": [
+    "IS 269",
+    "IS 12089",
+    "IS 4031"
+   ],
+   "certification": {
+    "mandatory": true,
+    "scheme": "ISI Mark",
+    "note": "mandatory under Cement Quality Control Order 2023"
+   },
+   "combined_text": "Portland Slag Cement - Specification. Covers manufacture and physical/chemical requirements of Portland slag cement made by intergrinding or blending Portland cement clinker with granulated blast furnace slag, used in general construction. Category: Cement & Concrete"
+  },
+  {
+   "is_number": "IS 3466:1988",
+   "is_number_clean": "IS 3466",
+   "core_number": "3466",
+   "title": "Masonry Cement - Specification",
+   "category": "Cement & Concrete",
+   "scope_description": "Specifies requirements for masonry cement used for preparing mortars in general purpose masonry work, brickwork and plastering",
+   "latest_version": "1988 (Second Revision)",
+   "amendment": "Reaffirmed 2005",
+   "normative_refs": [
+    "IS 269",
+    "IS 455"
+   ],
+   "certification": {
+    "mandatory": true,
+    "scheme": "ISI Mark",
+    "note": ""
+   },
+   "combined_text": "Masonry Cement - Specification. Specifies requirements for masonry cement used for preparing mortars in general purpose masonry work, brickwork and plastering. Category: Cement & Concrete"
+  },
+  {
+   "is_number": "IS 6452:1989",
+   "is_number_clean": "IS 6452",
+   "core_number": "6452",
+   "title": "High Alumina Cement for Structural Use - Specification",
+   "category": "Cement & Concrete",
+   "scope_description": "Covers requirements for high alumina cement intended for structural concrete work requiring rapid strength gain and resistance to chemical attack",
+   "latest_version": "1989 (First Revision)",
+   "amendment": "Reaffirmed 2010",
+   "normative_refs": [
+    "IS 4031",
+    "IS 269"
+   ],
+   "certification": {
+    "mandatory": true,
+    "scheme": "ISI Mark",
+    "note": ""
+   },
+   "combined_text": "High Alumina Cement for Structural Use - Specification. Covers requirements for high alumina cement intended for structural concrete work requiring rapid strength gain and resistance to chemical attack. Category: Cement & Concrete"
+  },
+  {
+   "is_number": "IS 6909:1990",
+   "is_number_clean": "IS 6909",
+   "core_number": "6909",
+   "title": "Supersulphated Cement - Specification",
+   "category": "Cement & Concrete",
+   "scope_description": "Specifies requirements for supersulphated cement made from granulated blast furnace slag, calcium sulphate and Portland cement clinker, used where sulphate and chemical resistance is required",
+   "latest_version": "1990 (First Revision)",
+   "amendment": "Reaffirmed 2005",
+   "normative_refs": [
+    "IS 4031",
+    "IS 455"
+   ],
+   "certification": {
+    "mandatory": true,
+    "scheme": "ISI Mark",
+    "note": ""
+   },
+   "combined_text": "Supersulphated Cement - Specification. Specifies requirements for supersulphated cement made from granulated blast furnace slag, calcium sulphate and Portland cement clinker, used where sulphate and chemical resistance is required. Category: Cement & Concrete"
+  },
+  {
+   "is_number": "IS 8041:1990",
+   "is_number_clean": "IS 8041",
+   "core_number": "8041",
+   "title": "Rapid Hardening Portland Cement - Specification",
+   "category": "Cement & Concrete",
+   "scope_description": "Covers requirements for rapid hardening Portland cement which develops higher early strength than ordinary Portland cement, used where early formwork removal is needed",
+   "latest_version": "1990 (Second Revision)",
+   "amendment": "Reaffirmed 2010",
+   "normative_refs": [
+    "IS 269",
+    "IS 4031"
+   ],
+   "certification": {
+    "mandatory": true,
+    "scheme": "ISI Mark",
+    "note": ""
+   },
+   "combined_text": "Rapid Hardening Portland Cement - Specification. Covers requirements for rapid hardening Portland cement which develops higher early strength than ordinary Portland cement, used where early formwork removal is needed. Category: Cement & Concrete"
+  },
+  {
+   "is_number": "IS 8042:2015",
+   "is_number_clean": "IS 8042",
+   "core_number": "8042",
+   "title": "White Portland Cement - Specification",
+   "category": "Cement & Concrete",
+   "scope_description": "Specifies requirements for white Portland cement used for decorative and architectural finishing work where a light, non-grey appearance is required",
+   "latest_version": "2015 (Third Revision)",
+   "amendment": "Reaffirmed 2020",
+   "normative_refs": [
+    "IS 269",
+    "IS 4031"
+   ],
+   "certification": {
+    "mandatory": true,
+    "scheme": "ISI Mark",
+    "note": ""
+   },
+   "combined_text": "White Portland Cement - Specification. Specifies requirements for white Portland cement used for decorative and architectural finishing work where a light, non-grey appearance is required. Category: Cement & Concrete"
+  },
+  {
+   "is_number": "IS 8043:1991",
+   "is_number_clean": "IS 8043",
+   "core_number": "8043",
+   "title": "Hydrophobic Portland Cement - Specification",
+   "category": "Cement & Concrete",
+   "scope_description": "Covers requirements for hydrophobic Portland cement treated to resist deterioration during storage under humid conditions or prolonged transport",
+   "latest_version": "1991 (Second Revision)",
+   "amendment": "Reaffirmed 2010",
+   "normative_refs": [
+    "IS 269",
+    "IS 4031"
+   ],
+   "certification": {
+    "mandatory": true,
+    "scheme": "ISI Mark",
+    "note": ""
+   },
+   "combined_text": "Hydrophobic Portland Cement - Specification. Covers requirements for hydrophobic Portland cement treated to resist deterioration during storage under humid conditions or prolonged transport. Category: Cement & Concrete"
+  },
+  {
+   "is_number": "IS 8229:1986",
+   "is_number_clean": "IS 8229",
+   "core_number": "8229",
+   "title": "Oil-Well Cement - Specification",
+   "category": "Cement & Concrete",
+   "scope_description": "Specifies requirements for cement used in cementing oil and gas wells, covering classes suited to different well depths and temperature conditions",
+   "latest_version": "1986 (First Revision)",
+   "amendment": "Reaffirmed 2005",
+   "normative_refs": [
+    "IS 4031"
+   ],
+   "certification": {
+    "mandatory": true,
+    "scheme": "ISI Mark",
+    "note": ""
+   },
+   "combined_text": "Oil-Well Cement - Specification. Specifies requirements for cement used in cementing oil and gas wells, covering classes suited to different well depths and temperature conditions. Category: Cement & Concrete"
+  },
+  {
+   "is_number": "IS 12330:1988",
+   "is_number_clean": "IS 12330",
+   "core_number": "12330",
+   "title": "Sulphate Resisting Portland Cement - Specification",
+   "category": "Cement & Concrete",
+   "scope_description": "Covers requirements for Portland cement with restricted tricalcium aluminate content for use in structures exposed to sulphate-rich soil or groundwater",
+   "latest_version": "1988",
+   "amendment": "Reaffirmed 2010",
+   "normative_refs": [
+    "IS 269",
+    "IS 4031"
+   ],
+   "certification": {
+    "mandatory": true,
+    "scheme": "ISI Mark",
+    "note": ""
+   },
+   "combined_text": "Sulphate Resisting Portland Cement - Specification. Covers requirements for Portland cement with restricted tricalcium aluminate content for use in structures exposed to sulphate-rich soil or groundwater. Category: Cement & Concrete"
+  },
+  {
+   "is_number": "IS 12600:1989",
+   "is_number_clean": "IS 12600",
+   "core_number": "12600",
+   "title": "Low Heat Portland Cement - Specification",
+   "category": "Cement & Concrete",
+   "scope_description": "Specifies requirements for Portland cement with controlled heat of hydration, used in mass concrete works such as dams to limit thermal cracking",
+   "latest_version": "1989",
+   "amendment": "Reaffirmed 2010",
+   "normative_refs": [
+    "IS 269",
+    "IS 4031"
+   ],
+   "certification": {
+    "mandatory": true,
+    "scheme": "ISI Mark",
+    "note": ""
+   },
+   "combined_text": "Low Heat Portland Cement - Specification. Specifies requirements for Portland cement with controlled heat of hydration, used in mass concrete works such as dams to limit thermal cracking. Category: Cement & Concrete"
+  },
+  {
+   "is_number": "IS 16415:2015",
+   "is_number_clean": "IS 16415",
+   "core_number": "16415",
+   "title": "Composite Cement - Specification",
+   "category": "Cement & Concrete",
+   "scope_description": "Covers requirements for composite cement manufactured using a combination of fly ash and granulated slag along with Portland cement clinker",
+   "latest_version": "2015",
+   "amendment": "Reaffirmed 2020",
+   "normative_refs": [
+    "IS 269",
+    "IS 3812",
+    "IS 12089"
+   ],
+   "certification": {
+    "mandatory": true,
+    "scheme": "ISI Mark",
+    "note": ""
+   },
+   "combined_text": "Composite Cement - Specification. Covers requirements for composite cement manufactured using a combination of fly ash and granulated slag along with Portland cement clinker. Category: Cement & Concrete"
+  },
+  {
+   "is_number": "IS 16993:2018",
+   "is_number_clean": "IS 16993",
+   "core_number": "16993",
+   "title": "Microfine Ordinary Portland Cement - Specification",
+   "category": "Cement & Concrete",
+   "scope_description": "Specifies requirements for ultra-fine ground Portland cement used in grouting, soil stabilization and specialized repair applications requiring deep penetration",
+   "latest_version": "2018",
+   "amendment": "-",
+   "normative_refs": [
+    "IS 269",
+    "IS 4031"
+   ],
+   "certification": {
+    "mandatory": true,
+    "scheme": "ISI Mark",
+    "note": ""
+   },
+   "combined_text": "Microfine Ordinary Portland Cement - Specification. Specifies requirements for ultra-fine ground Portland cement used in grouting, soil stabilization and specialized repair applications requiring deep penetration. Category: Cement & Concrete"
+  },
+  {
+   "is_number": "IS 15895:2018",
+   "is_number_clean": "IS 15895",
+   "core_number": "15895",
+   "title": "High Alumina Refractory Cement - Specification",
+   "category": "Cement & Concrete",
+   "scope_description": "Covers requirements for high alumina cement intended for refractory concrete used in furnace linings and high-temperature applications",
+   "latest_version": "2018",
+   "amendment": "-",
+   "normative_refs": [
+    "IS 4031"
+   ],
+   "certification": {
+    "mandatory": true,
+    "scheme": "ISI Mark",
+    "note": ""
+   },
+   "combined_text": "High Alumina Refractory Cement - Specification. Covers requirements for high alumina cement intended for refractory concrete used in furnace linings and high-temperature applications. Category: Cement & Concrete"
+  },
+  {
+   "is_number": "IS 3812 (Part 1):2013",
+   "is_number_clean": "IS 3812 (Part 1)",
+   "core_number": "3812",
+   "title": "Pulverized Fuel Ash - Specification, Part 1: For Use as Pozzolana in Cement, Cement Mortar and Concrete",
+   "category": "Cement & Concrete",
+   "scope_description": "Specifies quality requirements for fly ash used as a pozzolanic material blended into cement, mortar and concrete",
+   "latest_version": "2013 (Second Revision)",
+   "amendment": "Reaffirmed 2018",
+   "normative_refs": [
+    "IS 1489",
+    "IS 269"
+   ],
+   "certification": {
+    "mandatory": false,
+    "scheme": "raw material standard",
+    "note": ""
+   },
+   "combined_text": "Pulverized Fuel Ash - Specification, Part 1: For Use as Pozzolana in Cement, Cement Mortar and Concrete. Specifies quality requirements for fly ash used as a pozzolanic material blended into cement, mortar and concrete. Category: Cement & Concrete"
+  },
+  {
+   "is_number": "IS 1344:1981",
+   "is_number_clean": "IS 1344",
+   "core_number": "1344",
+   "title": "Calcined Clay Pozzolana - Specification",
+   "category": "Cement & Concrete",
+   "scope_description": "Covers requirements for calcined clay used as a pozzolanic material for blending with Portland cement to improve durability and reduce heat of hydration",
+   "latest_version": "1981 (First Revision)",
+   "amendment": "Reaffirmed 2005",
+   "normative_refs": [
+    "IS 1489",
+    "IS 269"
+   ],
+   "certification": {
+    "mandatory": false,
+    "scheme": "raw material standard",
+    "note": ""
+   },
+   "combined_text": "Calcined Clay Pozzolana - Specification. Covers requirements for calcined clay used as a pozzolanic material for blending with Portland cement to improve durability and reduce heat of hydration. Category: Cement & Concrete"
+  },
+  {
+   "is_number": "IS 4032:1985",
+   "is_number_clean": "IS 4032",
+   "core_number": "4032",
+   "title": "Method of Chemical Analysis of Hydraulic Cement",
+   "category": "Cement & Concrete",
+   "scope_description": "Describes standard laboratory procedures for chemical analysis of hydraulic cements to verify compliance with compositional requirements",
+   "latest_version": "1985 (First Revision)",
+   "amendment": "Reaffirmed 2005",
+   "normative_refs": [
+    "IS 269",
+    "IS 4031"
+   ],
+   "certification": {
+    "mandatory": false,
+    "scheme": "test method standard",
+    "note": ""
+   },
+   "combined_text": "Method of Chemical Analysis of Hydraulic Cement. Describes standard laboratory procedures for chemical analysis of hydraulic cements to verify compliance with compositional requirements. Category: Cement & Concrete"
+  },
+  {
+   "is_number": "IS 1786:2008",
+   "is_number_clean": "IS 1786",
+   "core_number": "1786",
+   "title": "High Strength Deformed Steel Bars and Wires for Concrete Reinforcement - Specification",
+   "category": "Steel & Metal Products",
+   "scope_description": "Specifies requirements for high yield strength deformed (HYSD/TMT) steel bars and wires used as reinforcement in reinforced cement concrete construction",
+   "latest_version": "2008 (Third Revision)",
+   "amendment": "Amendment 2 (2018)",
+   "normative_refs": [
+    "IS 432",
+    "IS 1608",
+    "IS 456"
+   ],
+   "certification": {
+    "mandatory": true,
+    "scheme": "ISI Mark",
+    "note": "mandatory under Steel and Steel Products QCO"
+   },
+   "combined_text": "High Strength Deformed Steel Bars and Wires for Concrete Reinforcement - Specification. Specifies requirements for high yield strength deformed (HYSD/TMT) steel bars and wires used as reinforcement in reinforced cement concrete construction. Category: Steel & Metal Products"
+  },
+  {
+   "is_number": "IS 432 (Part 1):1982",
+   "is_number_clean": "IS 432 (Part 1)",
+   "core_number": "432",
+   "title": "Mild Steel and Medium Tensile Steel Bars and Hard-Drawn Steel Wire for Concrete Reinforcement, Part 1: Mild Steel and Medium Tensile Steel Bars",
+   "category": "Steel & Metal Products",
+   "scope_description": "Covers requirements for mild steel and medium tensile steel round bars used as reinforcement in plain and reinforced concrete",
+   "latest_version": "1982 (Third Revision)",
+   "amendment": "Reaffirmed 2001",
+   "normative_refs": [
+    "IS 1786",
+    "IS 456"
+   ],
+   "certification": {
+    "mandatory": true,
+    "scheme": "ISI Mark",
+    "note": ""
+   },
+   "combined_text": "Mild Steel and Medium Tensile Steel Bars and Hard-Drawn Steel Wire for Concrete Reinforcement, Part 1: Mild Steel and Medium Tensile Steel Bars. Covers requirements for mild steel and medium tensile steel round bars used as reinforcement in plain and reinforced concrete. Category: Steel & Metal Products"
+  },
+  {
+   "is_number": "IS 808:2021",
+   "is_number_clean": "IS 808",
+   "core_number": "808",
+   "title": "Hot Rolled Steel Beam, Column, Channel and Angle Sections - Dimensions and Properties",
+   "category": "Steel & Metal Products",
+   "scope_description": "Specifies standard dimensions, tolerances and section properties for hot rolled steel beam, column, channel and angle sections used in structural fabrication",
+   "latest_version": "2021 (Fourth Revision)",
+   "amendment": "-",
+   "normative_refs": [
+    "IS 2062",
+    "IS 226"
+   ],
+   "certification": {
+    "mandatory": false,
+    "scheme": "dimensional standard",
+    "note": ""
+   },
+   "combined_text": "Hot Rolled Steel Beam, Column, Channel and Angle Sections - Dimensions and Properties. Specifies standard dimensions, tolerances and section properties for hot rolled steel beam, column, channel and angle sections used in structural fabrication. Category: Steel & Metal Products"
+  },
+  {
+   "is_number": "IS 226:1975",
+   "is_number_clean": "IS 226",
+   "core_number": "226",
+   "title": "Structural Steel (Standard Quality) - Specification",
+   "category": "Steel & Metal Products",
+   "scope_description": "Covers chemical composition and mechanical property requirements for structural steel of standard quality used in general building and bridge construction",
+   "latest_version": "1975 (Fifth Revision)",
+   "amendment": "Reaffirmed 1992",
+   "normative_refs": [
+    "IS 2062",
+    "IS 808"
+   ],
+   "certification": {
+    "mandatory": true,
+    "scheme": "ISI Mark",
+    "note": "largely superseded in practice by IS 2062"
+   },
+   "combined_text": "Structural Steel (Standard Quality) - Specification. Covers chemical composition and mechanical property requirements for structural steel of standard quality used in general building and bridge construction. Category: Steel & Metal Products"
+  },
+  {
+   "is_number": "IS 1367 (Part 1):2002",
+   "is_number_clean": "IS 1367 (Part 1)",
+   "core_number": "1367",
+   "title": "Technical Supply Conditions for Threaded Steel Fasteners, Part 1: General Requirements",
+   "category": "Steel & Metal Products",
+   "scope_description": "Specifies general technical supply conditions applicable to threaded fasteners such as bolts, screws, studs and nuts used in structural and mechanical assembly",
+   "latest_version": "2002",
+   "amendment": "Reaffirmed 2018",
+   "normative_refs": [
+    "IS 1363",
+    "IS 1364"
+   ],
+   "certification": {
+    "mandatory": true,
+    "scheme": "ISI Mark",
+    "note": ""
+   },
+   "combined_text": "Technical Supply Conditions for Threaded Steel Fasteners, Part 1: General Requirements. Specifies general technical supply conditions applicable to threaded fasteners such as bolts, screws, studs and nuts used in structural and mechanical assembly. Category: Steel & Metal Products"
+  },
+  {
+   "is_number": "IS 733:1983",
+   "is_number_clean": "IS 733",
+   "core_number": "733",
+   "title": "Wrought Aluminium and Aluminium Alloy Bars, Rods and Sections for General Engineering Purposes - Specification",
+   "category": "Steel & Metal Products",
+   "scope_description": "Covers requirements for aluminium and aluminium alloy bars, rods and extruded sections used in general engineering and construction applications",
+   "latest_version": "1983 (Second Revision)",
+   "amendment": "Reaffirmed 2001",
+   "normative_refs": [
+    "IS 736",
+    "IS 737"
+   ],
+   "certification": {
+    "mandatory": true,
+    "scheme": "ISI Mark",
+    "note": ""
+   },
+   "combined_text": "Wrought Aluminium and Aluminium Alloy Bars, Rods and Sections for General Engineering Purposes - Specification. Covers requirements for aluminium and aluminium alloy bars, rods and extruded sections used in general engineering and construction applications. Category: Steel & Metal Products"
+  },
+  {
+   "is_number": "IS 210:2009",
+   "is_number_clean": "IS 210",
+   "core_number": "210",
+   "title": "Grey Iron Castings - Specification",
+   "category": "Steel & Metal Products",
+   "scope_description": "Specifies grades and mechanical property requirements for grey iron castings used in pipe fittings, machine parts and general engineering components",
+   "latest_version": "2009 (Fourth Revision)",
+   "amendment": "-",
+   "normative_refs": [
+    "IS 1387"
+   ],
+   "certification": {
+    "mandatory": true,
+    "scheme": "ISI Mark",
+    "note": ""
+   },
+   "combined_text": "Grey Iron Castings - Specification. Specifies grades and mechanical property requirements for grey iron castings used in pipe fittings, machine parts and general engineering components. Category: Steel & Metal Products"
+  },
+  {
+   "is_number": "IS 1030:1998",
+   "is_number_clean": "IS 1030",
+   "core_number": "1030",
+   "title": "Carbon Steel Castings for General Engineering Purposes - Specification",
+   "category": "Steel & Metal Products",
+   "scope_description": "Covers requirements for carbon steel castings used in general engineering applications where moderate strength and ductility are required",
+   "latest_version": "1998 (Third Revision)",
+   "amendment": "Reaffirmed 2013",
+   "normative_refs": [
+    "IS 2062"
+   ],
+   "certification": {
+    "mandatory": true,
+    "scheme": "ISI Mark",
+    "note": ""
+   },
+   "combined_text": "Carbon Steel Castings for General Engineering Purposes - Specification. Covers requirements for carbon steel castings used in general engineering applications where moderate strength and ductility are required. Category: Steel & Metal Products"
+  },
+  {
+   "is_number": "IS 3502:1996",
+   "is_number_clean": "IS 3502",
+   "core_number": "3502",
+   "title": "Steel Chequered Plates - Specification",
+   "category": "Steel & Metal Products",
+   "scope_description": "Specifies dimensions, tolerances and mechanical properties of hot rolled steel chequered plates used for anti-skid flooring and platform surfaces",
+   "latest_version": "1996 (Second Revision)",
+   "amendment": "Reaffirmed 2011",
+   "normative_refs": [
+    "IS 2062"
+   ],
+   "certification": {
+    "mandatory": true,
+    "scheme": "ISI Mark",
+    "note": ""
+   },
+   "combined_text": "Steel Chequered Plates - Specification. Specifies dimensions, tolerances and mechanical properties of hot rolled steel chequered plates used for anti-skid flooring and platform surfaces. Category: Steel & Metal Products"
+  },
+  {
+   "is_number": "IS 1079:2017",
+   "is_number_clean": "IS 1079",
+   "core_number": "1079",
+   "title": "Hot Rolled Carbon Steel Sheet and Strip - Specification",
+   "category": "Steel & Metal Products",
+   "scope_description": "Covers requirements for hot rolled low carbon steel sheet and strip used in general engineering, fabrication and construction applications",
+   "latest_version": "2017 (Sixth Revision)",
+   "amendment": "-",
+   "normative_refs": [
+    "IS 513",
+    "IS 2062"
+   ],
+   "certification": {
+    "mandatory": true,
+    "scheme": "ISI Mark",
+    "note": ""
+   },
+   "combined_text": "Hot Rolled Carbon Steel Sheet and Strip - Specification. Covers requirements for hot rolled low carbon steel sheet and strip used in general engineering, fabrication and construction applications. Category: Steel & Metal Products"
+  },
+  {
+   "is_number": "IS 513:2016",
+   "is_number_clean": "IS 513",
+   "core_number": "513",
+   "title": "Cold Reduced Low Carbon Steel Sheet and Strip - Specification",
+   "category": "Steel & Metal Products",
+   "scope_description": "Specifies requirements for cold rolled low carbon steel sheet and strip used in automotive, appliance and general fabrication applications",
+   "latest_version": "2016 (Sixth Revision)",
+   "amendment": "-",
+   "normative_refs": [
+    "IS 1079"
+   ],
+   "certification": {
+    "mandatory": true,
+    "scheme": "ISI Mark",
+    "note": ""
+   },
+   "combined_text": "Cold Reduced Low Carbon Steel Sheet and Strip - Specification. Specifies requirements for cold rolled low carbon steel sheet and strip used in automotive, appliance and general fabrication applications. Category: Steel & Metal Products"
+  },
+  {
+   "is_number": "IS 6911:2017",
+   "is_number_clean": "IS 6911",
+   "core_number": "6911",
+   "title": "Stainless Steel Plate, Sheet and Strip - Specification",
+   "category": "Steel & Metal Products",
+   "scope_description": "Covers requirements for stainless steel flat products used in corrosion-resistant fabrication, kitchen equipment and architectural applications",
+   "latest_version": "2017 (Second Revision)",
+   "amendment": "-",
+   "normative_refs": [
+    "IS 6603"
+   ],
+   "certification": {
+    "mandatory": true,
+    "scheme": "ISI Mark",
+    "note": ""
+   },
+   "combined_text": "Stainless Steel Plate, Sheet and Strip - Specification. Covers requirements for stainless steel flat products used in corrosion-resistant fabrication, kitchen equipment and architectural applications. Category: Steel & Metal Products"
+  },
+  {
+   "is_number": "IS 6603:2001",
+   "is_number_clean": "IS 6603",
+   "core_number": "6603",
+   "title": "Stainless Steel Bars and Flats - Specification",
+   "category": "Steel & Metal Products",
+   "scope_description": "Specifies requirements for stainless steel bars and flats used in engineering, fabrication and corrosion-resistant structural applications",
+   "latest_version": "2001 (First Revision)",
+   "amendment": "Reaffirmed 2016",
+   "normative_refs": [
+    "IS 6911"
+   ],
+   "certification": {
+    "mandatory": true,
+    "scheme": "ISI Mark",
+    "note": ""
+   },
+   "combined_text": "Stainless Steel Bars and Flats - Specification. Specifies requirements for stainless steel bars and flats used in engineering, fabrication and corrosion-resistant structural applications. Category: Steel & Metal Products"
+  },
+  {
+   "is_number": "IS 1148:1982",
+   "is_number_clean": "IS 1148",
+   "core_number": "1148",
+   "title": "Hot Rolled Rivet Bars (up to 40 mm Diameter) for Structural Purposes - Specification",
+   "category": "Steel & Metal Products",
+   "scope_description": "Covers requirements for hot rolled steel rivet bars used for riveted connections in structural steelwork",
+   "latest_version": "1982 (Third Revision)",
+   "amendment": "Reaffirmed 2001",
+   "normative_refs": [
+    "IS 1929",
+    "IS 2155"
+   ],
+   "certification": {
+    "mandatory": false,
+    "scheme": "largely legacy standard",
+    "note": ""
+   },
+   "combined_text": "Hot Rolled Rivet Bars (up to 40 mm Diameter) for Structural Purposes - Specification. Covers requirements for hot rolled steel rivet bars used for riveted connections in structural steelwork. Category: Steel & Metal Products"
+  },
+  {
+   "is_number": "IS 1730:1989",
+   "is_number_clean": "IS 1730",
+   "core_number": "1730",
+   "title": "Dimensions for Steel Plates, Sheets, Strips and Flats for Structural and General Engineering Purposes",
+   "category": "Steel & Metal Products",
+   "scope_description": "Specifies standard dimensions and tolerances for steel plates, sheets, strips and flats used in structural fabrication and general engineering",
+   "latest_version": "1989 (Second Revision)",
+   "amendment": "Reaffirmed 2004",
+   "normative_refs": [
+    "IS 2062",
+    "IS 1079"
+   ],
+   "certification": {
+    "mandatory": false,
+    "scheme": "dimensional standard",
+    "note": ""
+   },
+   "combined_text": "Dimensions for Steel Plates, Sheets, Strips and Flats for Structural and General Engineering Purposes. Specifies standard dimensions and tolerances for steel plates, sheets, strips and flats used in structural fabrication and general engineering. Category: Steel & Metal Products"
+  },
+  {
+   "is_number": "IS 3952:2018",
+   "is_number_clean": "IS 3952",
+   "core_number": "3952",
+   "title": "Burnt Clay Hollow Bricks and Blocks for Walls and Partitions - Specification",
+   "category": "Bricks & Clay Products",
+   "scope_description": "Covers requirements for hollow burnt clay bricks and blocks used in non-load-bearing wall and partition construction, offering weight and thermal insulation advantages",
+   "latest_version": "2018 (Second Revision)",
+   "amendment": "-",
+   "normative_refs": [
+    "IS 1077",
+    "IS 3495"
+   ],
+   "certification": {
+    "mandatory": true,
+    "scheme": "ISI Mark",
+    "note": ""
+   },
+   "combined_text": "Burnt Clay Hollow Bricks and Blocks for Walls and Partitions - Specification. Covers requirements for hollow burnt clay bricks and blocks used in non-load-bearing wall and partition construction, offering weight and thermal insulation advantages. Category: Bricks & Clay Products"
+  },
+  {
+   "is_number": "IS 6165:1992",
+   "is_number_clean": "IS 6165",
+   "core_number": "6165",
+   "title": "Dimensions for Special Shapes of Clay Bricks",
+   "category": "Bricks & Clay Products",
+   "scope_description": "Specifies standard dimensions for special-shape clay bricks such as bullnose, cant and coping bricks used for architectural and decorative brickwork",
+   "latest_version": "1992 (First Revision)",
+   "amendment": "Reaffirmed 2005",
+   "normative_refs": [
+    "IS 1077"
+   ],
+   "certification": {
+    "mandatory": false,
+    "scheme": "dimensional standard",
+    "note": ""
+   },
+   "combined_text": "Dimensions for Special Shapes of Clay Bricks. Specifies standard dimensions for special-shape clay bricks such as bullnose, cant and coping bricks used for architectural and decorative brickwork. Category: Bricks & Clay Products"
+  },
+  {
+   "is_number": "IS 3590:1966",
+   "is_number_clean": "IS 3590",
+   "core_number": "3590",
+   "title": "Load Bearing Lightweight Concrete Blocks - Specification",
+   "category": "Bricks & Clay Products",
+   "scope_description": "Covers requirements for load-bearing lightweight concrete blocks made using industrial waste aggregates, used in wall construction to reduce dead load",
+   "latest_version": "1966",
+   "amendment": "Reaffirmed 1990",
+   "normative_refs": [
+    "IS 2185",
+    "IS 6042"
+   ],
+   "certification": {
+    "mandatory": true,
+    "scheme": "ISI Mark",
+    "note": ""
+   },
+   "combined_text": "Load Bearing Lightweight Concrete Blocks - Specification. Covers requirements for load-bearing lightweight concrete blocks made using industrial waste aggregates, used in wall construction to reduce dead load. Category: Bricks & Clay Products"
+  },
+  {
+   "is_number": "IS 3115:1978",
+   "is_number_clean": "IS 3115",
+   "core_number": "3115",
+   "title": "Lime Based Blocks - Specification",
+   "category": "Bricks & Clay Products",
+   "scope_description": "Specifies requirements for precast lime-cement-cinder blocks used as a masonry alternative to burnt clay bricks",
+   "latest_version": "1978 (First Revision)",
+   "amendment": "Reaffirmed 2000",
+   "normative_refs": [
+    "IS 6042"
+   ],
+   "certification": {
+    "mandatory": true,
+    "scheme": "ISI Mark",
+    "note": ""
+   },
+   "combined_text": "Lime Based Blocks - Specification. Specifies requirements for precast lime-cement-cinder blocks used as a masonry alternative to burnt clay bricks. Category: Bricks & Clay Products"
+  },
+  {
+   "is_number": "IS 6042:1969",
+   "is_number_clean": "IS 6042",
+   "core_number": "6042",
+   "title": "Code of Practice for Construction of Light Weight Concrete Block Masonry",
+   "category": "Bricks & Clay Products",
+   "scope_description": "Provides guidance on construction practices for walls and partitions built using precast lightweight concrete solid blocks and lime-cement-cinder blocks",
+   "latest_version": "1969",
+   "amendment": "Reaffirmed 1996",
+   "normative_refs": [
+    "IS 3590",
+    "IS 3115"
+   ],
+   "certification": {
+    "mandatory": false,
+    "scheme": "Code of Practice",
+    "note": ""
+   },
+   "combined_text": "Code of Practice for Construction of Light Weight Concrete Block Masonry. Provides guidance on construction practices for walls and partitions built using precast lightweight concrete solid blocks and lime-cement-cinder blocks. Category: Bricks & Clay Products"
+  },
+  {
+   "is_number": "IS 1200 (Part 3):1976",
+   "is_number_clean": "IS 1200 (Part 3)",
+   "core_number": "1200",
+   "title": "Method of Measurement of Building and Civil Engineering Works, Part 3: Brickwork",
+   "category": "Bricks & Clay Products",
+   "scope_description": "Specifies standard methods for measuring brickwork quantities in building and civil engineering works for estimation and billing purposes",
+   "latest_version": "1976 (Second Revision)",
+   "amendment": "Reaffirmed 2003",
+   "normative_refs": [
+    "IS 1077"
+   ],
+   "certification": {
+    "mandatory": false,
+    "scheme": "measurement standard",
+    "note": ""
+   },
+   "combined_text": "Method of Measurement of Building and Civil Engineering Works, Part 3: Brickwork. Specifies standard methods for measuring brickwork quantities in building and civil engineering works for estimation and billing purposes. Category: Bricks & Clay Products"
+  },
+  {
+   "is_number": "IS 11650:1991",
+   "is_number_clean": "IS 11650",
+   "core_number": "11650",
+   "title": "Guide for Manufacture of Common Burnt Clay Building Bricks by Semi-Mechanized Process",
+   "category": "Bricks & Clay Products",
+   "scope_description": "Provides guidance on semi-mechanized manufacturing processes for common burnt clay bricks to improve quality and consistency over manual methods",
+   "latest_version": "1991",
+   "amendment": "Reaffirmed 2005",
+   "normative_refs": [
+    "IS 1077"
+   ],
+   "certification": {
+    "mandatory": false,
+    "scheme": "process guide",
+    "note": ""
+   },
+   "combined_text": "Guide for Manufacture of Common Burnt Clay Building Bricks by Semi-Mechanized Process. Provides guidance on semi-mechanized manufacturing processes for common burnt clay bricks to improve quality and consistency over manual methods. Category: Bricks & Clay Products"
+  },
+  {
+   "is_number": "IS 303:1989",
+   "is_number_clean": "IS 303",
+   "core_number": "303",
+   "title": "Plywood for General Purposes - Specification",
+   "category": "Timber & Wood Products",
+   "scope_description": "Covers requirements for plywood intended for general purpose use in furniture, packing cases and interior applications, including bond quality classification",
+   "latest_version": "1989 (Third Revision)",
+   "amendment": "Amendment 3 (2004)",
+   "normative_refs": [
+    "IS 1734",
+    "IS 710"
+   ],
+   "certification": {
+    "mandatory": true,
+    "scheme": "ISI Mark",
+    "note": ""
+   },
+   "combined_text": "Plywood for General Purposes - Specification. Covers requirements for plywood intended for general purpose use in furniture, packing cases and interior applications, including bond quality classification. Category: Timber & Wood Products"
+  },
+  {
+   "is_number": "IS 2202 (Part 1):1999",
+   "is_number_clean": "IS 2202 (Part 1)",
+   "core_number": "2202",
+   "title": "Wooden Flush Door Shutters (Solid Core Type) - Specification, Part 1: Plywood Face Panels",
+   "category": "Timber & Wood Products",
+   "scope_description": "Specifies requirements for solid-core flush door shutters faced with plywood, covering dimensions, construction and quality grading",
+   "latest_version": "1999 (Third Revision)",
+   "amendment": "Reaffirmed 2004",
+   "normative_refs": [
+    "IS 303",
+    "IS 4020"
+   ],
+   "certification": {
+    "mandatory": true,
+    "scheme": "ISI Mark",
+    "note": ""
+   },
+   "combined_text": "Wooden Flush Door Shutters (Solid Core Type) - Specification, Part 1: Plywood Face Panels. Specifies requirements for solid-core flush door shutters faced with plywood, covering dimensions, construction and quality grading. Category: Timber & Wood Products"
+  },
+  {
+   "is_number": "IS 3097:2006",
+   "is_number_clean": "IS 3097",
+   "core_number": "3097",
+   "title": "Veneered Particle Boards - Specification",
+   "category": "Timber & Wood Products",
+   "scope_description": "Covers requirements for particle boards veneered with decorative wood veneer, used in furniture and interior panelling",
+   "latest_version": "2006 (Second Revision)",
+   "amendment": "-",
+   "normative_refs": [
+    "IS 3087"
+   ],
+   "certification": {
+    "mandatory": true,
+    "scheme": "ISI Mark",
+    "note": ""
+   },
+   "combined_text": "Veneered Particle Boards - Specification. Covers requirements for particle boards veneered with decorative wood veneer, used in furniture and interior panelling. Category: Timber & Wood Products"
+  },
+  {
+   "is_number": "IS 707:1976",
+   "is_number_clean": "IS 707",
+   "core_number": "707",
+   "title": "Glossary of Terms Applicable to Timber Technology and Utilization",
+   "category": "Timber & Wood Products",
+   "scope_description": "Provides standardized definitions of terms used in timber grading, seasoning, conversion and utilization across the timber industry",
+   "latest_version": "1976 (Second Revision)",
+   "amendment": "Reaffirmed 2000",
+   "normative_refs": [
+    "-"
+   ],
+   "certification": {
+    "mandatory": false,
+    "scheme": "terminology standard",
+    "note": ""
+   },
+   "combined_text": "Glossary of Terms Applicable to Timber Technology and Utilization. Provides standardized definitions of terms used in timber grading, seasoning, conversion and utilization across the timber industry. Category: Timber & Wood Products"
+  },
+  {
+   "is_number": "IS 4990:2011",
+   "is_number_clean": "IS 4990",
+   "core_number": "4990",
+   "title": "Plywood for Concrete Shuttering Work - Specification",
+   "category": "Timber & Wood Products",
+   "scope_description": "Specifies requirements for plywood intended for use as shuttering material in concrete formwork, including water resistance and surface finish requirements",
+   "latest_version": "2011 (Third Revision)",
+   "amendment": "-",
+   "normative_refs": [
+    "IS 303",
+    "IS 710"
+   ],
+   "certification": {
+    "mandatory": true,
+    "scheme": "ISI Mark",
+    "note": ""
+   },
+   "combined_text": "Plywood for Concrete Shuttering Work - Specification. Specifies requirements for plywood intended for use as shuttering material in concrete formwork, including water resistance and surface finish requirements. Category: Timber & Wood Products"
+  },
+  {
+   "is_number": "IS 1659:2004",
+   "is_number_clean": "IS 1659",
+   "core_number": "1659",
+   "title": "Block Boards - Specification",
+   "category": "Timber & Wood Products",
+   "scope_description": "Covers requirements for block board panels made of a wood core sandwiched between veneers, used in furniture and door manufacture",
+   "latest_version": "2004 (Second Revision)",
+   "amendment": "-",
+   "normative_refs": [
+    "IS 303"
+   ],
+   "certification": {
+    "mandatory": true,
+    "scheme": "ISI Mark",
+    "note": ""
+   },
+   "combined_text": "Block Boards - Specification. Covers requirements for block board panels made of a wood core sandwiched between veneers, used in furniture and door manufacture. Category: Timber & Wood Products"
+  },
+  {
+   "is_number": "IS 2074:1992",
+   "is_number_clean": "IS 2074",
+   "core_number": "2074",
+   "title": "Ready Mixed Paint, Air Drying, Red Oxide-Zinc Chrome, Priming - Specification",
+   "category": "Paints & Coatings",
+   "scope_description": "Specifies requirements for red oxide-zinc chrome priming paint used as a first coat on ferrous metal surfaces to inhibit corrosion before finishing coats",
+   "latest_version": "1992 (Second Revision)",
+   "amendment": "Reaffirmed 2006",
+   "normative_refs": [
+    "IS 101",
+    "IS 1477"
+   ],
+   "certification": {
+    "mandatory": true,
+    "scheme": "ISI Mark",
+    "note": ""
+   },
+   "combined_text": "Ready Mixed Paint, Air Drying, Red Oxide-Zinc Chrome, Priming - Specification. Specifies requirements for red oxide-zinc chrome priming paint used as a first coat on ferrous metal surfaces to inhibit corrosion before finishing coats. Category: Paints & Coatings"
+  },
+  {
+   "is_number": "IS 133:1993",
+   "is_number_clean": "IS 133",
+   "core_number": "133",
+   "title": "Ready Mixed Paint, Brushing, Bituminous, Black, Lead-Free, Acid, Alkali, Heat and Water Resisting - Specification",
+   "category": "Paints & Coatings",
+   "scope_description": "Covers requirements for bituminous black paint used for corrosion protection of metal and masonry surfaces exposed to moisture and chemical attack",
+   "latest_version": "1993 (Third Revision)",
+   "amendment": "Reaffirmed 2004",
+   "normative_refs": [
+    "IS 101"
+   ],
+   "certification": {
+    "mandatory": true,
+    "scheme": "ISI Mark",
+    "note": ""
+   },
+   "combined_text": "Ready Mixed Paint, Brushing, Bituminous, Black, Lead-Free, Acid, Alkali, Heat and Water Resisting - Specification. Covers requirements for bituminous black paint used for corrosion protection of metal and masonry surfaces exposed to moisture and chemical attack. Category: Paints & Coatings"
+  },
+  {
+   "is_number": "IS 337:2004",
+   "is_number_clean": "IS 337",
+   "core_number": "337",
+   "title": "Varnish, Finishing, Exterior - Specification",
+   "category": "Paints & Coatings",
+   "scope_description": "Specifies requirements for exterior-grade finishing varnish used to protect and enhance the appearance of wood and metal surfaces exposed to weather",
+   "latest_version": "2004 (Second Revision)",
+   "amendment": "-",
+   "normative_refs": [
+    "IS 101"
+   ],
+   "certification": {
+    "mandatory": true,
+    "scheme": "ISI Mark",
+    "note": ""
+   },
+   "combined_text": "Varnish, Finishing, Exterior - Specification. Specifies requirements for exterior-grade finishing varnish used to protect and enhance the appearance of wood and metal surfaces exposed to weather. Category: Paints & Coatings"
+  },
+  {
+   "is_number": "IS 5411 (Part 1):1974",
+   "is_number_clean": "IS 5411 (Part 1)",
+   "core_number": "5411",
+   "title": "Plastic Emulsion Paint, Part 1: For Interior Use - Specification",
+   "category": "Paints & Coatings",
+   "scope_description": "Covers requirements for water-based plastic emulsion paint used for decorative and protective finishing of interior walls and ceilings",
+   "latest_version": "1974",
+   "amendment": "Reaffirmed 2000",
+   "normative_refs": [
+    "IS 101"
+   ],
+   "certification": {
+    "mandatory": true,
+    "scheme": "ISI Mark",
+    "note": ""
+   },
+   "combined_text": "Plastic Emulsion Paint, Part 1: For Interior Use - Specification. Covers requirements for water-based plastic emulsion paint used for decorative and protective finishing of interior walls and ceilings. Category: Paints & Coatings"
+  },
+  {
+   "is_number": "IS 14735:1999",
+   "is_number_clean": "IS 14735",
+   "core_number": "14735",
+   "title": "Unplasticized PVC Pipes for Use in Agricultural Applications - Specification",
+   "category": "Plastic Products",
+   "scope_description": "Covers requirements for unplasticized PVC pipes intended for irrigation and agricultural water conveyance systems",
+   "latest_version": "1999",
+   "amendment": "Reaffirmed 2010",
+   "normative_refs": [
+    "IS 4985",
+    "IS 12235"
+   ],
+   "certification": {
+    "mandatory": true,
+    "scheme": "ISI Mark",
+    "note": ""
+   },
+   "combined_text": "Unplasticized PVC Pipes for Use in Agricultural Applications - Specification. Covers requirements for unplasticized PVC pipes intended for irrigation and agricultural water conveyance systems. Category: Plastic Products"
+  },
+  {
+   "is_number": "IS 7834 (Part 1):1987",
+   "is_number_clean": "IS 7834 (Part 1)",
+   "core_number": "7834",
+   "title": "Injection Moulded PVC Fittings with Solvent Cement Joints for Water Supplies, Part 1: General Requirements",
+   "category": "Plastic Products",
+   "scope_description": "Specifies general requirements for injection-moulded rigid PVC pipe fittings used with solvent cement joints in water supply systems",
+   "latest_version": "1987",
+   "amendment": "Reaffirmed 2004",
+   "normative_refs": [
+    "IS 4985"
+   ],
+   "certification": {
+    "mandatory": true,
+    "scheme": "ISI Mark",
+    "note": ""
+   },
+   "combined_text": "Injection Moulded PVC Fittings with Solvent Cement Joints for Water Supplies, Part 1: General Requirements. Specifies general requirements for injection-moulded rigid PVC pipe fittings used with solvent cement joints in water supply systems. Category: Plastic Products"
+  },
+  {
+   "is_number": "IS 12786:1989",
+   "is_number_clean": "IS 12786",
+   "core_number": "12786",
+   "title": "Polypropylene Ropes - Specification",
+   "category": "Plastic Products",
+   "scope_description": "Covers requirements for ropes made from polypropylene fibre used in general purpose, marine and industrial applications",
+   "latest_version": "1989",
+   "amendment": "Reaffirmed 2005",
+   "normative_refs": [
+    "-"
+   ],
+   "certification": {
+    "mandatory": true,
+    "scheme": "ISI Mark",
+    "note": ""
+   },
+   "combined_text": "Polypropylene Ropes - Specification. Covers requirements for ropes made from polypropylene fibre used in general purpose, marine and industrial applications. Category: Plastic Products"
+  },
+  {
+   "is_number": "IS 1729:2019",
+   "is_number_clean": "IS 1729",
+   "core_number": "1729",
+   "title": "Cast Iron/Ductile Iron Fittings for Pressure Pipes - Specification",
+   "category": "Water Supply & Pipes",
+   "scope_description": "Covers requirements for cast iron and ductile iron pipe fittings used with pressure pipelines in water supply and sewage systems",
+   "latest_version": "2019 (Third Revision)",
+   "amendment": "-",
+   "normative_refs": [
+    "IS 8329",
+    "IS 1538"
+   ],
+   "certification": {
+    "mandatory": true,
+    "scheme": "ISI Mark",
+    "note": ""
+   },
+   "combined_text": "Cast Iron/Ductile Iron Fittings for Pressure Pipes - Specification. Covers requirements for cast iron and ductile iron pipe fittings used with pressure pipelines in water supply and sewage systems. Category: Water Supply & Pipes"
+  },
+  {
+   "is_number": "IS 8329:2000",
+   "is_number_clean": "IS 8329",
+   "core_number": "8329",
+   "title": "Centrifugally Cast (Spun) Ductile Iron Pressure Pipes for Water, Gas and Sewage - Specification",
+   "category": "Water Supply & Pipes",
+   "scope_description": "Specifies requirements for spun ductile iron pressure pipes used in municipal water supply, gas distribution and sewage conveyance networks",
+   "latest_version": "2000 (First Revision)",
+   "amendment": "Reaffirmed 2015",
+   "normative_refs": [
+    "IS 1729"
+   ],
+   "certification": {
+    "mandatory": true,
+    "scheme": "ISI Mark",
+    "note": ""
+   },
+   "combined_text": "Centrifugally Cast (Spun) Ductile Iron Pressure Pipes for Water, Gas and Sewage - Specification. Specifies requirements for spun ductile iron pressure pipes used in municipal water supply, gas distribution and sewage conveyance networks. Category: Water Supply & Pipes"
+  },
+  {
+   "is_number": "IS 3589:2001",
+   "is_number_clean": "IS 3589",
+   "core_number": "3589",
+   "title": "Electrically Welded Steel Pipes for Water, Gas and Sewage - Specification",
+   "category": "Water Supply & Pipes",
+   "scope_description": "Covers requirements for electrically welded straight-seam steel pipes used in water, gas and sewage transmission lines",
+   "latest_version": "2001 (Second Revision)",
+   "amendment": "Reaffirmed 2016",
+   "normative_refs": [
+    "IS 1239"
+   ],
+   "certification": {
+    "mandatory": true,
+    "scheme": "ISI Mark",
+    "note": ""
+   },
+   "combined_text": "Electrically Welded Steel Pipes for Water, Gas and Sewage - Specification. Covers requirements for electrically welded straight-seam steel pipes used in water, gas and sewage transmission lines. Category: Water Supply & Pipes"
+  },
+  {
+   "is_number": "IS 780:2000",
+   "is_number_clean": "IS 780",
+   "core_number": "780",
+   "title": "Sluice Valves for Water Works Purposes (50 to 1200 mm Size) - Specification",
+   "category": "Water Supply & Pipes",
+   "scope_description": "Specifies requirements for sluice valves used to control flow in water distribution networks and pumping systems",
+   "latest_version": "2000 (Third Revision)",
+   "amendment": "Reaffirmed 2015",
+   "normative_refs": [
+    "IS 14846"
+   ],
+   "certification": {
+    "mandatory": true,
+    "scheme": "ISI Mark",
+    "note": ""
+   },
+   "combined_text": "Sluice Valves for Water Works Purposes (50 to 1200 mm Size) - Specification. Specifies requirements for sluice valves used to control flow in water distribution networks and pumping systems. Category: Water Supply & Pipes"
+  },
+  {
+   "is_number": "IS 14846:2000",
+   "is_number_clean": "IS 14846",
+   "core_number": "14846",
+   "title": "Butterfly Valves for General Purposes - Specification",
+   "category": "Water Supply & Pipes",
+   "scope_description": "Covers requirements for butterfly valves used for flow regulation in water supply, irrigation and industrial piping systems",
+   "latest_version": "2000",
+   "amendment": "Reaffirmed 2015",
+   "normative_refs": [
+    "IS 780"
+   ],
+   "certification": {
+    "mandatory": true,
+    "scheme": "ISI Mark",
+    "note": ""
+   },
+   "combined_text": "Butterfly Valves for General Purposes - Specification. Covers requirements for butterfly valves used for flow regulation in water supply, irrigation and industrial piping systems. Category: Water Supply & Pipes"
+  },
+  {
+   "is_number": "IS 1554 (Part 1):1988",
+   "is_number_clean": "IS 1554 (Part 1)",
+   "core_number": "1554",
+   "title": "PVC Insulated (Heavy Duty) Electric Cables, Part 1: For Working Voltages up to and Including 1100 V - Specification",
+   "category": "Electrical & Wiring",
+   "scope_description": "Specifies requirements for heavy-duty PVC insulated power cables used in industrial and low-voltage distribution wiring installations",
+   "latest_version": "1988 (Second Revision)",
+   "amendment": "Reaffirmed 2006",
+   "normative_refs": [
+    "IS 694",
+    "IS 5831"
+   ],
+   "certification": {
+    "mandatory": true,
+    "scheme": "ISI Mark",
+    "note": ""
+   },
+   "combined_text": "PVC Insulated (Heavy Duty) Electric Cables, Part 1: For Working Voltages up to and Including 1100 V - Specification. Specifies requirements for heavy-duty PVC insulated power cables used in industrial and low-voltage distribution wiring installations. Category: Electrical & Wiring"
+  },
+  {
+   "is_number": "IS 7098 (Part 1):1988",
+   "is_number_clean": "IS 7098 (Part 1)",
+   "core_number": "7098",
+   "title": "Cross-Linked Polyethylene Insulated PVC Sheathed Cables, Part 1: For Working Voltages up to and Including 1100 V - Specification",
+   "category": "Electrical & Wiring",
+   "scope_description": "Covers requirements for XLPE insulated power cables used in industrial wiring and distribution applications requiring higher thermal performance",
+   "latest_version": "1988 (Second Revision)",
+   "amendment": "Reaffirmed 2006",
+   "normative_refs": [
+    "IS 694"
+   ],
+   "certification": {
+    "mandatory": true,
+    "scheme": "ISI Mark",
+    "note": ""
+   },
+   "combined_text": "Cross-Linked Polyethylene Insulated PVC Sheathed Cables, Part 1: For Working Voltages up to and Including 1100 V - Specification. Covers requirements for XLPE insulated power cables used in industrial wiring and distribution applications requiring higher thermal performance. Category: Electrical & Wiring"
+  },
+  {
+   "is_number": "IS 3854:1997",
+   "is_number_clean": "IS 3854",
+   "core_number": "3854",
+   "title": "Switches for Domestic and Similar Purposes - Specification",
+   "category": "Electrical & Wiring",
+   "scope_description": "Specifies requirements for AC electrical switches used in domestic and similar low-voltage wiring installations",
+   "latest_version": "1997 (Second Revision)",
+   "amendment": "Amendment 3 (2013)",
+   "normative_refs": [
+    "IS 4615",
+    "IS 694"
+   ],
+   "certification": {
+    "mandatory": true,
+    "scheme": "ISI Mark",
+    "note": ""
+   },
+   "combined_text": "Switches for Domestic and Similar Purposes - Specification. Specifies requirements for AC electrical switches used in domestic and similar low-voltage wiring installations. Category: Electrical & Wiring"
+  },
+  {
+   "is_number": "IS 5983:2013",
+   "is_number_clean": "IS 5983",
+   "core_number": "5983",
+   "title": "Eye Protectors - Specification",
+   "category": "Safety Equipment",
+   "scope_description": "Specifies requirements for eye protection devices used to safeguard against impact, dust and chemical splash hazards in industrial and construction settings",
+   "latest_version": "2013 (Second Revision)",
+   "amendment": "-",
+   "normative_refs": [
+    "IS 15298"
+   ],
+   "certification": {
+    "mandatory": true,
+    "scheme": "ISI Mark",
+    "note": ""
+   },
+   "combined_text": "Eye Protectors - Specification. Specifies requirements for eye protection devices used to safeguard against impact, dust and chemical splash hazards in industrial and construction settings. Category: Safety Equipment"
+  },
+  {
+   "is_number": "IS 4770:1991",
+   "is_number_clean": "IS 4770",
+   "core_number": "4770",
+   "title": "Rubber Gloves for Electrical Purposes - Specification",
+   "category": "Safety Equipment",
+   "scope_description": "Covers requirements for insulating rubber gloves used to protect workers from electric shock while handling live electrical equipment",
+   "latest_version": "1991 (Second Revision)",
+   "amendment": "Reaffirmed 2007",
+   "normative_refs": [
+    "IS 6994"
+   ],
+   "certification": {
+    "mandatory": true,
+    "scheme": "ISI Mark",
+    "note": ""
+   },
+   "combined_text": "Rubber Gloves for Electrical Purposes - Specification. Covers requirements for insulating rubber gloves used to protect workers from electric shock while handling live electrical equipment. Category: Safety Equipment"
+  },
+  {
+   "is_number": "IS 2386 (Part 2):1963",
+   "is_number_clean": "IS 2386 (Part 2)",
+   "core_number": "2386",
+   "title": "Methods of Test for Aggregates for Concrete, Part 2: Estimation of Deleterious Materials and Organic Impurities",
+   "category": "Aggregates & Sand",
+   "scope_description": "Specifies test methods for estimating deleterious materials, clay lumps and organic impurities present in aggregates used for concrete",
+   "latest_version": "1963",
+   "amendment": "Reaffirmed 2016",
+   "normative_refs": [
+    "IS 383",
+    "IS 2386 (Part 1)"
+   ],
+   "certification": {
+    "mandatory": false,
+    "scheme": "test method standard",
+    "note": ""
+   },
+   "combined_text": "Methods of Test for Aggregates for Concrete, Part 2: Estimation of Deleterious Materials and Organic Impurities. Specifies test methods for estimating deleterious materials, clay lumps and organic impurities present in aggregates used for concrete. Category: Aggregates & Sand"
+  },
+  {
+   "is_number": "IS 2386 (Part 4):1963",
+   "is_number_clean": "IS 2386 (Part 4)",
+   "core_number": "2386",
+   "title": "Methods of Test for Aggregates for Concrete, Part 4: Mechanical Properties",
+   "category": "Aggregates & Sand",
+   "scope_description": "Specifies test methods for determining mechanical properties of aggregates including crushing value, impact value and abrasion resistance",
+   "latest_version": "1963",
+   "amendment": "Reaffirmed 2016",
+   "normative_refs": [
+    "IS 383",
+    "IS 2386 (Part 1)"
+   ],
+   "certification": {
+    "mandatory": false,
+    "scheme": "test method standard",
+    "note": ""
+   },
+   "combined_text": "Methods of Test for Aggregates for Concrete, Part 4: Mechanical Properties. Specifies test methods for determining mechanical properties of aggregates including crushing value, impact value and abrasion resistance. Category: Aggregates & Sand"
+  },
+  {
+   "is_number": "IS 3548:1988",
+   "is_number_clean": "IS 3548",
+   "core_number": "3548",
+   "title": "Wooden Furniture - General Requirements - Specification",
+   "category": "Furniture",
+   "scope_description": "Covers general construction, finish and quality requirements applicable to wooden furniture including joinery and surface treatment",
+   "latest_version": "1988 (First Revision)",
+   "amendment": "Reaffirmed 2003",
+   "normative_refs": [
+    "IS 303"
+   ],
+   "certification": {
+    "mandatory": false,
+    "scheme": "general requirements standard",
+    "note": ""
+   },
+   "combined_text": "Wooden Furniture - General Requirements - Specification. Covers general construction, finish and quality requirements applicable to wooden furniture including joinery and surface treatment. Category: Furniture"
+  },
+  {
+   "is_number": "IS 4364:1980",
+   "is_number_clean": "IS 4364",
+   "core_number": "4364",
+   "title": "Polyvinyl Acetate (PVAc) Dispersion Based Adhesives for Wood - Specification",
+   "category": "Adhesives",
+   "scope_description": "Specifies requirements for PVAc-based adhesives used for bonding wood and wood-based products in furniture and joinery applications",
+   "latest_version": "1980 (First Revision)",
+   "amendment": "Reaffirmed 2000",
+   "normative_refs": [
+    "IS 848"
+   ],
+   "certification": {
+    "mandatory": true,
+    "scheme": "ISI Mark",
+    "note": ""
+   },
+   "combined_text": "Polyvinyl Acetate (PVAc) Dispersion Based Adhesives for Wood - Specification. Specifies requirements for PVAc-based adhesives used for bonding wood and wood-based products in furniture and joinery applications. Category: Adhesives"
+  }
+ ]
+}

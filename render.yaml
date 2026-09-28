@@ -1,0 +1,31 @@
+# Render Blueprint — Standard Setu backend (SIH26108)
+#
+# Deploy: Render dashboard -> "New +" -> "Blueprint" -> pick this repo.
+# This replaces the old Vercel serverless config (backend/vercel.json,
+# deleted): Vercel's Python serverless functions have cold-start + memory
+# behavior that clashes with a resident ML model, while Render's Docker
+# service hosts the uvicorn process directly.
+#
+# The Dockerfile already: installs CPU-only torch + onnxruntime, runs
+# scripts/build_embeddings.py (ONNX export + int8 quantization + registry
+# embedding matrix + parity gate), and starts ONE uvicorn worker with
+# thread caps — the memory optimization for the 512 MB free plan.
+
+services:
+  - type: web
+    name: standard-setu
+    runtime: docker
+    plan: free
+    region: singapore              # closest free region to India
+    healthCheckPath: /health
+    autoDeploy: true
+    envVars:
+      - key: PYTHON_VERSION
+        value: "3.11.9"
+      - key: DEBUG
+        value: "false"
+      - key: CORS_ORIGINS
+        value: "*"                 # tighten to your frontend URL for production
+      # Add secrets in the Render dashboard (never commit them):
+      #   GEMINI_API_KEY, HF_TOKEN, LLM_PROVIDER, ...
+      # The app degrades gracefully to rule-based mode when they are absent.

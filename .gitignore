@@ -1,0 +1,50 @@
+# Dependencies
+node_modules/
+frontend/node_modules/
+
+# Next.js
+.next/
+frontend/.next/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment secrets
+.env
+backend/.env
+
+# Logs
+*.log
+*.log.err
+frontend/frontend.log
+backend/backend.log
+backend/backend.log.err
+
+# Reference material is versioned as plain source (pkl included via LFS if needed)
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+
+# Freebuff internal
+.freebuff/
+
+# Temp files
+backend.pid
+UsersaneesAppDataLocalTempsidebar_gen.js
+gemini_result.json
+
+# Build artifacts
+*.tsbuildinfo
+
+# Embedding artifacts are generated at Docker build time (scripts/build_embeddings.py)
+backend/data/*.onnx
+backend/data/standards_embeddings.npy
+backend/data/standards_embeddings.meta.json

@@ -1,0 +1,41 @@
+{
+ "audit_date": "2026-09-27",
+ "corrections": [
+  {
+   "standard": "IS 1489 (Part 2)",
+   "field": "latest_version",
+   "old_value": "1991",
+   "new_value": "2015 (Fourth Revision)",
+   "reason": "BIS public document mirror lists IS 1489 (Part 2): 2015 (Fourth Revision) as the current edition.",
+   "source": "https://archive.org/details/gov.in.is.1489.2.2015 + BIS Scheme-1 cement list",
+   "severity": "high"
+  },
+  {
+   "standard": "IS 1489 (Part 2)",
+   "field": "amendment",
+   "old_value": "Reaffirmed 2010",
+   "new_value": "",
+   "reason": "'Reaffirmed 2020' belonged to the superseded 1991-edition lineage; amendments of the 2015 edition not yet confirmed from an official source.",
+   "source": "backend/data/government_sources.json",
+   "severity": "medium"
+  },
+  {
+   "standard": "IS 4984",
+   "field": "latest_version",
+   "old_value": "2016 (Fourth Revision)",
+   "new_value": "2016 (Fifth Revision)",
+   "reason": "Official BIS book/product-manual listings cite 'IS 4984:2016 Polyethylene Pipes for Water Supply - Specification (Fifth Revision)'.",
+   "source": "https://www.bis.gov.in/book-14-textile/",
+   "severity": "medium"
+  },
+  {
+   "standard": "IS 4984",
+   "field": "title",
+   "old_value": "High Density Polyethylene (HDPE) Pipes for Potable Water Supply - Specification",
+   "new_value": "Polyethylene Pipes for Water Supply - Specification",
+   "reason": "BIS renamed the standard: the 2016 (Fifth Revision) edition covers PE pipes generally, not only HDPE.",
+   "source": "https://www.bis.gov.in/book-14-textile/",
+   "severity": "medium"
+  }
+ ]
+}

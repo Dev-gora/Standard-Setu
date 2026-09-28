@@ -1,0 +1,2437 @@
+{
+ "history": [
+  {
+   "id": "e74f69799389",
+   "ts": "2026-09-26T15:09:40+05:30",
+   "kind": "recommendation",
+   "query": "Reinforcement bars for concrete in a bridge deck",
+   "title": "High Strength Deformed Steel Bars and Wires for Concrete Reinforcement - Specification",
+   "status": "completed",
+   "session_id": "local",
+   "payload": {
+    "selected": "IS 1786",
+    "match_score": 83,
+    "candidates": [
+     {
+      "code": "IS 1786",
+      "title": "High Strength Deformed Steel Bars and Wires for Concrete Reinforcement - Specification",
+      "relevance_score": 0.625,
+      "match_score": 83,
+      "certification": {
+       "mandatory": true,
+       "scheme": "ISI Mark",
+       "note": "mandatory under Steel and Steel Products QCO"
+      }
+     },
+     {
+      "code": "IS 432 (Part 1)",
+      "title": "Mild Steel and Medium Tensile Steel Bars and Hard-Drawn Steel Wire for Concrete Reinforcement, Part 1: Mild Steel and Medium Tensile Steel Bars",
+      "relevance_score": 0.625,
+      "match_score": 83,
+      "certification": {
+       "mandatory": true,
+       "scheme": "ISI Mark",
+       "note": ""
+      }
+     },
+     {
+      "code": "IS 458",
+      "title": "Precast Concrete Pipes (With and Without Reinforcement) - Specification",
+      "relevance_score": 0.5,
+      "match_score": 67,
+      "certification": {
+       "mandatory": true,
+       "scheme": "ISI Mark",
+       "note": ""
+      }
+     },
+     {
+      "code": "IS 3812 (Part 1)",
+      "title": "Pulverized Fuel Ash - Specification, Part 1: For Use as Pozzolana in Cement, Cement Mortar and Concrete",
+      "relevance_score": 0.5,
+      "match_score": 67,
+      "certification": {
+       "mandatory": false,
+       "scheme": "raw material standard",
+       "note": ""
+      }
+     }
+    ],
+    "tender_block": "Supply shall conform to IS 1786:2008 (as amended — Amendment 2 (2018)) — High Strength Deformed Steel Bars and Wires for Concrete Reinforcement - Specification. Allied standards to be considered: IS 432 (Part 1), IS 456. BIS certification is mandatory (ISI Mark). mandatory under Steel and Steel Products QCO Bidders must furnish a valid licence covering the specified grade/size.",
+    "evidence": [
+     {
+      "claim": "Requirement matches this standard's scope: High Strength Deformed Steel Bars and Wires for Concrete Reinforcement - Specification",
+      "kind": "scope",
+      "evidence": {
+       "standard": "IS 1786",
+       "edition": "2008 (Third Revision)",
+       "document": "1786 (1).pdf",
+       "page": 4,
+       "clause": "4.1.3",
+       "url": "https://archive.org/details/gov.in.is.1786.2008",
+       "evidence": "4.1.3 The steel barshvires for concrete reinforcement",
+       "available": true,
+       "unavailable_reason": ""
+      }
+     },
+     {
+      "claim": "Registry edition on record: 2008 (Third Revision), Amendment 2 (2018)",
+      "kind": "edition",
+      "evidence": {
+       "standard": "IS 1786",
+       "edition": "2008 (Third Revision)",
+       "document": "1786 (1).pdf",
+       "page": 3,
+       "clause": null,
+       "url": "https://archive.org/details/gov.in.is.1786.2008",
+       "evidence": "Free Standard provided by BIS via BSB Edge Private Limited to Vellore Institute of Technology -\nVijayawada(priyadarshini.24bca7451@vitapstudent.ac.in) 112.133.220.140.\nIS 1786:2008\nIndian Standard\nHIG",
+       "available": true,
+       "unavailable_reason": ""
+      }
+     },
+     {
+      "claim": "BIS certification is mandatory for this product",
+      "kind": "certification",
+      "evidence": {
+       "standard": "IS 1786",
+       "edition": "2008 (Third Revision)",
+       "document": "",
+       "page": null,
+       "clause": null,
+       "url": "https://archive.org/details/gov.in.is.1786.2008",
+       "evidence": "",
+       "available": false,
+       "unavailable_reason": "qco_source_not_indexed"
+      }
+     }
+    ]
+   }
+  },
+  {
+   "id": "293a0371c63c",
+   "ts": "2026-09-26T15:09:48+05:30",
+   "kind": "verification",
+   "query": "CM/L-8700123456",
+   "title": "Test Steel",
+   "status": "completed",
+   "session_id": "local",
+   "payload": {
+    "status": "unable_to_verify",
+    "is_number": "IS 1786",
+    "detail": "The licence number appears on the BIS portal, but full status fields (validity, product) are behind an interactive form that this tool does not scrape. Verify the details at https://www.manakonline.in/MANAK/ApplicationLicenceRelatedrpt"
+   }
+  },
+  {
+   "id": "3d98449c76d4",
+   "ts": "2026-09-26T15:09:48+05:30",
+   "kind": "verification",
+   "query": "bogus",
+   "title": "bogus",
+   "status": "completed",
+   "session_id": "local",
+   "payload": {
+    "status": "invalid",
+    "is_number": "",
+    "detail": "Licence number format is not valid. Expected CM/L-XXXXXXXXXX (BIS manufacturing licence format)."
+   }
+  },
+  {
+   "id": "3a3319a9c038",
+   "ts": "2026-09-26T15:10:14+05:30",
+   "kind": "recommendation",
+   "query": "Reinforcement bars for concrete in a bridge deck",
+   "title": "High Strength Deformed Steel Bars and Wires for Concrete Reinforcement - Specification",
+   "status": "completed",
+   "session_id": "local",
+   "payload": {
+    "selected": "IS 1786",
+    "match_score": 83,
+    "candidates": [
+     {
+      "code": "IS 1786",
+      "title": "High Strength Deformed Steel Bars and Wires for Concrete Reinforcement - Specification",
+      "relevance_score": 0.625,
+      "match_score": 83,
+      "certification": {
+       "mandatory": true,
+       "scheme": "ISI Mark",
+       "note": "mandatory under Steel and Steel Products QCO"
+      }
+     },
+     {
+      "code": "IS 432 (Part 1)",
+      "title": "Mild Steel and Medium Tensile Steel Bars and Hard-Drawn Steel Wire for Concrete Reinforcement, Part 1: Mild Steel and Medium Tensile Steel Bars",
+      "relevance_score": 0.625,
+      "match_score": 83,
+      "certification": {
+       "mandatory": true,
+       "scheme": "ISI Mark",
+       "note": ""
+      }
+     },
+     {
+      "code": "IS 458",
+      "title": "Precast Concrete Pipes (With and Without Reinforcement) - Specification",
+      "relevance_score": 0.5,
+      "match_score": 67,
+      "certification": {
+       "mandatory": true,
+       "scheme": "ISI Mark",
+       "note": ""
+      }
+     },
+     {
+      "code": "IS 3812 (Part 1)",
+      "title": "Pulverized Fuel Ash - Specification, Part 1: For Use as Pozzolana in Cement, Cement Mortar and Concrete",
+      "relevance_score": 0.5,
+      "match_score": 67,
+      "certification": {
+       "mandatory": false,
+       "scheme": "raw material standard",
+       "note": ""
+      }
+     }
+    ],
+    "tender_block": "Supply shall conform to IS 1786:2008 (as amended — Amendment 2 (2018)) — High Strength Deformed Steel Bars and Wires for Concrete Reinforcement - Specification. Allied standards to be considered: IS 432 (Part 1), IS 456. BIS certification is mandatory (ISI Mark). mandatory under Steel and Steel Products QCO Bidders must furnish a valid licence covering the specified grade/size.",
+    "evidence": [
+     {
+      "claim": "Requirement matches this standard's scope: High Strength Deformed Steel Bars and Wires for Concrete Reinforcement - Specification",
+      "kind": "scope",
+      "evidence": {
+       "standard": "IS 1786",
+       "edition": "2008 (Third Revision)",
+       "document": "1786 (1).pdf",
+       "page": 4,
+       "clause": "4.1.3",
+       "url": "https://archive.org/details/gov.in.is.1786.2008",
+       "evidence": "4.1.3 The steel barshvires for concrete reinforcement",
+       "available": true,
+       "unavailable_reason": ""
+      }
+     },
+     {
+      "claim": "Registry edition on record: 2008 (Third Revision), Amendment 2 (2018)",
+      "kind": "edition",
+      "evidence": {
+       "standard": "IS 1786",
+       "edition": "2008 (Third Revision)",
+       "document": "1786 (1).pdf",
+       "page": 3,
+       "clause": null,
+       "url": "https://archive.org/details/gov.in.is.1786.2008",
+       "evidence": "Free Standard provided by BIS via BSB Edge Private Limited to Vellore Institute of Technology -\nVijayawada(priyadarshini.24bca7451@vitapstudent.ac.in) 112.133.220.140.\nIS 1786:2008\nIndian Standard\nHIG",
+       "available": true,
+       "unavailable_reason": ""
+      }
+     },
+     {
+      "claim": "BIS certification is mandatory for this product",
+      "kind": "certification",
+      "evidence": {
+       "standard": "IS 1786",
+       "edition": "2008 (Third Revision)",
+       "document": "",
+       "page": null,
+       "clause": null,
+       "url": "https://archive.org/details/gov.in.is.1786.2008",
+       "evidence": "",
+       "available": false,
+       "unavailable_reason": "qco_source_not_indexed"
+      }
+     }
+    ]
+   }
+  },
+  {
+   "id": "a35e905f6a38",
+   "ts": "2026-09-26T15:10:14+05:30",
+   "kind": "verification",
+   "query": "CM/L-8700123456",
+   "title": "Test Steel",
+   "status": "completed",
+   "session_id": "local",
+   "payload": {
+    "status": "unable_to_verify",
+    "is_number": "IS 1786",
+    "detail": "The licence number appears on the BIS portal, but full status fields (validity, product) are behind an interactive form that this tool does not scrape. Verify the details at https://www.manakonline.in/MANAK/ApplicationLicenceRelatedrpt"
+   }
+  },
+  {
+   "id": "312661bc4950",
+   "ts": "2026-09-26T15:10:14+05:30",
+   "kind": "verification",
+   "query": "bogus",
+   "title": "bogus",
+   "status": "completed",
+   "session_id": "local",
+   "payload": {
+    "status": "invalid",
+    "is_number": "",
+    "detail": "Licence number format is not valid. Expected CM/L-XXXXXXXXXX (BIS manufacturing licence format)."
+   }
+  },
+  {
+   "id": "70f26cfe4196",
+   "ts": "2026-09-26T15:12:39+05:30",
+   "kind": "recommendation",
+   "query": "Reinforcement bars for concrete in a bridge deck",
+   "title": "High Strength Deformed Steel Bars and Wires for Concrete Reinforcement - Specification",
+   "status": "completed",
+   "session_id": "local",
+   "payload": {
+    "selected": "IS 1786",
+    "match_score": 83,
+    "candidates": [
+     {
+      "code": "IS 1786",
+      "title": "High Strength Deformed Steel Bars and Wires for Concrete Reinforcement - Specification",
+      "relevance_score": 0.625,
+      "match_score": 83,
+      "certification": {
+       "mandatory": true,
+       "scheme": "ISI Mark",
+       "note": "mandatory under Steel and Steel Products QCO"
+      }
+     },
+     {
+      "code": "IS 432 (Part 1)",
+      "title": "Mild Steel and Medium Tensile Steel Bars and Hard-Drawn Steel Wire for Concrete Reinforcement, Part 1: Mild Steel and Medium Tensile Steel Bars",
+      "relevance_score": 0.625,
+      "match_score": 83,
+      "certification": {
+       "mandatory": true,
+       "scheme": "ISI Mark",
+       "note": ""
+      }
+     },
+     {
+      "code": "IS 458",
+      "title": "Precast Concrete Pipes (With and Without Reinforcement) - Specification",
+      "relevance_score": 0.5,
+      "match_score": 67,
+      "certification": {
+       "mandatory": true,
+       "scheme": "ISI Mark",
+       "note": ""
+      }
+     },
+     {
+      "code": "IS 3812 (Part 1)",
+      "title": "Pulverized Fuel Ash - Specification, Part 1: For Use as Pozzolana in Cement, Cement Mortar and Concrete",
+      "relevance_score": 0.5,
+      "match_score": 67,
+      "certification": {
+       "mandatory": false,
+       "scheme": "raw material standard",
+       "note": ""
+      }
+     }
+    ],
+    "tender_block": "Supply shall conform to IS 1786:2008 (as amended — Amendment 2 (2018)) — High Strength Deformed Steel Bars and Wires for Concrete Reinforcement - Specification. Allied standards to be considered: IS 432 (Part 1), IS 456. BIS certification is mandatory (ISI Mark). mandatory under Steel and Steel Products QCO Bidders must furnish a valid licence covering the specified grade/size.",
+    "evidence": [
+     {
+      "claim": "Requirement matches this standard's scope: High Strength Deformed Steel Bars and Wires for Concrete Reinforcement - Specification",
+      "kind": "scope",
+      "evidence": {
+       "standard": "IS 1786",
+       "edition": "2008 (Third Revision)",
+       "document": "1786 (1).pdf",
+       "page": 4,
+       "clause": "4.1.3",
+       "url": "https://archive.org/details/gov.in.is.1786.2008",
+       "evidence": "4.1.3 The steel barshvires for concrete reinforcement",
+       "available": true,
+       "unavailable_reason": ""
+      }
+     },
+     {
+      "claim": "Registry edition on record: 2008 (Third Revision), Amendment 2 (2018)",
+      "kind": "edition",
+      "evidence": {
+       "standard": "IS 1786",
+       "edition": "2008 (Third Revision)",
+       "document": "1786 (1).pdf",
+       "page": 3,
+       "clause": null,
+       "url": "https://archive.org/details/gov.in.is.1786.2008",
+       "evidence": "Free Standard provided by BIS via BSB Edge Private Limited to Vellore Institute of Technology -\nVijayawada(priyadarshini.24bca7451@vitapstudent.ac.in) 112.133.220.140.\nIS 1786:2008\nIndian Standard\nHIG",
+       "available": true,
+       "unavailable_reason": ""
+      }
+     },
+     {
+      "claim": "BIS certification is mandatory for this product",
+      "kind": "certification",
+      "evidence": {
+       "standard": "IS 1786",
+       "edition": "2008 (Third Revision)",
+       "document": "",
+       "page": null,
+       "clause": null,
+       "url": "https://archive.org/details/gov.in.is.1786.2008",
+       "evidence": "",
+       "available": false,
+       "unavailable_reason": "qco_source_not_indexed"
+      }
+     }
+    ]
+   }
+  },
+  {
+   "id": "87fda423c110",
+   "ts": "2026-09-26T15:12:39+05:30",
+   "kind": "verification",
+   "query": "CM/L-8700123456",
+   "title": "Test Steel",
+   "status": "completed",
+   "session_id": "local",
+   "payload": {
+    "status": "unable_to_verify",
+    "is_number": "IS 1786",
+    "detail": "The licence number appears on the BIS portal, but full status fields (validity, product) are behind an interactive form that this tool does not scrape. Verify the details at https://www.manakonline.in/MANAK/ApplicationLicenceRelatedrpt"
+   }
+  },
+  {
+   "id": "b7aff73be55d",
+   "ts": "2026-09-26T15:12:39+05:30",
+   "kind": "verification",
+   "query": "bogus",
+   "title": "bogus",
+   "status": "completed",
+   "session_id": "local",
+   "payload": {
+    "status": "invalid",
+    "is_number": "",
+    "detail": "Licence number format is not valid. Expected CM/L-XXXXXXXXXX (BIS manufacturing licence format)."
+   }
+  },
+  {
+   "id": "c3dfdfbdcd8d",
+   "ts": "2026-09-26T15:17:54+05:30",
+   "kind": "recommendation",
+   "query": "Portland cement for slab casting OPC 53 grade",
+   "title": "Ordinary Portland Cement - Specification",
+   "status": "completed",
+   "session_id": "local",
+   "payload": {
+    "selected": "IS 269",
+    "match_score": 50,
+    "candidates": [
+     {
+      "code": "IS 269",
+      "title": "Ordinary Portland Cement - Specification",
+      "relevance_score": 0.375,
+      "match_score": 50,
+      "certification": {
+       "mandatory": true,
+       "scheme": "ISI Mark",
+       "note": "mandatory under Cement Quality Control Order 2023"
+      }
+     },
+     {
+      "code": "IS 1489 (Part 1)",
+      "title": "Portland Pozzolana Cement (Fly Ash Based) - Specification",
+      "relevance_score": 0.375,
+      "match_score": 50,
+      "certification": {
+       "mandatory": true,
+       "scheme": "ISI Mark",
+       "note": ""
+      }
+     },
+     {
+      "code": "IS 1489 (Part 2)",
+      "title": "Portland Pozzolana Cement (Calcined Clay Based) - Specification",
+      "relevance_score": 0.375,
+      "match_score": 50,
+      "certification": {
+       "mandatory": true,
+       "scheme": "ISI Mark",
+       "note": ""
+      }
+     },
+     {
+      "code": "IS 6909",
+      "title": "Supersulphated Cement - Specification",
+      "relevance_score": 0.375,
+      "match_score": 50,
+      "certification": {
+       "mandatory": true,
+       "scheme": "ISI Mark",
+       "note": ""
+      }
+     }
+    ],
+    "tender_block": "Supply shall conform to IS 269:2015 (as amended — Amendment 1 (2023)) — Ordinary Portland Cement - Specification. Allied standards to be considered: IS 4031 (Part 1-13). BIS certification is mandatory (ISI Mark). mandatory under Cement Quality Control Order 2023 Bidders must furnish a valid licence covering the specified grade/size.",
+    "evidence": [
+     {
+      "claim": "Requirement matches this standard's scope: Ordinary Portland Cement - Specification",
+      "kind": "scope",
+      "evidence": {
+       "standard": "IS 269",
+       "edition": "2015 (Sixth Revision)",
+       "document": "269_2015_reff2020.pdf",
+       "page": null,
+       "clause": null,
+       "url": "https://archive.org/details/gov.in.is.269.2015",
+       "evidence": "",
+       "available": false,
+       "unavailable_reason": "clause_page_not_indexed"
+      }
+     },
+     {
+      "claim": "Registry edition on record: 2015 (Sixth Revision), Amendment 1 (2023)",
+      "kind": "edition",
+      "evidence": {
+       "standard": "IS 269",
+       "edition": "2015 (Sixth Revision)",
+       "document": "269_2015_reff2020.pdf",
+       "page": null,
+       "clause": null,
+       "url": "https://archive.org/details/gov.in.is.269.2015",
+       "evidence": "",
+       "available": false,
+       "unavailable_reason": "clause_page_not_indexed"
+      }
+     },
+     {
+      "claim": "BIS certification is mandatory for this product",
+      "kind": "certification",
+      "evidence": {
+       "standard": "IS 269",
+       "edition": "2015 (Sixth Revision)",
+       "document": "",
+       "page": null,
+       "clause": null,
+       "url": "https://archive.org/details/gov.in.is.269.2015",
+       "evidence": "",
+       "available": false,
+       "unavailable_reason": "qco_source_not_indexed"
+      }
+     }
+    ]
+   }
+  },
+  {
+   "id": "dc21821f3405",
+   "ts": "2026-09-26T15:20:31+05:30",
+   "kind": "recommendation",
+   "query": "Reinforcement bars for concrete in a bridge deck",
+   "title": "High Strength Deformed Steel Bars and Wires for Concrete Reinforcement - Specification",
+   "status": "completed",
+   "session_id": "local",
+   "payload": {
+    "selected": "IS 1786",
+    "match_score": 83,
+    "candidates": [
+     {
+      "code": "IS 1786",
+      "title": "High Strength Deformed Steel Bars and Wires for Concrete Reinforcement - Specification",
+      "relevance_score": 0.625,
+      "match_score": 83,
+      "certification": {
+       "mandatory": true,
+       "scheme": "ISI Mark",
+       "note": "mandatory under Steel and Steel Products QCO"
+      }
+     },
+     {
+      "code": "IS 432 (Part 1)",
+      "title": "Mild Steel and Medium Tensile Steel Bars and Hard-Drawn Steel Wire for Concrete Reinforcement, Part 1: Mild Steel and Medium Tensile Steel Bars",
+      "relevance_score": 0.625,
+      "match_score": 83,
+      "certification": {
+       "mandatory": true,
+       "scheme": "ISI Mark",
+       "note": ""
+      }
+     },
+     {
+      "code": "IS 458",
+      "title": "Precast Concrete Pipes (With and Without Reinforcement) - Specification",
+      "relevance_score": 0.5,
+      "match_score": 67,
+      "certification": {
+       "mandatory": true,
+       "scheme": "ISI Mark",
+       "note": ""
+      }
+     },
+     {
+      "code": "IS 3812 (Part 1)",
+      "title": "Pulverized Fuel Ash - Specification, Part 1: For Use as Pozzolana in Cement, Cement Mortar and Concrete",
+      "relevance_score": 0.5,
+      "match_score": 67,
+      "certification": {
+       "mandatory": false,
+       "scheme": "raw material standard",
+       "note": ""
+      }
+     }
+    ],
+    "tender_block": "Supply shall conform to IS 1786:2008 (as amended — Amendment 2 (2018)) — High Strength Deformed Steel Bars and Wires for Concrete Reinforcement - Specification. Allied standards to be considered: IS 432 (Part 1), IS 456. BIS certification is mandatory (ISI Mark). mandatory under Steel and Steel Products QCO Bidders must furnish a valid licence covering the specified grade/size.",
+    "evidence": [
+     {
+      "claim": "Requirement matches this standard's scope: High Strength Deformed Steel Bars and Wires for Concrete Reinforcement - Specification",
+      "kind": "scope",
+      "evidence": {
+       "standard": "IS 1786",
+       "edition": "2008 (Third Revision)",
+       "document": "1786 (1).pdf",
+       "page": 4,
+       "clause": "4.1.3",
+       "url": "https://archive.org/details/gov.in.is.1786.2008",
+       "evidence": "4.1.3 The steel barshvires for concrete reinforcement",
+       "available": true,
+       "unavailable_reason": ""
+      }
+     },
+     {
+      "claim": "Registry edition on record: 2008 (Third Revision), Amendment 2 (2018)",
+      "kind": "edition",
+      "evidence": {
+       "standard": "IS 1786",
+       "edition": "2008 (Third Revision)",
+       "document": "1786 (1).pdf",
+       "page": 3,
+       "clause": null,
+       "url": "https://archive.org/details/gov.in.is.1786.2008",
+       "evidence": "Free Standard provided by BIS via BSB Edge Private Limited to Vellore Institute of Technology -\nVijayawada(priyadarshini.24bca7451@vitapstudent.ac.in) 112.133.220.140.\nIS 1786:2008\nIndian Standard\nHIG",
+       "available": true,
+       "unavailable_reason": ""
+      }
+     },
+     {
+      "claim": "BIS certification is mandatory for this product",
+      "kind": "certification",
+      "evidence": {
+       "standard": "IS 1786",
+       "edition": "2008 (Third Revision)",
+       "document": "",
+       "page": null,
+       "clause": null,
+       "url": "https://archive.org/details/gov.in.is.1786.2008",
+       "evidence": "",
+       "available": false,
+       "unavailable_reason": "qco_source_not_indexed"
+      }
+     }
+    ]
+   }
+  },
+  {
+   "id": "89947fdc00b9",
+   "ts": "2026-09-26T15:20:32+05:30",
+   "kind": "verification",
+   "query": "CM/L-8700123456",
+   "title": "Test Steel",
+   "status": "completed",
+   "session_id": "local",
+   "payload": {
+    "status": "unable_to_verify",
+    "is_number": "IS 1786",
+    "detail": "The licence number appears on the BIS portal, but full status fields (validity, product) are behind an interactive form that this tool does not scrape. Verify the details at https://www.manakonline.in/MANAK/ApplicationLicenceRelatedrpt"
+   }
+  },
+  {
+   "id": "d3127887225e",
+   "ts": "2026-09-26T15:35:25+05:30",
+   "kind": "recommendation",
+   "query": "Reinforcement bars for concrete in a bridge deck",
+   "title": "High Strength Deformed Steel Bars and Wires for Concrete Reinforcement - Specification",
+   "status": "completed",
+   "session_id": "local",
+   "payload": {
+    "selected": "IS 1786",
+    "match_score": 83,
+    "candidates": [
+     {
+      "code": "IS 1786",
+      "title": "High Strength Deformed Steel Bars and Wires for Concrete Reinforcement - Specification",
+      "relevance_score": 0.625,
+      "match_score": 83,
+      "certification": {
+       "mandatory": true,
+       "scheme": "ISI Mark",
+       "note": "mandatory under Steel and Steel Products QCO"
+      }
+     },
+     {
+      "code": "IS 432 (Part 1)",
+      "title": "Mild Steel and Medium Tensile Steel Bars and Hard-Drawn Steel Wire for Concrete Reinforcement, Part 1: Mild Steel and Medium Tensile Steel Bars",
+      "relevance_score": 0.625,
+      "match_score": 83,
+      "certification": {
+       "mandatory": true,
+       "scheme": "ISI Mark",
+       "note": ""
+      }
+     },
+     {
+      "code": "IS 458",
+      "title": "Precast Concrete Pipes (With and Without Reinforcement) - Specification",
+      "relevance_score": 0.5,
+      "match_score": 67,
+      "certification": {
+       "mandatory": true,
+       "scheme": "ISI Mark",
+       "note": ""
+      }
+     },
+     {
+      "code": "IS 3812 (Part 1)",
+      "title": "Pulverized Fuel Ash - Specification, Part 1: For Use as Pozzolana in Cement, Cement Mortar and Concrete",
+      "relevance_score": 0.5,
+      "match_score": 67,
+      "certification": {
+       "mandatory": false,
+       "scheme": "raw material standard",
+       "note": ""
+      }
+     }
+    ],
+    "tender_block": "Supply shall conform to IS 1786:2008 (as amended — Amendment 2 (2018)) — High Strength Deformed Steel Bars and Wires for Concrete Reinforcement - Specification. Allied standards to be considered: IS 432 (Part 1), IS 456. BIS certification is mandatory (ISI Mark). mandatory under Steel and Steel Products QCO Bidders must furnish a valid licence covering the specified grade/size.",
+    "evidence": [
+     {
+      "claim": "Requirement matches this standard's scope: High Strength Deformed Steel Bars and Wires for Concrete Reinforcement - Specification",
+      "kind": "scope",
+      "evidence": {
+       "standard": "IS 1786",
+       "edition": "2008 (Third Revision)",
+       "document": "1786 (1).pdf",
+       "page": 4,
+       "clause": "4.1.3",
+       "url": "https://archive.org/details/gov.in.is.1786.2008",
+       "evidence": "4.1.3 The steel barshvires for concrete reinforcement",
+       "available": true,
+       "unavailable_reason": ""
+      }
+     },
+     {
+      "claim": "Registry edition on record: 2008 (Third Revision), Amendment 2 (2018)",
+      "kind": "edition",
+      "evidence": {
+       "standard": "IS 1786",
+       "edition": "2008 (Third Revision)",
+       "document": "1786 (1).pdf",
+       "page": 3,
+       "clause": null,
+       "url": "https://archive.org/details/gov.in.is.1786.2008",
+       "evidence": "Free Standard provided by BIS via BSB Edge Private Limited to Vellore Institute of Technology -\nVijayawada(priyadarshini.24bca7451@vitapstudent.ac.in) 112.133.220.140.\nIS 1786:2008\nIndian Standard\nHIG",
+       "available": true,
+       "unavailable_reason": ""
+      }
+     },
+     {
+      "claim": "BIS certification is mandatory for this product",
+      "kind": "certification",
+      "evidence": {
+       "standard": "IS 1786",
+       "edition": "2008 (Third Revision)",
+       "document": "",
+       "page": null,
+       "clause": null,
+       "url": "https://archive.org/details/gov.in.is.1786.2008",
+       "evidence": "",
+       "available": false,
+       "unavailable_reason": "qco_source_not_indexed"
+      }
+     }
+    ]
+   }
+  },
+  {
+   "id": "56ff89073178",
+   "ts": "2026-09-26T15:43:00+05:30",
+   "kind": "recommendation",
+   "query": "Reinforcement bars for concrete in a bridge deck",
+   "title": "High Strength Deformed Steel Bars and Wires for Concrete Reinforcement - Specification",
+   "status": "completed",
+   "session_id": "local",
+   "payload": {
+    "selected": "IS 1786",
+    "match_score": 83,
+    "candidates": [
+     {
+      "code": "IS 1786",
+      "title": "High Strength Deformed Steel Bars and Wires for Concrete Reinforcement - Specification",
+      "relevance_score": 0.625,
+      "match_score": 83,
+      "certification": {
+       "mandatory": true,
+       "scheme": "ISI Mark",
+       "note": "mandatory under Steel and Steel Products QCO"
+      }
+     },
+     {
+      "code": "IS 432 (Part 1)",
+      "title": "Mild Steel and Medium Tensile Steel Bars and Hard-Drawn Steel Wire for Concrete Reinforcement, Part 1: Mild Steel and Medium Tensile Steel Bars",
+      "relevance_score": 0.625,
+      "match_score": 83,
+      "certification": {
+       "mandatory": true,
+       "scheme": "ISI Mark",
+       "note": ""
+      }
+     },
+     {
+      "code": "IS 458",
+      "title": "Precast Concrete Pipes (With and Without Reinforcement) - Specification",
+      "relevance_score": 0.5,
+      "match_score": 67,
+      "certification": {
+       "mandatory": true,
+       "scheme": "ISI Mark",
+       "note": ""
+      }
+     },
+     {
+      "code": "IS 3812 (Part 1)",
+      "title": "Pulverized Fuel Ash - Specification, Part 1: For Use as Pozzolana in Cement, Cement Mortar and Concrete",
+      "relevance_score": 0.5,
+      "match_score": 67,
+      "certification": {
+       "mandatory": false,
+       "scheme": "raw material standard",
+       "note": ""
+      }
+     }
+    ],
+    "tender_block": "Supply shall conform to IS 1786:2008 (as amended — Amendment 2 (2018)) — High Strength Deformed Steel Bars and Wires for Concrete Reinforcement - Specification. Allied standards to be considered: IS 432 (Part 1), IS 456. BIS certification is mandatory (ISI Mark). mandatory under Steel and Steel Products QCO Bidders must furnish a valid licence covering the specified grade/size.",
+    "evidence": [
+     {
+      "claim": "Requirement matches this standard's scope: High Strength Deformed Steel Bars and Wires for Concrete Reinforcement - Specification",
+      "kind": "scope",
+      "evidence": {
+       "standard": "IS 1786",
+       "edition": "2008 (Third Revision)",
+       "document": "1786 (1).pdf",
+       "page": 4,
+       "clause": "4.1.3",
+       "url": "https://archive.org/details/gov.in.is.1786.2008",
+       "evidence": "4.1.3 The steel barshvires for concrete reinforcement",
+       "available": true,
+       "unavailable_reason": ""
+      }
+     },
+     {
+      "claim": "Registry edition on record: 2008 (Third Revision), Amendment 2 (2018)",
+      "kind": "edition",
+      "evidence": {
+       "standard": "IS 1786",
+       "edition": "2008 (Third Revision)",
+       "document": "1786 (1).pdf",
+       "page": 3,
+       "clause": null,
+       "url": "https://archive.org/details/gov.in.is.1786.2008",
+       "evidence": "Free Standard provided by BIS via BSB Edge Private Limited to Vellore Institute of Technology -\nVijayawada(priyadarshini.24bca7451@vitapstudent.ac.in) 112.133.220.140.\nIS 1786:2008\nIndian Standard\nHIG",
+       "available": true,
+       "unavailable_reason": ""
+      }
+     },
+     {
+      "claim": "BIS certification is mandatory for this product",
+      "kind": "certification",
+      "evidence": {
+       "standard": "IS 1786",
+       "edition": "2008 (Third Revision)",
+       "document": "",
+       "page": null,
+       "clause": null,
+       "url": "https://archive.org/details/gov.in.is.1786.2008",
+       "evidence": "",
+       "available": false,
+       "unavailable_reason": "qco_source_not_indexed"
+      }
+     }
+    ]
+   }
+  },
+  {
+   "id": "9a973f7c6537",
+   "ts": "2026-09-26T19:39:02+05:30",
+   "kind": "verification",
+   "query": "CM/L-8700123456",
+   "title": "ABC Steel Pvt. Ltd.",
+   "status": "completed",
+   "session_id": "local",
+   "payload": {
+    "status": "unable_to_verify",
+    "is_number": "IS 1786",
+    "detail": "The licence number appears on the BIS portal, but full status fields (validity, product) are behind an interactive form that this tool does not scrape. Verify the details at https://www.manakonline.in/MANAK/ApplicationLicenceRelatedrpt"
+   }
+  },
+  {
+   "id": "5e18556c7e90",
+   "ts": "2026-09-26T21:19:02+05:30",
+   "kind": "recommendation",
+   "query": "Reinforcement bars for concrete in a bridge deck",
+   "title": "High Strength Deformed Steel Bars and Wires for Concrete Reinforcement - Specification",
+   "status": "completed",
+   "session_id": "local",
+   "payload": {
+    "selected": "IS 1786",
+    "match_score": 83,
+    "candidates": [
+     {
+      "code": "IS 1786",
+      "title": "High Strength Deformed Steel Bars and Wires for Concrete Reinforcement - Specification",
+      "relevance_score": 0.625,
+      "match_score": 83,
+      "certification": {
+       "mandatory": true,
+       "scheme": "ISI Mark",
+       "note": "mandatory under Steel and Steel Products QCO"
+      }
+     },
+     {
+      "code": "IS 432 (Part 1)",
+      "title": "Mild Steel and Medium Tensile Steel Bars and Hard-Drawn Steel Wire for Concrete Reinforcement, Part 1: Mild Steel and Medium Tensile Steel Bars",
+      "relevance_score": 0.625,
+      "match_score": 83,
+      "certification": {
+       "mandatory": true,
+       "scheme": "ISI Mark",
+       "note": ""
+      }
+     },
+     {
+      "code": "IS 458",
+      "title": "Precast Concrete Pipes (With and Without Reinforcement) - Specification",
+      "relevance_score": 0.5,
+      "match_score": 67,
+      "certification": {
+       "mandatory": true,
+       "scheme": "ISI Mark",
+       "note": ""
+      }
+     },
+     {
+      "code": "IS 3812 (Part 1)",
+      "title": "Pulverized Fuel Ash - Specification, Part 1: For Use as Pozzolana in Cement, Cement Mortar and Concrete",
+      "relevance_score": 0.5,
+      "match_score": 67,
+      "certification": {
+       "mandatory": false,
+       "scheme": "raw material standard",
+       "note": ""
+      }
+     }
+    ],
+    "tender_block": "Supply shall conform to IS 1786:2008 (as amended — Amendment 2 (2018)) — High Strength Deformed Steel Bars and Wires for Concrete Reinforcement - Specification. Allied standards to be considered: IS 432 (Part 1), IS 456. BIS certification is mandatory (ISI Mark). mandatory under Steel and Steel Products QCO Bidders must furnish a valid licence covering the specified grade/size.",
+    "evidence": [
+     {
+      "claim": "Requirement matches this standard's scope: High Strength Deformed Steel Bars and Wires for Concrete Reinforcement - Specification",
+      "kind": "scope",
+      "evidence": {
+       "standard": "IS 1786",
+       "edition": "2008 (Third Revision)",
+       "document": "1786.pdf",
+       "page": 4,
+       "clause": "4.1.3",
+       "url": "https://archive.org/details/gov.in.is.1786.2008",
+       "evidence": "4.1.3 The steel barshvires for concrete reinforcement",
+       "available": true,
+       "unavailable_reason": ""
+      }
+     },
+     {
+      "claim": "Registry edition on record: 2008 (Third Revision), Amendment 2 (2018)",
+      "kind": "edition",
+      "evidence": {
+       "standard": "IS 1786",
+       "edition": "2008 (Third Revision)",
+       "document": "1786.pdf",
+       "page": 3,
+       "clause": null,
+       "url": "https://archive.org/details/gov.in.is.1786.2008",
+       "evidence": "IS 1786:2008\nIndian Standard\nHIGH STRENGTH DEFORMED\nSTEEL BARS AND WIRES FOR\nCONCRETE REINFORCEMENT —\nSPECIFICATION\n(Fourth Revision)\n1 SCOPE 2 REFERENCES\n*\n1.1 This standard covers the requirements o",
+       "available": true,
+       "unavailable_reason": ""
+      }
+     },
+     {
+      "claim": "BIS certification is mandatory for this product",
+      "kind": "certification",
+      "evidence": {
+       "standard": "IS 1786",
+       "edition": "2008 (Third Revision)",
+       "document": "",
+       "page": null,
+       "clause": null,
+       "url": "https://archive.org/details/gov.in.is.1786.2008",
+       "evidence": "",
+       "available": false,
+       "unavailable_reason": "qco_source_not_indexed"
+      }
+     }
+    ]
+   }
+  },
+  {
+   "id": "b92af38fc353",
+   "ts": "2026-09-27T02:42:33+05:30",
+   "kind": "recommendation",
+   "query": "Reinforcement bars for concrete in a bridge deck",
+   "title": "High Strength Deformed Steel Bars and Wires for Concrete Reinforcement - Specification",
+   "status": "completed",
+   "session_id": "local",
+   "payload": {
+    "selected": "IS 1786",
+    "match_score": 83,
+    "candidates": [
+     {
+      "code": "IS 1786",
+      "title": "High Strength Deformed Steel Bars and Wires for Concrete Reinforcement - Specification",
+      "relevance_score": 0.625,
+      "match_score": 83,
+      "certification": {
+       "mandatory": true,
+       "scheme": "ISI Mark",
+       "note": "mandatory under Steel and Steel Products QCO",
+       "verification_status": "VERIFIED",
+       "basis": "Steel and Steel Products (Quality Control) Order, 2020/2024 (S.O. 756(E) dated 14-02-2020; S.O. 574(E) 05-02-2024",
+       "source_url": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-i-mark-scheme/"
+      }
+     },
+     {
+      "code": "IS 432 (Part 1)",
+      "title": "Mild Steel and Medium Tensile Steel Bars and Hard-Drawn Steel Wire for Concrete Reinforcement, Part 1: Mild Steel and Medium Tensile Steel Bars",
+      "relevance_score": 0.625,
+      "match_score": 83,
+      "certification": {
+       "mandatory": true,
+       "scheme": "ISI Mark",
+       "note": "",
+       "verification_status": "MANUAL_REVIEW_REQUIRED",
+       "basis": "",
+       "source_url": ""
+      }
+     },
+     {
+      "code": "IS 458",
+      "title": "Precast Concrete Pipes (With and Without Reinforcement) - Specification",
+      "relevance_score": 0.5,
+      "match_score": 67,
+      "certification": {
+       "mandatory": true,
+       "scheme": "ISI Mark",
+       "note": "",
+       "verification_status": "MANUAL_REVIEW_REQUIRED",
+       "basis": "",
+       "source_url": ""
+      }
+     },
+     {
+      "code": "IS 3812 (Part 1)",
+      "title": "Pulverized Fuel Ash - Specification, Part 1: For Use as Pozzolana in Cement, Cement Mortar and Concrete",
+      "relevance_score": 0.5,
+      "match_score": 67,
+      "certification": {
+       "mandatory": false,
+       "scheme": "raw material standard",
+       "note": "",
+       "verification_status": "UNVERIFIED",
+       "basis": "",
+       "source_url": ""
+      }
+     }
+    ],
+    "tender_block": "Supply shall conform to IS 1786:2008 (as amended — Amendment 2 (2018)) — High Strength Deformed Steel Bars and Wires for Concrete Reinforcement - Specification. Allied standards to be considered: IS 432 (Part 1), IS 456. BIS certification is mandatory under Steel and Steel Products (Quality Control) Order, 2020/2024 (S.O. 756(E) dated 14-02-2020; S.O. 574(E) 05-02-2024). Bidders must furnish a valid licence covering the specified grade/size.",
+    "evidence": [
+     {
+      "claim": "Requirement matches this standard's scope: High Strength Deformed Steel Bars and Wires for Concrete Reinforcement - Specification",
+      "kind": "scope",
+      "evidence": {
+       "standard": "IS 1786",
+       "edition": "2008 (Third Revision)",
+       "document": "1786.pdf",
+       "page": 4,
+       "clause": "4.1.3",
+       "url": "https://archive.org/details/gov.in.is.1786.2008",
+       "evidence": "4.1.3 The steel barshvires for concrete reinforcement",
+       "available": true,
+       "unavailable_reason": "",
+       "source_type": "LOCAL_REFERENCE_DOCUMENT"
+      }
+     },
+     {
+      "claim": "Registry edition on record: 2008 (Third Revision), Amendment 2 (2018)",
+      "kind": "edition",
+      "evidence": {
+       "standard": "IS 1786",
+       "edition": "2008 (Third Revision)",
+       "document": "1786.pdf",
+       "page": 3,
+       "clause": null,
+       "url": "https://archive.org/details/gov.in.is.1786.2008",
+       "evidence": "IS 1786:2008\nIndian Standard\nHIGH STRENGTH DEFORMED\nSTEEL BARS AND WIRES FOR\nCONCRETE REINFORCEMENT —\nSPECIFICATION\n(Fourth Revision)\n1 SCOPE 2 REFERENCES\n*\n1.1 This standard covers the requirements o",
+       "available": true,
+       "unavailable_reason": "",
+       "source_type": "LOCAL_REFERENCE_DOCUMENT"
+      }
+     },
+     {
+      "claim": "BIS certification is mandatory for this product under Steel and Steel Products (Quality Control) Order, 2020/2024 (S.O. 756(E) dated 14-02-2020; S.O. 574(E) 05-02-2024)",
+      "kind": "certification",
+      "evidence": {
+       "standard": "IS 1786",
+       "edition": "2008 (Third Revision)",
+       "document": "",
+       "page": null,
+       "clause": null,
+       "url": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-i-mark-scheme/",
+       "evidence": "",
+       "available": true,
+       "unavailable_reason": "qco_verified_but_document_not_indexed_locally",
+       "source_type": "OFFICIAL_BIS_SOURCE"
+      }
+     }
+    ]
+   }
+  },
+  {
+   "id": "66020667323e",
+   "ts": "2026-09-28T11:36:57+05:30",
+   "kind": "recommendation",
+   "query": "Ordinary Portland cement for general construction work, OPC 43 grade, requiring conformity to Indian Standard specifications for composition, strength, physical properties, testing, and quality requirements.",
+   "title": "Ordinary Portland Cement - Specification",
+   "status": "completed",
+   "session_id": "memtest-opc43",
+   "payload": {
+    "selected": "IS 269",
+    "match_score": 56,
+    "candidates": [
+     {
+      "code": "IS 269",
+      "title": "Ordinary Portland Cement - Specification",
+      "relevance_score": 0.417,
+      "match_score": 56,
+      "certification": {
+       "mandatory": true,
+       "scheme": "ISI Mark",
+       "note": "mandatory under Cement Quality Control Order 2023",
+       "verification_status": "VERIFIED",
+       "basis": "Cement (Quality Control) Order, 2003 - covers 'any kind of cement' manufactured or sold in India; registry note cites the 2023 Cement QCO which was not located on the BIS page fetched (2023 order may exist via a later notification - unconfirmed) (S.O. 191(E) dated 17-02-2003",
+       "source_url": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-i-mark-scheme/"
+      }
+     },
+     {
+      "code": "IS 1489 (Part 1)",
+      "title": "Portland Pozzolana Cement (Fly Ash Based) - Specification",
+      "relevance_score": 0.375,
+      "match_score": 50,
+      "certification": {
+       "mandatory": true,
+       "scheme": "ISI Mark",
+       "note": "",
+       "verification_status": "VERIFIED",
+       "basis": "Cement (Quality Control) Order, 2003 (S.O. 191(E) dated 17-02-2003",
+       "source_url": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-i-mark-scheme/"
+      }
+     },
+     {
+      "code": "IS 1077",
+      "title": "Common Burnt Clay Building Bricks - Specification",
+      "relevance_score": 0.375,
+      "match_score": 50,
+      "certification": {
+       "mandatory": true,
+       "scheme": "ISI Mark",
+       "note": "",
+       "verification_status": "MANUAL_REVIEW_REQUIRED",
+       "basis": "",
+       "source_url": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-i-mark-scheme/"
+      }
+     },
+     {
+      "code": "IS 6452",
+      "title": "High Alumina Cement for Structural Use - Specification",
+      "relevance_score": 0.333,
+      "match_score": 44,
+      "certification": {
+       "mandatory": true,
+       "scheme": "ISI Mark",
+       "note": "",
+       "verification_status": "MANUAL_REVIEW_REQUIRED",
+       "basis": "",
+       "source_url": ""
+      }
+     }
+    ],
+    "tender_block": "Supply shall conform to IS 269:2015 (as amended — Amendment 1 (2023)) — Ordinary Portland Cement - Specification. Allied standards to be considered: IS 4031 (Part 1-13). BIS certification is mandatory under Cement (Quality Control) Order, 2003 - covers 'any kind of cement' manufactured or sold in India; registry note cites the 2023 Cement QCO which was not located on the BIS page fetched (2023 order may exist via a later notification - unconfirmed) (S.O. 191(E) dated 17-02-2003). Bidders must furnish a valid licence covering the specified grade/size.",
+    "evidence": [
+     {
+      "claim": "Requirement matches this standard's scope: Ordinary Portland Cement - Specification",
+      "kind": "scope",
+      "evidence": {
+       "standard": "IS 269",
+       "edition": "2015 (Sixth Revision)",
+       "document": "269_2015_reff2020.pdf",
+       "page": null,
+       "clause": null,
+       "url": "https://archive.org/details/gov.in.is.269.2015",
+       "evidence": "",
+       "available": false,
+       "unavailable_reason": "clause_page_not_indexed",
+       "source_type": "LOCAL_REFERENCE_DOCUMENT"
+      }
+     },
+     {
+      "claim": "Registry edition on record: 2015 (Sixth Revision), Amendment 1 (2023)",
+      "kind": "edition",
+      "evidence": {
+       "standard": "IS 269",
+       "edition": "2015 (Sixth Revision)",
+       "document": "269_2015_reff2020.pdf",
+       "page": null,
+       "clause": null,
+       "url": "https://archive.org/details/gov.in.is.269.2015",
+       "evidence": "",
+       "available": false,
+       "unavailable_reason": "clause_page_not_indexed",
+       "source_type": "LOCAL_REFERENCE_DOCUMENT"
+      }
+     },
+     {
+      "claim": "BIS certification is mandatory for this product under Cement (Quality Control) Order, 2003 - covers 'any kind of cement' manufactured or sold in India; registry note cites the 2023 Cement QCO which was not located on the BIS page fetched (2023 order may exist via a later notification - unconfirmed) (S.O. 191(E) dated 17-02-2003)",
+      "kind": "certification",
+      "evidence": {
+       "standard": "IS 269",
+       "edition": "2015 (Sixth Revision)",
+       "document": "",
+       "page": null,
+       "clause": null,
+       "url": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-i-mark-scheme/",
+       "evidence": "",
+       "available": true,
+       "unavailable_reason": "qco_verified_but_document_not_indexed_locally",
+       "source_type": "OFFICIAL_BIS_SOURCE"
+      }
+     }
+    ]
+   }
+  },
+  {
+   "id": "3ff6111ff078",
+   "ts": "2026-09-28T11:37:16+05:30",
+   "kind": "recommendation",
+   "query": "Ordinary Portland cement for general construction work, OPC 43 grade, requiring conformity to Indian Standard specifications for composition, strength, physical properties, testing, and quality requirements.",
+   "title": "Ordinary Portland Cement - Specification",
+   "status": "completed",
+   "session_id": "memtest-opc43",
+   "payload": {
+    "selected": "IS 269",
+    "match_score": 56,
+    "candidates": [
+     {
+      "code": "IS 269",
+      "title": "Ordinary Portland Cement - Specification",
+      "relevance_score": 0.417,
+      "match_score": 56,
+      "certification": {
+       "mandatory": true,
+       "scheme": "ISI Mark",
+       "note": "mandatory under Cement Quality Control Order 2023",
+       "verification_status": "VERIFIED",
+       "basis": "Cement (Quality Control) Order, 2003 - covers 'any kind of cement' manufactured or sold in India; registry note cites the 2023 Cement QCO which was not located on the BIS page fetched (2023 order may exist via a later notification - unconfirmed) (S.O. 191(E) dated 17-02-2003",
+       "source_url": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-i-mark-scheme/"
+      }
+     },
+     {
+      "code": "IS 1489 (Part 1)",
+      "title": "Portland Pozzolana Cement (Fly Ash Based) - Specification",
+      "relevance_score": 0.375,
+      "match_score": 50,
+      "certification": {
+       "mandatory": true,
+       "scheme": "ISI Mark",
+       "note": "",
+       "verification_status": "VERIFIED",
+       "basis": "Cement (Quality Control) Order, 2003 (S.O. 191(E) dated 17-02-2003",
+       "source_url": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-i-mark-scheme/"
+      }
+     },
+     {
+      "code": "IS 1077",
+      "title": "Common Burnt Clay Building Bricks - Specification",
+      "relevance_score": 0.375,
+      "match_score": 50,
+      "certification": {
+       "mandatory": true,
+       "scheme": "ISI Mark",
+       "note": "",
+       "verification_status": "MANUAL_REVIEW_REQUIRED",
+       "basis": "",
+       "source_url": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-i-mark-scheme/"
+      }
+     },
+     {
+      "code": "IS 6452",
+      "title": "High Alumina Cement for Structural Use - Specification",
+      "relevance_score": 0.333,
+      "match_score": 44,
+      "certification": {
+       "mandatory": true,
+       "scheme": "ISI Mark",
+       "note": "",
+       "verification_status": "MANUAL_REVIEW_REQUIRED",
+       "basis": "",
+       "source_url": ""
+      }
+     }
+    ],
+    "tender_block": "Supply shall conform to IS 269:2015 (as amended — Amendment 1 (2023)) — Ordinary Portland Cement - Specification. Allied standards to be considered: IS 4031 (Part 1-13). BIS certification is mandatory under Cement (Quality Control) Order, 2003 - covers 'any kind of cement' manufactured or sold in India; registry note cites the 2023 Cement QCO which was not located on the BIS page fetched (2023 order may exist via a later notification - unconfirmed) (S.O. 191(E) dated 17-02-2003). Bidders must furnish a valid licence covering the specified grade/size.",
+    "evidence": [
+     {
+      "claim": "Requirement matches this standard's scope: Ordinary Portland Cement - Specification",
+      "kind": "scope",
+      "evidence": {
+       "standard": "IS 269",
+       "edition": "2015 (Sixth Revision)",
+       "document": "269_2015_reff2020.pdf",
+       "page": null,
+       "clause": null,
+       "url": "https://archive.org/details/gov.in.is.269.2015",
+       "evidence": "",
+       "available": false,
+       "unavailable_reason": "clause_page_not_indexed",
+       "source_type": "LOCAL_REFERENCE_DOCUMENT"
+      }
+     },
+     {
+      "claim": "Registry edition on record: 2015 (Sixth Revision), Amendment 1 (2023)",
+      "kind": "edition",
+      "evidence": {
+       "standard": "IS 269",
+       "edition": "2015 (Sixth Revision)",
+       "document": "269_2015_reff2020.pdf",
+       "page": null,
+       "clause": null,
+       "url": "https://archive.org/details/gov.in.is.269.2015",
+       "evidence": "",
+       "available": false,
+       "unavailable_reason": "clause_page_not_indexed",
+       "source_type": "LOCAL_REFERENCE_DOCUMENT"
+      }
+     },
+     {
+      "claim": "BIS certification is mandatory for this product under Cement (Quality Control) Order, 2003 - covers 'any kind of cement' manufactured or sold in India; registry note cites the 2023 Cement QCO which was not located on the BIS page fetched (2023 order may exist via a later notification - unconfirmed) (S.O. 191(E) dated 17-02-2003)",
+      "kind": "certification",
+      "evidence": {
+       "standard": "IS 269",
+       "edition": "2015 (Sixth Revision)",
+       "document": "",
+       "page": null,
+       "clause": null,
+       "url": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-i-mark-scheme/",
+       "evidence": "",
+       "available": true,
+       "unavailable_reason": "qco_verified_but_document_not_indexed_locally",
+       "source_type": "OFFICIAL_BIS_SOURCE"
+      }
+     }
+    ]
+   }
+  },
+  {
+   "id": "2acb93edbe35",
+   "ts": "2026-09-28T11:37:57+05:30",
+   "kind": "recommendation",
+   "query": "Ordinary Portland cement for general construction work, OPC 43 grade, requiring conformity to Indian Standard specifications for composition, strength, physical properties, testing, and quality requirements.",
+   "title": "Ordinary Portland Cement - Specification",
+   "status": "completed",
+   "session_id": "memtest-opc43",
+   "payload": {
+    "selected": "IS 269",
+    "match_score": 56,
+    "candidates": [
+     {
+      "code": "IS 269",
+      "title": "Ordinary Portland Cement - Specification",
+      "relevance_score": 0.417,
+      "match_score": 56,
+      "certification": {
+       "mandatory": true,
+       "scheme": "ISI Mark",
+       "note": "mandatory under Cement Quality Control Order 2023",
+       "verification_status": "VERIFIED",
+       "basis": "Cement (Quality Control) Order, 2003 - covers 'any kind of cement' manufactured or sold in India; registry note cites the 2023 Cement QCO which was not located on the BIS page fetched (2023 order may exist via a later notification - unconfirmed) (S.O. 191(E) dated 17-02-2003",
+       "source_url": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-i-mark-scheme/"
+      }
+     },
+     {
+      "code": "IS 1489 (Part 1)",
+      "title": "Portland Pozzolana Cement (Fly Ash Based) - Specification",
+      "relevance_score": 0.375,
+      "match_score": 50,
+      "certification": {
+       "mandatory": true,
+       "scheme": "ISI Mark",
+       "note": "",
+       "verification_status": "VERIFIED",
+       "basis": "Cement (Quality Control) Order, 2003 (S.O. 191(E) dated 17-02-2003",
+       "source_url": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-i-mark-scheme/"
+      }
+     },
+     {
+      "code": "IS 1077",
+      "title": "Common Burnt Clay Building Bricks - Specification",
+      "relevance_score": 0.375,
+      "match_score": 50,
+      "certification": {
+       "mandatory": true,
+       "scheme": "ISI Mark",
+       "note": "",
+       "verification_status": "MANUAL_REVIEW_REQUIRED",
+       "basis": "",
+       "source_url": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-i-mark-scheme/"
+      }
+     },
+     {
+      "code": "IS 6452",
+      "title": "High Alumina Cement for Structural Use - Specification",
+      "relevance_score": 0.333,
+      "match_score": 44,
+      "certification": {
+       "mandatory": true,
+       "scheme": "ISI Mark",
+       "note": "",
+       "verification_status": "MANUAL_REVIEW_REQUIRED",
+       "basis": "",
+       "source_url": ""
+      }
+     }
+    ],
+    "tender_block": "Supply shall conform to IS 269:2015 (as amended — Amendment 1 (2023)) — Ordinary Portland Cement - Specification. Allied standards to be considered: IS 4031 (Part 1-13). BIS certification is mandatory under Cement (Quality Control) Order, 2003 - covers 'any kind of cement' manufactured or sold in India; registry note cites the 2023 Cement QCO which was not located on the BIS page fetched (2023 order may exist via a later notification - unconfirmed) (S.O. 191(E) dated 17-02-2003). Bidders must furnish a valid licence covering the specified grade/size.",
+    "evidence": [
+     {
+      "claim": "Requirement matches this standard's scope: Ordinary Portland Cement - Specification",
+      "kind": "scope",
+      "evidence": {
+       "standard": "IS 269",
+       "edition": "2015 (Sixth Revision)",
+       "document": "269_2015_reff2020.pdf",
+       "page": null,
+       "clause": null,
+       "url": "https://archive.org/details/gov.in.is.269.2015",
+       "evidence": "",
+       "available": false,
+       "unavailable_reason": "clause_page_not_indexed",
+       "source_type": "LOCAL_REFERENCE_DOCUMENT"
+      }
+     },
+     {
+      "claim": "Registry edition on record: 2015 (Sixth Revision), Amendment 1 (2023)",
+      "kind": "edition",
+      "evidence": {
+       "standard": "IS 269",
+       "edition": "2015 (Sixth Revision)",
+       "document": "269_2015_reff2020.pdf",
+       "page": null,
+       "clause": null,
+       "url": "https://archive.org/details/gov.in.is.269.2015",
+       "evidence": "",
+       "available": false,
+       "unavailable_reason": "clause_page_not_indexed",
+       "source_type": "LOCAL_REFERENCE_DOCUMENT"
+      }
+     },
+     {
+      "claim": "BIS certification is mandatory for this product under Cement (Quality Control) Order, 2003 - covers 'any kind of cement' manufactured or sold in India; registry note cites the 2023 Cement QCO which was not located on the BIS page fetched (2023 order may exist via a later notification - unconfirmed) (S.O. 191(E) dated 17-02-2003)",
+      "kind": "certification",
+      "evidence": {
+       "standard": "IS 269",
+       "edition": "2015 (Sixth Revision)",
+       "document": "",
+       "page": null,
+       "clause": null,
+       "url": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-i-mark-scheme/",
+       "evidence": "",
+       "available": true,
+       "unavailable_reason": "qco_verified_but_document_not_indexed_locally",
+       "source_type": "OFFICIAL_BIS_SOURCE"
+      }
+     }
+    ]
+   }
+  },
+  {
+   "id": "bbf4d564b4c1",
+   "ts": "2026-09-28T11:39:20+05:30",
+   "kind": "recommendation",
+   "query": "reinforcement bars for concrete bridge deck",
+   "title": "High Strength Deformed Steel Bars and Wires for Concrete Reinforcement - Specification",
+   "status": "completed",
+   "session_id": "memtest3",
+   "payload": {
+    "selected": "IS 1786",
+    "match_score": 89,
+    "candidates": [
+     {
+      "code": "IS 1786",
+      "title": "High Strength Deformed Steel Bars and Wires for Concrete Reinforcement - Specification",
+      "relevance_score": 0.667,
+      "match_score": 89,
+      "certification": {
+       "mandatory": true,
+       "scheme": "ISI Mark",
+       "note": "mandatory under Steel and Steel Products QCO",
+       "verification_status": "VERIFIED",
+       "basis": "Steel and Steel Products (Quality Control) Order, 2020/2024 (S.O. 756(E) dated 14-02-2020; S.O. 574(E) 05-02-2024",
+       "source_url": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-i-mark-scheme/"
+      }
+     },
+     {
+      "code": "IS 432 (Part 1)",
+      "title": "Mild Steel and Medium Tensile Steel Bars and Hard-Drawn Steel Wire for Concrete Reinforcement, Part 1: Mild Steel and Medium Tensile Steel Bars",
+      "relevance_score": 0.667,
+      "match_score": 89,
+      "certification": {
+       "mandatory": true,
+       "scheme": "ISI Mark",
+       "note": "",
+       "verification_status": "MANUAL_REVIEW_REQUIRED",
+       "basis": "",
+       "source_url": ""
+      }
+     },
+     {
+      "code": "IS 458",
+      "title": "Precast Concrete Pipes (With and Without Reinforcement) - Specification",
+      "relevance_score": 0.5,
+      "match_score": 67,
+      "certification": {
+       "mandatory": true,
+       "scheme": "ISI Mark",
+       "note": "",
+       "verification_status": "MANUAL_REVIEW_REQUIRED",
+       "basis": "",
+       "source_url": ""
+      }
+     },
+     {
+      "code": "IS 456",
+      "title": "Plain and Reinforced Concrete - Code of Practice",
+      "relevance_score": 0.333,
+      "match_score": 44,
+      "certification": {
+       "mandatory": false,
+       "scheme": "Code of Practice",
+       "note": "not a certifiable product standard",
+       "verification_status": "UNVERIFIED",
+       "basis": "",
+       "source_url": ""
+      }
+     }
+    ],
+    "tender_block": "Supply shall conform to IS 1786:2008 (as amended — Amendment 2 (2018)) — High Strength Deformed Steel Bars and Wires for Concrete Reinforcement - Specification. Allied standards to be considered: IS 432 (Part 1), IS 456. BIS certification is mandatory under Steel and Steel Products (Quality Control) Order, 2020/2024 (S.O. 756(E) dated 14-02-2020; S.O. 574(E) 05-02-2024). Bidders must furnish a valid licence covering the specified grade/size.",
+    "evidence": [
+     {
+      "claim": "Requirement matches this standard's scope: High Strength Deformed Steel Bars and Wires for Concrete Reinforcement - Specification",
+      "kind": "scope",
+      "evidence": {
+       "standard": "IS 1786",
+       "edition": "2008 (Third Revision)",
+       "document": "1786.pdf",
+       "page": 4,
+       "clause": "4.1.3",
+       "url": "https://archive.org/details/gov.in.is.1786.2008",
+       "evidence": "4.1.3 The steel barshvires for concrete reinforcement",
+       "available": true,
+       "unavailable_reason": "",
+       "source_type": "LOCAL_REFERENCE_DOCUMENT"
+      }
+     },
+     {
+      "claim": "Registry edition on record: 2008 (Third Revision), Amendment 2 (2018)",
+      "kind": "edition",
+      "evidence": {
+       "standard": "IS 1786",
+       "edition": "2008 (Third Revision)",
+       "document": "1786.pdf",
+       "page": 3,
+       "clause": null,
+       "url": "https://archive.org/details/gov.in.is.1786.2008",
+       "evidence": "IS 1786:2008\nIndian Standard\nHIGH STRENGTH DEFORMED\nSTEEL BARS AND WIRES FOR\nCONCRETE REINFORCEMENT —\nSPECIFICATION\n(Fourth Revision)\n1 SCOPE 2 REFERENCES\n*\n1.1 This standard covers the requirements o",
+       "available": true,
+       "unavailable_reason": "",
+       "source_type": "LOCAL_REFERENCE_DOCUMENT"
+      }
+     },
+     {
+      "claim": "BIS certification is mandatory for this product under Steel and Steel Products (Quality Control) Order, 2020/2024 (S.O. 756(E) dated 14-02-2020; S.O. 574(E) 05-02-2024)",
+      "kind": "certification",
+      "evidence": {
+       "standard": "IS 1786",
+       "edition": "2008 (Third Revision)",
+       "document": "",
+       "page": null,
+       "clause": null,
+       "url": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-i-mark-scheme/",
+       "evidence": "",
+       "available": true,
+       "unavailable_reason": "qco_verified_but_document_not_indexed_locally",
+       "source_type": "OFFICIAL_BIS_SOURCE"
+      }
+     }
+    ]
+   }
+  },
+  {
+   "id": "b63e2961a891",
+   "ts": "2026-09-28T11:39:22+05:30",
+   "kind": "recommendation",
+   "query": "PVC insulated electrical cable 1.1kV",
+   "title": "PVC Insulated (Heavy Duty) Electric Cables, Part 1: For Working Voltages up to and Including 1100 V - Specification",
+   "status": "completed",
+   "session_id": "memtest3",
+   "payload": {
+    "selected": "IS 1554 (Part 1)",
+    "match_score": 89,
+    "candidates": [
+     {
+      "code": "IS 1554 (Part 1)",
+      "title": "PVC Insulated (Heavy Duty) Electric Cables, Part 1: For Working Voltages up to and Including 1100 V - Specification",
+      "relevance_score": 0.667,
+      "match_score": 89,
+      "certification": {
+       "mandatory": true,
+       "scheme": "ISI Mark",
+       "note": "",
+       "verification_status": "MANUAL_REVIEW_REQUIRED",
+       "basis": "",
+       "source_url": ""
+      }
+     },
+     {
+      "code": "IS 7098 (Part 1)",
+      "title": "Cross-Linked Polyethylene Insulated PVC Sheathed Cables, Part 1: For Working Voltages up to and Including 1100 V - Specification",
+      "relevance_score": 0.667,
+      "match_score": 89,
+      "certification": {
+       "mandatory": true,
+       "scheme": "ISI Mark",
+       "note": "",
+       "verification_status": "MANUAL_REVIEW_REQUIRED",
+       "basis": "",
+       "source_url": ""
+      }
+     },
+     {
+      "code": "IS 694",
+      "title": "PVC Insulated Cables for Working Voltages up to 1100V - Specification",
+      "relevance_score": 0.5,
+      "match_score": 67,
+      "certification": {
+       "mandatory": true,
+       "scheme": "ISI Mark",
+       "note": "",
+       "verification_status": "VERIFIED",
+       "basis": "Electric Wires, Cables, Appliances and Protection Devices and Accessories (Quality Control) Order, 2003 (S.O. 189(E) dated 17-02-2003 (with subsequent amendments S.O. 165(E) 2004, S.O. 1172(E) 2005, S.O. 512(E) 2009, S.O. 2058(E) 2009, S.O. 2604(E) 2010",
+       "source_url": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-i-mark-scheme/"
+      }
+     },
+     {
+      "code": "IS 5216 (Part 1)",
+      "title": "Guide for Safety Procedures and Practices in Electrical Work",
+      "relevance_score": 0.333,
+      "match_score": 44,
+      "certification": {
+       "mandatory": false,
+       "scheme": "Guidance document",
+       "note": "",
+       "verification_status": "UNVERIFIED",
+       "basis": "",
+       "source_url": ""
+      }
+     }
+    ],
+    "tender_block": "Supply shall conform to IS 1554 (Part 1):1988 (as amended — Reaffirmed 2006) — PVC Insulated (Heavy Duty) Electric Cables, Part 1: For Working Voltages up to and Including 1100 V - Specification. Allied standards to be considered: IS 694. BIS certification is listed as applicable for this product (ISI Mark); the governing notification should be confirmed on the BIS portal before this requirement is finalised.",
+    "evidence": [
+     {
+      "claim": "Requirement matches this standard's scope: PVC Insulated (Heavy Duty) Electric Cables, Part 1: For Working Voltages up to and Including 1100 V - Specification",
+      "kind": "scope",
+      "evidence": {
+       "standard": "IS 1554 (Part 1)",
+       "edition": "1988 (Second Revision)",
+       "document": "1554_1_1988_reff2020.pdf",
+       "page": 4,
+       "clause": "9.1",
+       "url": "https://archive.org/details/gov.in.is.1554.1.1988",
+       "evidence": "9.1 The conductor shall be provided with PVC",
+       "available": true,
+       "unavailable_reason": "",
+       "source_type": "LOCAL_REFERENCE_DOCUMENT"
+      }
+     },
+     {
+      "claim": "Registry edition on record: 1988 (Second Revision), Reaffirmed 2006",
+      "kind": "edition",
+      "evidence": {
+       "standard": "IS 1554 (Part 1)",
+       "edition": "1988 (Second Revision)",
+       "document": "1554_1_1988_reff2020.pdf",
+       "page": null,
+       "clause": null,
+       "url": "https://archive.org/details/gov.in.is.1554.1.1988",
+       "evidence": "",
+       "available": false,
+       "unavailable_reason": "clause_page_not_indexed",
+       "source_type": "LOCAL_REFERENCE_DOCUMENT"
+      }
+     },
+     {
+      "claim": "Curated dataset lists BIS certification for this product, but no government notification backing it was verified - treat as unconfirmed",
+      "kind": "certification",
+      "evidence": {
+       "standard": "IS 1554 (Part 1)",
+       "edition": "1988 (Second Revision)",
+       "document": "",
+       "page": null,
+       "clause": null,
+       "url": "https://archive.org/details/gov.in.is.1554.1.1988",
+       "evidence": "",
+       "available": false,
+       "unavailable_reason": "qco_source_not_verified",
+       "source_type": "UNVERIFIED_SOURCE"
+      }
+     }
+    ]
+   }
+  },
+  {
+   "id": "14a497c5d45f",
+   "ts": "2026-09-28T15:14:25+05:30",
+   "kind": "tender_check",
+   "query": "6 tender document(s)",
+   "title": "Bulk check - 6 file(s)",
+   "status": "completed",
+   "session_id": "c8519c72-15de-44e7-8f0a-69f83cdfdb1a",
+   "payload": {
+    "total": 6,
+    "passing": 1,
+    "overall_risk": "medium",
+    "files": [
+     {
+      "file_name": "tender_06_canteen_water_pump.pdf",
+      "status": "review",
+      "issues": [
+       {
+        "kind": "unknown_standard",
+        "detail": "IS 8034:2018 is not in the covered registry — verify manually or extend the dataset."
+       },
+       {
+        "kind": "unknown_standard",
+        "detail": "IS 9283 is not in the covered registry — verify manually or extend the dataset."
+       },
+       {
+        "kind": "unknown_standard",
+        "detail": "IS 325 is not in the covered registry — verify manually or extend the dataset."
+       }
+      ]
+     },
+     {
+      "file_name": "tender_01_canteen_civil_structure.pdf",
+      "status": "review",
+      "issues": [
+       {
+        "kind": "generic_certification_language",
+        "detail": "The document mentions certification only generically. IS 2062 is mandatory under Steel and Steel Products (Quality Control) Order, 2020 (superseded by QCO 2024, S.O. 574(E) dated 05-02-2024; amendment order 2025 S.O. 5134(E)) — add a product-specific BIS/ISI licence requirement naming the standard."
+       },
+       {
+        "kind": "unknown_standard",
+        "detail": "IS 800:2007 is not in the covered registry — verify manually or extend the dataset."
+       },
+       {
+        "kind": "unknown_standard",
+        "detail": "IS 1608 is not in the covered registry — verify manually or extend the dataset."
+       },
+       {
+        "kind": "generic_certification_language",
+        "detail": "The document mentions certification only generically. IS 269 is mandatory under Cement (Quality Control) Order, 2003 - covers 'any kind of cement' manufactured or sold in India; registry note cites the 2023 Cement QCO which was not located on the BIS page fetched (2023 order may exist via a later notification - unconfirmed) — add a product-specific BIS/ISI licence requirement naming the standard."
+       },
+       {
+        "kind": "unknown_standard",
+        "detail": "IS 12269 is not in the covered registry — verify manually or extend the dataset."
+       }
+      ]
+     },
+     {
+      "file_name": "tender_02_canteen_reinforcement_steel.pdf",
+      "status": "pass",
+      "issues": []
+     },
+     {
+      "file_name": "tender_03_canteen_roofing_sheets.pdf",
+      "status": "review",
+      "issues": [
+       {
+        "kind": "unknown_standard",
+        "detail": "IS 277:2018 is not in the covered registry — verify manually or extend the dataset."
+       },
+       {
+        "kind": "unknown_standard",
+        "detail": "IS 730 is not in the covered registry — verify manually or extend the dataset."
+       },
+       {
+        "kind": "unknown_standard",
+        "detail": "IS 6745 is not in the covered registry — verify manually or extend the dataset."
+       }
+      ]
+     },
+     {
+      "file_name": "tender_04_canteen_water_pipeline.pdf",
+      "status": "review",
+      "issues": [
+       {
+        "kind": "certification_unverified",
+        "detail": "IS 1239 (Part 1) is listed as requiring certification in the curated dataset, but no government notification backing that requirement could be verified — confirm on the BIS portal before relying on it."
+       },
+       {
+        "kind": "certification_unverified",
+        "detail": "IS 1239 (Part 2) is listed as requiring certification in the curated dataset, but no government notification backing that requirement could be verified — confirm on the BIS portal before relying on it."
+       },
+       {
+        "kind": "unknown_standard",
+        "detail": "IS 4736 is not in the covered registry — verify manually or extend the dataset."
+       }
+      ]
+     },
+     {
+      "file_name": "tender_05_canteen_electrical_wiring.pdf",
+      "status": "review",
+      "issues": [
+       {
+        "kind": "unknown_standard",
+        "detail": "IS 5831 is not in the covered registry — verify manually or extend the dataset."
+       },
+       {
+        "kind": "unknown_standard",
+        "detail": "IS 10810 is not in the covered registry — verify manually or extend the dataset."
+       },
+       {
+        "kind": "unknown_standard",
+        "detail": "IS 3961 is not in the covered registry — verify manually or extend the dataset."
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "id": "4eb36d8d089f",
+   "ts": "2026-09-28T15:30:38+05:30",
+   "kind": "recommendation",
+   "query": "Reinforcement bars for concrete works",
+   "title": "High Strength Deformed Steel Bars and Wires for Concrete Reinforcement - Specification",
+   "status": "completed",
+   "session_id": "local",
+   "payload": {
+    "selected": "IS 1786",
+    "match_score": 86,
+    "candidates": [
+     {
+      "code": "IS 1786",
+      "title": "High Strength Deformed Steel Bars and Wires for Concrete Reinforcement - Specification",
+      "relevance_score": 0.86,
+      "match_score": 86,
+      "certification": {
+       "mandatory": true,
+       "scheme": "ISI Mark",
+       "note": "mandatory under Steel and Steel Products QCO",
+       "verification_status": "VERIFIED",
+       "basis": "Steel and Steel Products (Quality Control) Order, 2020/2024 (S.O. 756(E) dated 14-02-2020; S.O. 574(E) 05-02-2024",
+       "source_url": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-i-mark-scheme/"
+      }
+     },
+     {
+      "code": "IS 432 (Part 1)",
+      "title": "Mild Steel and Medium Tensile Steel Bars and Hard-Drawn Steel Wire for Concrete Reinforcement, Part 1: Mild Steel and Medium Tensile Steel Bars",
+      "relevance_score": 0.86,
+      "match_score": 86,
+      "certification": {
+       "mandatory": true,
+       "scheme": "ISI Mark",
+       "note": "",
+       "verification_status": "MANUAL_REVIEW_REQUIRED",
+       "basis": "",
+       "source_url": ""
+      }
+     }
+    ],
+    "tender_block": "The reinforcement bars shall conform to IS 1786:2008 (as amended by Amendment 2 (2018)) — High Strength Deformed Steel Bars and Wires for Concrete Reinforcement - Specification, read with allied standards IS 432 (Part 1) and IS 456. BIS certification is mandatory under the Steel and Steel Products (Quality Control) Order, 2020/2024 (S.O. 756(E) dated 14-02-2020; S.O. 574(E) 05-02-2024), and bidders must furnish a valid ISI Mark licence covering the specified grade/size.",
+    "evidence": [
+     {
+      "claim": "Requirement matches this standard's scope: High Strength Deformed Steel Bars and Wires for Concrete Reinforcement - Specification",
+      "kind": "scope",
+      "evidence": {
+       "standard": "IS 1786",
+       "edition": "2008 (Third Revision)",
+       "document": "1786.pdf",
+       "page": 4,
+       "clause": "4.1.3",
+       "url": "https://archive.org/details/gov.in.is.1786.2008",
+       "evidence": "4.1.3 The steel barshvires for concrete reinforcement",
+       "available": true,
+       "unavailable_reason": "",
+       "source_type": "LOCAL_REFERENCE_DOCUMENT"
+      }
+     },
+     {
+      "claim": "Registry edition on record: 2008 (Third Revision), Amendment 2 (2018)",
+      "kind": "edition",
+      "evidence": {
+       "standard": "IS 1786",
+       "edition": "2008 (Third Revision)",
+       "document": "1786.pdf",
+       "page": 3,
+       "clause": null,
+       "url": "https://archive.org/details/gov.in.is.1786.2008",
+       "evidence": "IS 1786:2008\nIndian Standard\nHIGH STRENGTH DEFORMED\nSTEEL BARS AND WIRES FOR\nCONCRETE REINFORCEMENT —\nSPECIFICATION\n(Fourth Revision)\n1 SCOPE 2 REFERENCES\n*\n1.1 This standard covers the requirements o",
+       "available": true,
+       "unavailable_reason": "",
+       "source_type": "LOCAL_REFERENCE_DOCUMENT"
+      }
+     },
+     {
+      "claim": "BIS certification is mandatory for this product under Steel and Steel Products (Quality Control) Order, 2020/2024 (S.O. 756(E) dated 14-02-2020; S.O. 574(E) 05-02-2024)",
+      "kind": "certification",
+      "evidence": {
+       "standard": "IS 1786",
+       "edition": "2008 (Third Revision)",
+       "document": "",
+       "page": null,
+       "clause": null,
+       "url": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-i-mark-scheme/",
+       "evidence": "",
+       "available": true,
+       "unavailable_reason": "qco_verified_but_document_not_indexed_locally",
+       "source_type": "OFFICIAL_BIS_SOURCE"
+      }
+     }
+    ]
+   }
+  },
+  {
+   "id": "866e0e2da2c2",
+   "ts": "2026-09-28T15:30:54+05:30",
+   "kind": "recommendation",
+   "query": "Reinforcement bars for concrete works",
+   "title": "High Strength Deformed Steel Bars and Wires for Concrete Reinforcement - Specification",
+   "status": "completed",
+   "session_id": "local",
+   "payload": {
+    "selected": "IS 1786",
+    "match_score": 86,
+    "candidates": [
+     {
+      "code": "IS 1786",
+      "title": "High Strength Deformed Steel Bars and Wires for Concrete Reinforcement - Specification",
+      "relevance_score": 0.86,
+      "match_score": 86,
+      "certification": {
+       "mandatory": true,
+       "scheme": "ISI Mark",
+       "note": "mandatory under Steel and Steel Products QCO",
+       "verification_status": "VERIFIED",
+       "basis": "Steel and Steel Products (Quality Control) Order, 2020/2024 (S.O. 756(E) dated 14-02-2020; S.O. 574(E) 05-02-2024",
+       "source_url": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-i-mark-scheme/"
+      }
+     },
+     {
+      "code": "IS 432 (Part 1)",
+      "title": "Mild Steel and Medium Tensile Steel Bars and Hard-Drawn Steel Wire for Concrete Reinforcement, Part 1: Mild Steel and Medium Tensile Steel Bars",
+      "relevance_score": 0.86,
+      "match_score": 86,
+      "certification": {
+       "mandatory": true,
+       "scheme": "ISI Mark",
+       "note": "",
+       "verification_status": "MANUAL_REVIEW_REQUIRED",
+       "basis": "",
+       "source_url": ""
+      }
+     }
+    ],
+    "tender_block": "Reinforcement bars for concrete works shall conform to IS 1786:2008 (Third Revision), High Strength Deformed Steel Bars and Wires for Concrete Reinforcement - Specification, as amended by Amendment 2 (2018), with allied standards IS 432 (Part 1) and IS 456 to be considered. BIS certification under the ISI Mark scheme is mandatory in accordance with the Steel and Steel Products (Quality Control) Order, 2020/2024 (S.O. 756(E) dated 14-02-2020; S.O. 574(E) 05-02-2024). Bidders shall furnish a valid licence covering the specified grade/size.",
+    "evidence": [
+     {
+      "claim": "Requirement matches this standard's scope: High Strength Deformed Steel Bars and Wires for Concrete Reinforcement - Specification",
+      "kind": "scope",
+      "evidence": {
+       "standard": "IS 1786",
+       "edition": "2008 (Third Revision)",
+       "document": "1786.pdf",
+       "page": 4,
+       "clause": "4.1.3",
+       "url": "https://archive.org/details/gov.in.is.1786.2008",
+       "evidence": "4.1.3 The steel barshvires for concrete reinforcement",
+       "available": true,
+       "unavailable_reason": "",
+       "source_type": "LOCAL_REFERENCE_DOCUMENT"
+      }
+     },
+     {
+      "claim": "Registry edition on record: 2008 (Third Revision), Amendment 2 (2018)",
+      "kind": "edition",
+      "evidence": {
+       "standard": "IS 1786",
+       "edition": "2008 (Third Revision)",
+       "document": "1786.pdf",
+       "page": 3,
+       "clause": null,
+       "url": "https://archive.org/details/gov.in.is.1786.2008",
+       "evidence": "IS 1786:2008\nIndian Standard\nHIGH STRENGTH DEFORMED\nSTEEL BARS AND WIRES FOR\nCONCRETE REINFORCEMENT —\nSPECIFICATION\n(Fourth Revision)\n1 SCOPE 2 REFERENCES\n*\n1.1 This standard covers the requirements o",
+       "available": true,
+       "unavailable_reason": "",
+       "source_type": "LOCAL_REFERENCE_DOCUMENT"
+      }
+     },
+     {
+      "claim": "BIS certification is mandatory for this product under Steel and Steel Products (Quality Control) Order, 2020/2024 (S.O. 756(E) dated 14-02-2020; S.O. 574(E) 05-02-2024)",
+      "kind": "certification",
+      "evidence": {
+       "standard": "IS 1786",
+       "edition": "2008 (Third Revision)",
+       "document": "",
+       "page": null,
+       "clause": null,
+       "url": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-i-mark-scheme/",
+       "evidence": "",
+       "available": true,
+       "unavailable_reason": "qco_verified_but_document_not_indexed_locally",
+       "source_type": "OFFICIAL_BIS_SOURCE"
+      }
+     }
+    ]
+   }
+  },
+  {
+   "id": "d271cedc7008",
+   "ts": "2026-09-28T16:05:16+05:30",
+   "kind": "tender_check",
+   "query": "2 tender document(s)",
+   "title": "Bulk check - 2 file(s)",
+   "status": "completed",
+   "session_id": "local",
+   "payload": {
+    "total": 2,
+    "passing": 0,
+    "overall_risk": "high",
+    "files": [
+     {
+      "file_name": "tender.pdf",
+      "status": "review",
+      "issues": [
+       {
+        "kind": "unknown_standard",
+        "detail": "IS 99999 is not in the covered registry — verify manually or extend the dataset.",
+        "standard": "IS 99999",
+        "batch_level": false
+       },
+       {
+        "kind": "outdated_version",
+        "detail": "IS 269:1950 predates the current edition (IS 269, 2015 (Sixth Revision); Amendment 1 (2023)).",
+        "standard": "IS 269:1950",
+        "batch_level": false
+       },
+       {
+        "kind": "missing_certification",
+        "detail": "IS 269 requires BIS certification (mandatory under Cement (Quality Control) Order, 2003 - covers 'any kind of cement' manufactured or sold in India; registry note cites the 2023 Cement QCO which was not located on the BIS page fetched (2023 order may exist via a later notification - unconfirmed)) but the document contains no certification/licence requirement language.",
+        "standard": "IS 269",
+        "batch_level": false
+       },
+       {
+        "kind": "missing_certification",
+        "detail": "IS 1786 requires BIS certification (mandatory under Steel and Steel Products (Quality Control) Order, 2020/2024) but the document contains no certification/licence requirement language.",
+        "standard": "IS 1786",
+        "batch_level": false
+       }
+      ]
+     },
+     {
+      "file_name": "scanned.pdf",
+      "status": "error",
+      "issues": [
+       {
+        "kind": "unparseable",
+        "detail": "No text could be extracted from this document.",
+        "standard": "",
+        "batch_level": true
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "id": "6f3d15957027",
+   "ts": "2026-09-28T17:02:55+05:30",
+   "kind": "recommendation",
+   "query": "Reinforcement bars for concrete works",
+   "title": "High Strength Deformed Steel Bars and Wires for Concrete Reinforcement - Specification",
+   "status": "completed",
+   "session_id": "8e1f9ad8-9e68-41cc-a6fa-67dc9ff1ae0d",
+   "payload": {
+    "selected": "IS 1786",
+    "match_score": 86,
+    "candidates": [
+     {
+      "code": "IS 1786",
+      "title": "High Strength Deformed Steel Bars and Wires for Concrete Reinforcement - Specification",
+      "relevance_score": 0.86,
+      "match_score": 86,
+      "certification": {
+       "mandatory": true,
+       "scheme": "ISI Mark",
+       "note": "mandatory under Steel and Steel Products QCO",
+       "verification_status": "VERIFIED",
+       "basis": "Steel and Steel Products (Quality Control) Order, 2020/2024 (S.O. 756(E) dated 14-02-2020; S.O. 574(E) 05-02-2024",
+       "source_url": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-i-mark-scheme/"
+      }
+     },
+     {
+      "code": "IS 432 (Part 1)",
+      "title": "Mild Steel and Medium Tensile Steel Bars and Hard-Drawn Steel Wire for Concrete Reinforcement, Part 1: Mild Steel and Medium Tensile Steel Bars",
+      "relevance_score": 0.86,
+      "match_score": 86,
+      "certification": {
+       "mandatory": true,
+       "scheme": "ISI Mark",
+       "note": "",
+       "verification_status": "MANUAL_REVIEW_REQUIRED",
+       "basis": "",
+       "source_url": ""
+      }
+     },
+     {
+      "code": "IS 12600",
+      "title": "Low Heat Portland Cement - Specification",
+      "relevance_score": 0.54,
+      "match_score": 54,
+      "certification": {
+       "mandatory": true,
+       "scheme": "ISI Mark",
+       "note": "",
+       "verification_status": "MANUAL_REVIEW_REQUIRED",
+       "basis": "",
+       "source_url": ""
+      }
+     },
+     {
+      "code": "IS 458",
+      "title": "Precast Concrete Pipes (With and Without Reinforcement) - Specification",
+      "relevance_score": 0.52,
+      "match_score": 52,
+      "certification": {
+       "mandatory": true,
+       "scheme": "ISI Mark",
+       "note": "",
+       "verification_status": "MANUAL_REVIEW_REQUIRED",
+       "basis": "",
+       "source_url": ""
+      }
+     }
+    ],
+    "tender_block": "Reinforcement bars for concrete works shall conform to IS 1786:2008 (Third Revision), as amended by Amendment 2 (2018), High Strength Deformed Steel Bars and Wires for Concrete Reinforcement — Specification, with allied standards IS 432 (Part 1) and IS 456 to be considered. BIS certification is mandatory under the Steel and Steel Products (Quality Control) Order, 2020/2024 (S.O. 756(E) dated 14-02-2020; S.O. 574(E) dated 05-02-2024), and the ISI Mark is required. Bidders must furnish a valid licence covering the specified grade/size.",
+    "evidence": [
+     {
+      "claim": "Requirement matches this standard's scope: High Strength Deformed Steel Bars and Wires for Concrete Reinforcement - Specification",
+      "kind": "scope",
+      "evidence": {
+       "standard": "IS 1786",
+       "edition": "2008 (Third Revision)",
+       "document": "1786.pdf",
+       "page": 4,
+       "clause": "4.1.3",
+       "url": "https://archive.org/details/gov.in.is.1786.2008",
+       "evidence": "4.1.3 The steel barshvires for concrete reinforcement",
+       "available": true,
+       "unavailable_reason": "",
+       "source_type": "LOCAL_REFERENCE_DOCUMENT"
+      }
+     },
+     {
+      "claim": "Registry edition on record: 2008 (Third Revision), Amendment 2 (2018)",
+      "kind": "edition",
+      "evidence": {
+       "standard": "IS 1786",
+       "edition": "2008 (Third Revision)",
+       "document": "1786.pdf",
+       "page": 3,
+       "clause": null,
+       "url": "https://archive.org/details/gov.in.is.1786.2008",
+       "evidence": "IS 1786:2008\nIndian Standard\nHIGH STRENGTH DEFORMED\nSTEEL BARS AND WIRES FOR\nCONCRETE REINFORCEMENT —\nSPECIFICATION\n(Fourth Revision)\n1 SCOPE 2 REFERENCES\n*\n1.1 This standard covers the requirements o",
+       "available": true,
+       "unavailable_reason": "",
+       "source_type": "LOCAL_REFERENCE_DOCUMENT"
+      }
+     },
+     {
+      "claim": "BIS certification is mandatory for this product under Steel and Steel Products (Quality Control) Order, 2020/2024 (S.O. 756(E) dated 14-02-2020; S.O. 574(E) 05-02-2024)",
+      "kind": "certification",
+      "evidence": {
+       "standard": "IS 1786",
+       "edition": "2008 (Third Revision)",
+       "document": "",
+       "page": null,
+       "clause": null,
+       "url": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-i-mark-scheme/",
+       "evidence": "",
+       "available": true,
+       "unavailable_reason": "qco_verified_but_document_not_indexed_locally",
+       "source_type": "OFFICIAL_BIS_SOURCE"
+      }
+     }
+    ]
+   }
+  },
+  {
+   "id": "e7690935f4f7",
+   "ts": "2026-09-28T17:11:19+05:30",
+   "kind": "recommendation",
+   "query": "Reinforcement bars for concrete works",
+   "title": "High Strength Deformed Steel Bars and Wires for Concrete Reinforcement - Specification",
+   "status": "completed",
+   "session_id": "8e1f9ad8-9e68-41cc-a6fa-67dc9ff1ae0d",
+   "payload": {
+    "selected": "IS 1786",
+    "match_score": 86,
+    "candidates": [
+     {
+      "code": "IS 1786",
+      "title": "High Strength Deformed Steel Bars and Wires for Concrete Reinforcement - Specification",
+      "relevance_score": 0.86,
+      "match_score": 86,
+      "certification": {
+       "mandatory": true,
+       "scheme": "ISI Mark",
+       "note": "mandatory under Steel and Steel Products QCO",
+       "verification_status": "VERIFIED",
+       "basis": "Steel and Steel Products (Quality Control) Order, 2020/2024 (S.O. 756(E) dated 14-02-2020; S.O. 574(E) 05-02-2024",
+       "source_url": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-i-mark-scheme/"
+      }
+     },
+     {
+      "code": "IS 432 (Part 1)",
+      "title": "Mild Steel and Medium Tensile Steel Bars and Hard-Drawn Steel Wire for Concrete Reinforcement, Part 1: Mild Steel and Medium Tensile Steel Bars",
+      "relevance_score": 0.86,
+      "match_score": 86,
+      "certification": {
+       "mandatory": true,
+       "scheme": "ISI Mark",
+       "note": "",
+       "verification_status": "MANUAL_REVIEW_REQUIRED",
+       "basis": "",
+       "source_url": ""
+      }
+     },
+     {
+      "code": "IS 12600",
+      "title": "Low Heat Portland Cement - Specification",
+      "relevance_score": 0.54,
+      "match_score": 54,
+      "certification": {
+       "mandatory": true,
+       "scheme": "ISI Mark",
+       "note": "",
+       "verification_status": "MANUAL_REVIEW_REQUIRED",
+       "basis": "",
+       "source_url": ""
+      }
+     },
+     {
+      "code": "IS 458",
+      "title": "Precast Concrete Pipes (With and Without Reinforcement) - Specification",
+      "relevance_score": 0.52,
+      "match_score": 52,
+      "certification": {
+       "mandatory": true,
+       "scheme": "ISI Mark",
+       "note": "",
+       "verification_status": "MANUAL_REVIEW_REQUIRED",
+       "basis": "",
+       "source_url": ""
+      }
+     }
+    ],
+    "tender_block": "We need to produce a concise tender specification clause, 2-4 sentences, keeping all standards, editions, amendments, certification requirements exactly as given. No inventing. The base draft has: IS 1786:2008 (as amended — Amendment 2 (2018)) — High Strength Deformed Steel Bars and Wires for Concrete Reinforcement - Specification. Allied standards: IS 432 (Part 1), IS 456. BIS certification mandatory under Steel and Steel Products (Quality Control) Order, 2020/2024 (S.O. 756(E) dated 14-02-2020; S.O. 574(E) 05-02-2024). Bidders must furnish valid licence covering specified grade/size.\n\nWe need to polish into a single flowing tender clause. Keep exact codes, editions, amendments, certification. Do not invent. Reply with only specification text (2-4 sentences). So we need to combine into 2-4 sentences. Ensure all details are included. The base draft is already 4 sentences? Let's count: 1) Supply shall conform... 2) Allied standards... 3) BIS certification... 4) Bidders must furnish... That's 4 sentences. We can polish into a single flowing clause, maybe 3 sentences. But must keep all info. We can combine some.\n\nWe should not change the standard references. The phrase \"as amended — Amendment 2 (2018)\" is given. Keep exactly. \"IS 1786:2008 (as amended — Amendment 2 (2018)) — High Strength Deformed Steel Bars and Wires for Concrete Reinforcement - Specification.\" That's fine. Allied standards: IS 432 (Part 1), IS 456. BIS certification mandatory under Steel and Steel Products (Quality Control) Order, 2020/2024 (S.O. 756(E) dated 14-02-2020; S.O. 574(E) 05-02-2024). Bidders must furnish a valid licence covering the specified grade/size.\n\nWe can write: \"Reinforcement bars for concrete works shall conform to IS 1786:2008 (as amended — Amendment 2 (2018)) — High Strength Deformed Steel Bars and Wires for Concrete Reinforcement - Specification, with allied standards IS 432 (Part 1) and IS 456 to be considered. BIS certification is mandatory under the Steel and Steel Products (Quality Control) Order, 2020/2024 (S.O. 756(E) dated 14-02-2020; S.O. 574(E) 05-02-2024), and bidders must furnish a valid ISI Mark licence covering the specified grade/size.\"\n\nThat's 2 sentences. It includes all. But note: \"ISI Mark\" is in the certification scheme. The base draft says \"BIS certification is mandatory under Steel and Steel Products (Quality Control) Order, 2020/2024...\" and \"Bidders must furnish a valid licence covering the specified grade/size.\" The certification scheme is ISI Mark. Should we mention ISI Mark? The base draft doesn't explicitly say ISI Mark in the text, but the context says Certification: {'mandatory': True, 'scheme': 'ISI Mark', ...}. The base draft says \"BIS certification is mandatory\" and \"valid licence\". It doesn't say ISI Mark. But we are to keep every standard code, edition, amendment and certification requirement EXACTLY as given. The certification requirement given is: mandatory: True, scheme: ISI Mark, note: mandatory under Steel and Steel Products QCO. The base draft says \"BIS certification is mandatory under Steel and Steel Products (Quality Control) Order, 2020/2024...\" That's consistent. But does it mention ISI Mark? Not explicitly. However, the instruction says \"Keep every standard code, edition, amendment and certification requirement EXACTLY as given.\" So we should include the scheme \"ISI Mark\" if it's part of the certification requirement. The base draft says \"Bidders must furnish a valid licence covering the specified grade/size.\" That implies ISI Mark licence. But to be exact, we could say \"valid ISI Mark licence\". The context says scheme: ISI Mark. So we can incorporate that. But the base draft doesn't have \"ISI Mark\" explicitly. However, the instruction says \"Keep every standard code, edition, amendment and certification requirement EXACTLY as given.\" The certification requirement includes scheme: ISI Mark. So we should include it. But we must not invent. It's given. So we can say \"BIS certification (ISI Mark) is mandatory...\" That is accurate. But the base draft says \"BIS certification is mandatory under Steel and Steel Products (Quality Control) Order, 2020/2024...\" So we can add \"(ISI Mark)\" without changing meaning. But careful: \"BIS certification\" and \"ISI Mark\" are related. The scheme is ISI Mark. So it's fine.\n\nAlso, the base draft says \"Allied standards to be considered: IS 432 (Part 1), IS 456.\" We can keep that.\n\nWe need to produce only the specification text. So final answer should be just the clause.\n\nLet's craft:\n\n\"Reinforcement bars for concrete works shall conform to IS 1786:2008 (as amended — Amendment 2 (2018)) — High Strength Deformed Steel Bars and Wires for Concrete Reinforcement - Specification, with allied standards IS 432 (Part 1) and IS 456 to be considered. BIS certification (ISI Mark) is mandatory under the Steel and Steel Products (Quality Control) Order, 2020/2024 (S.O. 756(E) dated 14-02",
+    "evidence": [
+     {
+      "claim": "Requirement matches this standard's scope: High Strength Deformed Steel Bars and Wires for Concrete Reinforcement - Specification",
+      "kind": "scope",
+      "evidence": {
+       "standard": "IS 1786",
+       "edition": "2008 (Third Revision)",
+       "document": "1786.pdf",
+       "page": 4,
+       "clause": "4.1.3",
+       "url": "https://archive.org/details/gov.in.is.1786.2008",
+       "evidence": "4.1.3 The steel barshvires for concrete reinforcement",
+       "available": true,
+       "unavailable_reason": "",
+       "source_type": "LOCAL_REFERENCE_DOCUMENT"
+      }
+     },
+     {
+      "claim": "Registry edition on record: 2008 (Third Revision), Amendment 2 (2018)",
+      "kind": "edition",
+      "evidence": {
+       "standard": "IS 1786",
+       "edition": "2008 (Third Revision)",
+       "document": "1786.pdf",
+       "page": 3,
+       "clause": null,
+       "url": "https://archive.org/details/gov.in.is.1786.2008",
+       "evidence": "IS 1786:2008\nIndian Standard\nHIGH STRENGTH DEFORMED\nSTEEL BARS AND WIRES FOR\nCONCRETE REINFORCEMENT —\nSPECIFICATION\n(Fourth Revision)\n1 SCOPE 2 REFERENCES\n*\n1.1 This standard covers the requirements o",
+       "available": true,
+       "unavailable_reason": "",
+       "source_type": "LOCAL_REFERENCE_DOCUMENT"
+      }
+     },
+     {
+      "claim": "BIS certification is mandatory for this product under Steel and Steel Products (Quality Control) Order, 2020/2024 (S.O. 756(E) dated 14-02-2020; S.O. 574(E) 05-02-2024)",
+      "kind": "certification",
+      "evidence": {
+       "standard": "IS 1786",
+       "edition": "2008 (Third Revision)",
+       "document": "",
+       "page": null,
+       "clause": null,
+       "url": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-i-mark-scheme/",
+       "evidence": "",
+       "available": true,
+       "unavailable_reason": "qco_verified_but_document_not_indexed_locally",
+       "source_type": "OFFICIAL_BIS_SOURCE"
+      }
+     }
+    ]
+   }
+  },
+  {
+   "id": "586da4120977",
+   "ts": "2026-09-28T17:18:35+05:30",
+   "kind": "recommendation",
+   "query": "Reinforcement bars for concrete works",
+   "title": "High Strength Deformed Steel Bars and Wires for Concrete Reinforcement - Specification",
+   "status": "completed",
+   "session_id": "8e1f9ad8-9e68-41cc-a6fa-67dc9ff1ae0d",
+   "payload": {
+    "selected": "IS 1786",
+    "match_score": 86,
+    "candidates": [
+     {
+      "code": "IS 1786",
+      "title": "High Strength Deformed Steel Bars and Wires for Concrete Reinforcement - Specification",
+      "relevance_score": 0.86,
+      "match_score": 86,
+      "certification": {
+       "mandatory": true,
+       "scheme": "ISI Mark",
+       "note": "mandatory under Steel and Steel Products QCO",
+       "verification_status": "VERIFIED",
+       "basis": "Steel and Steel Products (Quality Control) Order, 2020/2024 (S.O. 756(E) dated 14-02-2020; S.O. 574(E) 05-02-2024",
+       "source_url": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-i-mark-scheme/"
+      }
+     },
+     {
+      "code": "IS 432 (Part 1)",
+      "title": "Mild Steel and Medium Tensile Steel Bars and Hard-Drawn Steel Wire for Concrete Reinforcement, Part 1: Mild Steel and Medium Tensile Steel Bars",
+      "relevance_score": 0.86,
+      "match_score": 86,
+      "certification": {
+       "mandatory": true,
+       "scheme": "ISI Mark",
+       "note": "",
+       "verification_status": "MANUAL_REVIEW_REQUIRED",
+       "basis": "",
+       "source_url": ""
+      }
+     },
+     {
+      "code": "IS 12600",
+      "title": "Low Heat Portland Cement - Specification",
+      "relevance_score": 0.54,
+      "match_score": 54,
+      "certification": {
+       "mandatory": true,
+       "scheme": "ISI Mark",
+       "note": "",
+       "verification_status": "MANUAL_REVIEW_REQUIRED",
+       "basis": "",
+       "source_url": ""
+      }
+     },
+     {
+      "code": "IS 458",
+      "title": "Precast Concrete Pipes (With and Without Reinforcement) - Specification",
+      "relevance_score": 0.52,
+      "match_score": 52,
+      "certification": {
+       "mandatory": true,
+       "scheme": "ISI Mark",
+       "note": "",
+       "verification_status": "MANUAL_REVIEW_REQUIRED",
+       "basis": "",
+       "source_url": ""
+      }
+     }
+    ],
+    "tender_block": "Reinforcement bars for concrete works shall conform to IS 1786:2008 (Third Revision), as amended by Amendment 2 (2018), High Strength Deformed Steel Bars and Wires for Concrete Reinforcement — Specification, with allied standards IS 432 (Part 1) and IS 456 to be considered. BIS certification is mandatory under the Steel and Steel Products (Quality Control) Order, 2020/2024 (S.O. 756(E) dated 14-02-2020; S.O. 574(E) dated 05-02-2024), and the ISI Mark shall apply. Bidders must furnish a valid licence covering the specified grade/size.",
+    "evidence": [
+     {
+      "claim": "Requirement matches this standard's scope: High Strength Deformed Steel Bars and Wires for Concrete Reinforcement - Specification",
+      "kind": "scope",
+      "evidence": {
+       "standard": "IS 1786",
+       "edition": "2008 (Third Revision)",
+       "document": "1786.pdf",
+       "page": 4,
+       "clause": "4.1.3",
+       "url": "https://archive.org/details/gov.in.is.1786.2008",
+       "evidence": "4.1.3 The steel barshvires for concrete reinforcement",
+       "available": true,
+       "unavailable_reason": "",
+       "source_type": "LOCAL_REFERENCE_DOCUMENT"
+      }
+     },
+     {
+      "claim": "Registry edition on record: 2008 (Third Revision), Amendment 2 (2018)",
+      "kind": "edition",
+      "evidence": {
+       "standard": "IS 1786",
+       "edition": "2008 (Third Revision)",
+       "document": "1786.pdf",
+       "page": 3,
+       "clause": null,
+       "url": "https://archive.org/details/gov.in.is.1786.2008",
+       "evidence": "IS 1786:2008\nIndian Standard\nHIGH STRENGTH DEFORMED\nSTEEL BARS AND WIRES FOR\nCONCRETE REINFORCEMENT —\nSPECIFICATION\n(Fourth Revision)\n1 SCOPE 2 REFERENCES\n*\n1.1 This standard covers the requirements o",
+       "available": true,
+       "unavailable_reason": "",
+       "source_type": "LOCAL_REFERENCE_DOCUMENT"
+      }
+     },
+     {
+      "claim": "BIS certification is mandatory for this product under Steel and Steel Products (Quality Control) Order, 2020/2024 (S.O. 756(E) dated 14-02-2020; S.O. 574(E) 05-02-2024)",
+      "kind": "certification",
+      "evidence": {
+       "standard": "IS 1786",
+       "edition": "2008 (Third Revision)",
+       "document": "",
+       "page": null,
+       "clause": null,
+       "url": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-i-mark-scheme/",
+       "evidence": "",
+       "available": true,
+       "unavailable_reason": "qco_verified_but_document_not_indexed_locally",
+       "source_type": "OFFICIAL_BIS_SOURCE"
+      }
+     }
+    ]
+   }
+  }
+ ],
+ "watchlist": {},
+ "notifications": []
+}

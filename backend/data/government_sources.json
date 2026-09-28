@@ -1,0 +1,156 @@
+{
+  "meta": {
+    "audit_date": "2026-09-27",
+    "audit_method": "Government-related fields (QCO/mandatory status, editions) checked against official BIS / Government of India web sources. Editions cross-checked against BIS product manuals and public BIS document mirrors. Values that could not be established from an official source are marked UNVERIFIED / MANUAL_REVIEW_REQUIRED - never silently promoted to verified.",
+    "primary_sources": [
+      "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-i-mark-scheme/ (official BIS Scheme-1 / ISI compulsory-certification list with QCO notifications)",
+      "https://www.bis.gov.in/product-certification/product-specific-guidelines/ (official BIS product manuals, edition years)",
+      "https://www.bis.gov.in/wp-content/uploads/2021/04/List-of-Products-Under-Simplified-Procedure.pdf (official BIS voluntary/simplified-procedure list)",
+      "https://archive.org/details/gov.in.is.* (public mirror of official BIS standard documents, used for edition/revision identification only)"
+    ],
+    "warning": "This file is a point-in-time audit snapshot. QCOs are amended frequently. Re-verify before real procurement use."
+  },
+  "standards": {
+    "IS 2062": {
+      "verification_status": "VERIFIED",
+      "version_status": "GOVERNMENT_VERIFIED",
+      "gov_edition": "IS 2062:2011 (listed on the official BIS Scheme-1 compulsory-certification list)",
+      "qco": {
+        "status": "VERIFIED",
+        "name": "Steel and Steel Products (Quality Control) Order, 2020 (superseded by QCO 2024, S.O. 574(E) dated 05-02-2024; amendment order 2025 S.O. 5134(E))",
+        "notification": "S.O. 756(E) dated 14-02-2020; later S.O. 574(E) 05-02-2024",
+        "source_url": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-i-mark-scheme/"
+      },
+      "certification_basis": "VERIFIED",
+      "notes": [
+        "Edition 2011 confirmed: 'IS 2062:2011' appears verbatim on the official BIS compulsory-certification list.",
+        "Registry amendment 'Amendment 2' remains from curated data - amendment number not independently confirmed."
+      ],
+      "verified_at": "2026-09-27"
+    },
+    "IS 1786": {
+      "verification_status": "VERIFIED",
+      "version_status": "GOVERNMENT_VERIFIED",
+      "gov_edition": "IS 1786:2008 (listed on the official BIS Scheme-1 compulsory-certification list)",
+      "qco": {
+        "status": "VERIFIED",
+        "name": "Steel and Steel Products (Quality Control) Order, 2020/2024",
+        "notification": "S.O. 756(E) dated 14-02-2020; S.O. 574(E) 05-02-2024",
+        "source_url": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-i-mark-scheme/"
+      },
+      "certification_basis": "VERIFIED",
+      "notes": ["'IS 1786:2008' appears verbatim on the official BIS compulsory-certification list."],
+      "verified_at": "2026-09-27"
+    },
+    "IS 269": {
+      "verification_status": "PARTIALLY_VERIFIED",
+      "version_status": "PARTIALLY_VERIFIED",
+      "gov_edition": "IS 269:2015 consistent with public BIS records; QCO list cites 'IS 269' without edition",
+      "qco": {
+        "status": "VERIFIED",
+        "name": "Cement (Quality Control) Order, 2003 - covers 'any kind of cement' manufactured or sold in India; registry note cites the 2023 Cement QCO which was not located on the BIS page fetched (2023 order may exist via a later notification - unconfirmed)",
+        "notification": "S.O. 191(E) dated 17-02-2003",
+        "source_url": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-i-mark-scheme/"
+      },
+      "certification_basis": "VERIFIED",
+      "notes": [
+        "Mandatory status is QCO-backed via the official BIS Scheme-1 list.",
+        "Registry note says 'Cement Quality Control Order 2023'; the fetched official page lists the 2003 order (S.O. 191(E)). The 2023 order reference needs manual confirmation."
+      ],
+      "verified_at": "2026-09-27"
+    },
+    "IS 1489 (Part 1)": {
+      "verification_status": "PARTIALLY_VERIFIED",
+      "version_status": "PARTIALLY_VERIFIED",
+      "gov_edition": "IS 1489 (Part 1):2015 consistent with public BIS records",
+      "qco": {
+        "status": "VERIFIED",
+        "name": "Cement (Quality Control) Order, 2003",
+        "notification": "S.O. 191(E) dated 17-02-2003",
+        "source_url": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-i-mark-scheme/"
+      },
+      "certification_basis": "VERIFIED",
+      "notes": ["PPC (fly ash based) is listed as item 3 on the official BIS Scheme-1 cement list."],
+      "verified_at": "2026-09-27"
+    },
+    "IS 1489 (Part 2)": {
+      "verification_status": "PARTIALLY_VERIFIED",
+      "version_status": "CORRECTED_DURING_AUDIT",
+      "gov_edition": "IS 1489 (Part 2):2015 (Fourth Revision) - public BIS document mirror; registry previously said 1991",
+      "qco": {
+        "status": "VERIFIED",
+        "name": "Cement (Quality Control) Order, 2003",
+        "notification": "S.O. 191(E) dated 17-02-2003",
+        "source_url": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-i-mark-scheme/"
+      },
+      "certification_basis": "VERIFIED",
+      "notes": [
+        "DISCREPANCY FIXED: registry edition '1991' predated the current '2015 (Fourth Revision)'. Old value preserved in government_verification_report.json.",
+        "Registry amendment 'Reaffirmed 2020' belonged to the 1991-edition lineage and was removed pending confirmation of amendments to the 2015 edition."
+      ],
+      "verified_at": "2026-09-27"
+    },
+    "IS 694": {
+      "verification_status": "PARTIALLY_VERIFIED",
+      "version_status": "PARTIALLY_VERIFIED",
+      "gov_edition": "IS 694:2010 consistent with public BIS records; QCO list cites 'IS 694' without edition",
+      "qco": {
+        "status": "VERIFIED",
+        "name": "Electric Wires, Cables, Appliances and Protection Devices and Accessories (Quality Control) Order, 2003",
+        "notification": "S.O. 189(E) dated 17-02-2003 (with subsequent amendments S.O. 165(E) 2004, S.O. 1172(E) 2005, S.O. 512(E) 2009, S.O. 2058(E) 2009, S.O. 2604(E) 2010)",
+        "source_url": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-i-mark-scheme/"
+      },
+      "certification_basis": "VERIFIED",
+      "notes": ["PVC insulated cables (item 29 on the official Scheme-1 list)."],
+      "verified_at": "2026-09-27"
+    },
+    "IS 383": {
+      "verification_status": "MANUAL_REVIEW_REQUIRED",
+      "version_status": "PARTIALLY_VERIFIED",
+      "gov_edition": "IS 383:2016 confirmed via official BIS product manuals",
+      "qco": {
+        "status": "NOT_FOUND_ON_COMPULSORY_LIST",
+        "name": "No Quality Control Order covering aggregates was found on the official BIS compulsory-certification list",
+        "notification": "",
+        "source_url": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-i-mark-scheme/"
+      },
+      "certification_basis": "NOT_ESTABLISHED",
+      "notes": [
+        "DISCREPANCY: registry claims mandatory certification, but IS 383 appears on BIS's official SIMPLIFIED-PROCEDURE (voluntary) list and no QCO covering aggregates was found. Aggregates are a raw material, not a marked product.",
+        "Application must not present IS 383 certification as mandatory until a QCO/notification is produced."
+      ],
+      "verified_at": "2026-09-27"
+    },
+    "IS 1077": {
+      "verification_status": "MANUAL_REVIEW_REQUIRED",
+      "version_status": "PARTIALLY_VERIFIED",
+      "gov_edition": "IS 1077:1992 (Fifth Revision) + Amendment 1 (2008) consistent with public BIS records; no newer edition located",
+      "qco": {
+        "status": "UNVERIFIED",
+        "name": "No QCO covering burnt clay bricks was located in official sources during this audit",
+        "notification": "",
+        "source_url": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-i-mark-scheme/"
+      },
+      "certification_basis": "NOT_ESTABLISHED",
+      "notes": ["Registry mandatory claim has no located QCO backing - treat as MANUAL_REVIEW_REQUIRED."],
+      "verified_at": "2026-09-27"
+    },
+    "IS 4984": {
+      "verification_status": "PARTIALLY_VERIFIED",
+      "version_status": "CORRECTED_DURING_AUDIT",
+      "gov_edition": "IS 4984:2016 (Fifth Revision) per official BIS book/product-manual listings; registry previously said 'Fourth Revision' with an HDPE-only title",
+      "qco": {
+        "status": "UNVERIFIED",
+        "name": "HDPE/PE pipes appear in BIS product manuals and ERL annual-report context referencing QCO implementation, but no QCO notification covering IS 4984 was located on the official compulsory-certification list during this audit",
+        "notification": "",
+        "source_url": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-i-mark-scheme/"
+      },
+      "certification_basis": "UNVERIFIED",
+      "notes": [
+        "DISCREPANCY FIXED: registry title/revision updated to the official BIS listing ('Polyethylene Pipes for Water Supply - Specification', Fifth Revision).",
+        "Mandatory status cannot be confirmed or refuted from the fetched official page - MANUAL_REVIEW_REQUIRED before claiming either way."
+      ],
+      "verified_at": "2026-09-27"
+    }
+  }
+}

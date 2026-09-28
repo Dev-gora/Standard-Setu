@@ -1,0 +1,10 @@
+{
+ "CM/L-8700123456": {
+  "status": "unable_to_verify",
+  "detail": "The licence number appears on the BIS portal, but full status fields (validity, product) are behind an interactive form that this tool does not scrape. Verify the details at https://www.manakonline.in/MANAK/ApplicationLicenceRelatedrpt",
+  "product": "",
+  "validity": "",
+  "last_verified": "2026-09-26T15:09:48+05:30",
+  "cached": false
+ }
+}
